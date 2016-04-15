@@ -1,0 +1,22 @@
+---
+# Layouts must stay in HTML
+---
+{% include header.html %}
+
+<main role="main" class="page-content m-scene">
+	<div class="scene_element scene_element--fadein">
+		<article>
+			<h1 class="title">{{ page.title }}</h1>
+			{{ content }}
+		</article>
+		<aside>
+			{% include secondarymenu.html %}
+			{% include posts.html %}
+			{% include mailchimp.html %}
+		</aside>
+	</div>
+</main>
+	
+{% include searchmodal.html %}
+{% include footer.html %}
+{% include closure.html %}

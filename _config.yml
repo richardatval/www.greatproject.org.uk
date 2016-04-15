@@ -1,0 +1,75 @@
+sass:
+  style: compressed
+
+#  Build settings
+markdown: kramdown
+
+gems:
+  - jekyll-coffeescript
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+   
+#  Site settings
+title: The Great Project
+description: An example site
+url: http://www.aylestoneallotments.co.uk
+baseurl: 
+email: newsletter@aylestoneallotments.co.uk
+
+#  Social media settings
+
+facebook: ""
+twitter : ""
+facebook: ""
+permalink: pretty
+
+analyticstracking: " "
+
+paginate: 5
+paginate_path: "/news/:num/"
+
+#  Timezone
+timezone: Europe/London
+
+#  Custom Collections
+
+collections:
+  events:
+    output: true
+
+#  Configuration for prose.io online editor
+prose:
+  ignore: ['_includes','assets','_assets','_layouts','_plugins','/.jekyll-metadata','feed.xml','bin','js','css','_sass','_config.yml']
+  media: img
+  metadata:
+    _posts:
+      - name: "date"
+        field:
+          label: "Date"
+          element: "text"
+          value: CURRENT_DATETIME
+      - name: "published"
+        field:
+          label: "Published"
+          element: "checkbox"
+          value: false
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "default"
+    _events:
+      - name: "date"
+        field:
+          label: "Date"
+          element: "text"
+          value: 2012-12-22 14:07
+      - name: "published"
+        field:
+          label: "Published"
+          element: "checkbox"
+          value: false
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "default"
