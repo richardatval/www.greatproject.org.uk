@@ -1,19 +1,41 @@
 <footer class="footer" role="contentinfo">
-<div class="footer-inner">
-	<ul>{% for nav in site.data.nav %}
-		{% if nav.subcategories == null %}
-		<li>
-			<a href="{{ site.baseurl }}{{ nav.href }}">{{ nav.title }}</a>
-		</li>
-		{% endif %}
-		{% endfor %}
-	</ul>
-	<div class="footer-secondary-links">
-		<ul>
-			<li>
-				<a href="{{site.baseurl}}/privacy">Privacy &amp; Cookies</a>
-			</li>
-		</ul>
+	<div class="container">
+		<div class="footer-links footer-links-content">
+			<h4>Content</h4>
+			<ul>{% for nav in site.data.nav %}
+				{% if nav.subcategories == null %}
+				<li>
+					<a href="{{ site.baseurl }}{{ nav.href }}">{{ nav.title }}</a>
+				</li>
+				{% endif %}
+				{% endfor %}
+			</ul>
+		</div>
+		<div class="footer-links footer-links-legal">
+			<h4>Legal</h4>
+			<ul>{% for nav in site.data.nav %}
+				{% if nav.subcategories == null %}
+				<li>
+					<a href="{{ site.baseurl }}{{ nav.href }}">{{ nav.title }}</a>
+				</li>
+				{% endif %}
+				{% endfor %}
+			</ul>
+		</div>
+		<div class="footer-links footer-links-social">
+			<h4>Follow us</h4>
+			<ul>{% for nav in site.data.nav %}
+				{% if nav.subcategories == null %}
+				<li>
+					<a href="{{ site.baseurl }}{{ nav.href }}">{{ nav.title }}</a>
+				</li>
+				{% endif %}
+				{% endfor %}
+			</ul>
+		</div>
+		<div class="footer-copyright">
+			<p>Children's Workforce Matters is a project of Voluntary Action Leicester. Voluntary Action Leicester is a registered charity (No. 509300) Company Limited by Guarantee (No. 1357513) Registered in England and Wales.</p>
+		</div>
+  														   
 	</div>
-</div>
 </footer>

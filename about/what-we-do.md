@@ -1,6 +1,6 @@
 ---
 title: What to Expect and How to Join
-layout: subpage
+layout: default
 summary: True to our roots, we are a friendly and diverse group at AALGS.
 ---
 

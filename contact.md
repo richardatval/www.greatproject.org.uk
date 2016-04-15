@@ -1,12 +1,10 @@
 ---
 title: Contact
 layout: contact
-map-marker-title: "Aylestone Allotments"
-map-marker-content: "53 Copinger Rd, Leicester, LE2 6LF"
-map-coordinates: "52.6070036,-1.1352628"
+summary: Contact the Great Project
 ---
 
-To contact AALGS, please use the form below to contact the Secretary:
+To contact the Great Project please use the form below.
 
 {% comment %}Forms provided by formspree.io{% endcomment %}
 
@@ -16,4 +14,4 @@ To contact AALGS, please use the form below to contact the Secretary:
   <label>Subject</label> <input type="text" name="subject">
   <label>Message</label> <textarea name="message" cols="40" rows="5"></textarea>
   <input type="submit" value="Send Message">
-</form> 
+</form>

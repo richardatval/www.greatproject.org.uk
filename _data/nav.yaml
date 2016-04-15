@@ -12,6 +12,8 @@
   subcategories:
     - subtitle: "What we do"
       subhref: "/about/what-we-do"
+    - subtitle: "Our Team"
+      subhref: "/about/our-team"
 - title: "News"
   href: "/news"
 - title: "Events"

@@ -2,13 +2,14 @@
 layout: hero
 title: Welcome to the Great Project
 summary: Helping families move toward a bright future.
-"hero-copy": Helping families move toward a bright future.
-"hero-image-url": ""
-"hero-image-color": "#98b9eb"
-published: true
+hero-image-url: "img/hero-home.jpg"
+hero-copy: "Testing 123 testing 123"
+hero-link-url: "test"
+hero-link-copy: "Test"
 ---
 
+Helping families move toward a bright future.
 
-# Welcome to the Great Project
+# Test 
 
-Helping families move toward a bright futuret
+## Test

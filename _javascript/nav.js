@@ -5,6 +5,7 @@ $(document).ready(function() {
   menuToggle.on('click', function(e) {
     e.preventDefault();
     $('#js-navigation-menu').slideToggle(function(){
+      $('#js-mobile-menu').toggleClass('active');
       if($('#js-navigation-menu').is(':hidden')) {
         $('#js-navigation-menu').removeAttr('style');
       }
