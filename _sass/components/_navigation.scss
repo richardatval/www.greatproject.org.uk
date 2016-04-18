@@ -21,6 +21,8 @@ $navigation-font-weight: bold;
 $horizontal-bar-mode: $large-screen;
 $logo-image-height: 26px;
 $logo-image-width: 268px;
+$small-screen: em($gutter + $logo-image-width + $navigation-height + $navigation-height + 15px);
+
 
 header.navigation {
 	background-color: $navigation-background;
@@ -199,12 +201,13 @@ header.navigation {
 
 		> a {
 			@include media($horizontal-bar-mode) {
-				padding-right: $navigation-submenu-padding + 0.5em;
+				margin-right: 0;
+				padding-right: $navigation-submenu-padding + 1em;
 				&:after {
 					font-family: $helvetica;
 					content: '\25BE';
 					color: $navigation-color;
-					@include position(absolute, -0.2em 0  auto auto);
+					@include position(absolute, -0.2em 0.5em  auto auto);
 				}
 			}
 			
@@ -312,7 +315,7 @@ header.navigation {
 				width: 100%;
 				border-top: 1px solid darken($navigation-background, 11%);
 				
-				&:hover {
+				&:hover, &:focus {
 					background: darken($navigation-background, 10%);
 					@include media($horizontal-bar-mode) {
 						background-color: $navigation-nav-button-background-hover;
@@ -380,26 +383,37 @@ header.navigation {
 	}
 }
 
-.logo {
-	margin-left: $gutter;
-	background-image:url('../logo.png');
-	background-repeat: no-repeat;
-	background-position: center center;
-	text-indent: -99999px;
-	float: left;
-	width: $logo-image-width;
+a.logo {
+	margin-left: 10px;
+	margin-top: ($navigation-height - $logo-image-height) / 2; 
+	color: #fff;
 	max-width: 70%;
-	height: auto;
-	height: $logo-image-height;
-	margin-top: ($navigation-height - $logo-image-height) / 2;
-	max-height: $navigation-height;
+	font-weight: bold;
+	font-size: 0.96em;
+	float: left;
+	@include media ($small-screen) {
+		margin-left: $gutter;
+		.svg & {
+			background-image:url('../img/logo.svg');
+			background-repeat: no-repeat;
+			background-position: center center;
+			text-indent: -99999px;
+			width: $logo-image-width;
+			height: auto;
+			height: $logo-image-height;
+			max-height: $navigation-height;
+		}
+	}
 }
  
 .navigation-menu-button {
 	background-image: url('../img/navigation-button.png');
 	background-repeat: no-repeat;
 	background-position: center center;
-	width: $navigation-height;
+	width: 40px;
+	@include media ($small-screen) {
+		width: $navigation-height;
+	}
 	text-indent: -99999px;
 	&.active {
 		background-color: $navigation-nav-button-background-hover;	
@@ -416,7 +430,10 @@ header.navigation {
 	background-image: url('../img/search-button.png');
 	background-repeat: no-repeat;
 	background-position: center center;
-	width: $navigation-height;
+	width: 40px;
+	@include media ($small-screen) {
+		width: $navigation-height;
+	}
 	text-indent: -99999px;
 	display: block;
 	float: right;
@@ -425,7 +442,7 @@ header.navigation {
 	padding-right: 1em;
 	text-decoration: none;
 	text-transform: uppercase;
-	&:hover, &.active {
+	&:hover, &:focus, &.active {
 		background-color: $navigation-nav-button-background-hover;
 	}
 }

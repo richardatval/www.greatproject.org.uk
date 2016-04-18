@@ -12,12 +12,13 @@ gems:
   - jekyll-feed
    
 #  Site settings
-title: The Great Project
+title: Children's Workforce Matters
 description: An example site
 url: http://www.aylestoneallotments.co.uk
 baseurl: 
 email: newsletter@aylestoneallotments.co.uk
 github: aylestoneallotments/www.aylestoneallotments.co.uk
+logo_path: /logo.png
 
 #  Social media settings
 

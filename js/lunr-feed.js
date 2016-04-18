@@ -58,6 +58,28 @@ var store = [{% for post in site.posts %}{
 ]
 // builds search
 $(document).ready(function() {
+	var getUrlParameter = function getUrlParameter(sParam) {
+	    var sPageURL = decodeURIComponent(window.location.search.substring(1)),
+	        sURLVariables = sPageURL.split('&'),
+	        sParameterName,
+	        i;
+
+	    for (i = 0; i < sURLVariables.length; i++) {
+	        sParameterName = sURLVariables[i].split('=');
+
+	        if (sParameterName[0] === sParam) {
+	            var returnvalue = sParameterName[1] === undefined ? true : sParameterName[1];
+				return returnvalue.replace("+"," ")
+	        }
+	    }
+	};
+	var initialSearch = getUrlParameter('keys');
+	if (initialSearch != undefined) {
+	$('input#search').val(function() {
+	return initialSearch;
+	});
+	}
+
   $('input#search').on('keyup', function () {
     var resultdiv = $('#results');
     // Get query
@@ -80,4 +102,6 @@ $(document).ready(function() {
 		resultdiv.append(searchitem);
 	}
 });
+
+	$('input#search').triggerHandler('keyup');
 });

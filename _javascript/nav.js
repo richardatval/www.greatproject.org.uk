@@ -11,4 +11,14 @@ $(document).ready(function() {
       }
     });
   });
+
+	$('.search-tools').removeClass("show");
+	$('#js-search-toggle').attr({
+		href: "javascript:void(0)"	});
+	$('#js-search-toggle').addClass("show");
+	$('#js-search-toggle').click(function() {
+		$(".search-tools").toggle();
+		$('#js-search-toggle').toggleClass('active');
+	});
+	
 });
