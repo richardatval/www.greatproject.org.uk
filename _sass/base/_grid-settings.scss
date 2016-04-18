@@ -24,7 +24,7 @@ $grid-columns: 4;
 // In this instance we want the max width to be 1088px and on Line 6 of style.sass we have reset the base
 // font size to 13px so the first value would be 1088 and the second 13
 // ex. em(1088, 13)
-$font-size: 16px;
+$font-size: 18px;
 $max-width-px: 1088px;
 $max-width: em($max-width-px, $font-size);
 

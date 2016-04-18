@@ -71,23 +71,6 @@ header.navigation {
 			color: $navigation-color-hover;
 		}
 	}
-	
-	label.label-modal-trigger {
-		position: absolute;
-		top: 0;
-		right: $navigation-height;
-		display: block;
-		cursor: pointer;
-	}
-  
-	a.modal-trigger {
-		display: block;
-		background-repeat: no-repeat;
-		background-position: center center;
-		text-indent: -99999px;
-		height: $navigation-height;
-		width: $navigation-height;
-	}
   
 	// Nav menu
 
@@ -137,7 +120,7 @@ header.navigation {
 		z-index: 9999;
 		
 		@include media($horizontal-bar-mode)  {
-			padding: ((em($navigation-height)-$base-font-size)/2) 0 ((em($navigation-height)-$base-font-size)/2) 0;
+			padding: (($navigation-height - $base-font-size)/2) 0 (($navigation-height - $base-font-size)/2) 0;
 			&:focus,
 			&:hover {
 				background: $navigation-nav-button-background-hover;
@@ -259,7 +242,7 @@ header.navigation {
 		@include media($horizontal-bar-mode) {
 			left: 0;
 			position: absolute;
-			top: em($navigation-height)-0.2em;
+			top: $navigation-height -2px;
 		}
 
 		.submenu {
@@ -364,14 +347,14 @@ header.navigation {
 		width: 97%;
 		padding: 0.67em 0;
 		position: relative;
-		font-size: 0.9em;
+		font-size: 0.7em;
 		
 		form.search-form {
 			padding: 0 20px 0 15px;
 			input[type="submit"] {
 				width: 20%;
 				position: absolute;
-				top: 0.67em;
+				top: 0.5em;
 				padding: 0.67em 0;
 				right: 0;
 			}

@@ -20,6 +20,10 @@ email: newsletter@aylestoneallotments.co.uk
 github: aylestoneallotments/www.aylestoneallotments.co.uk
 logo_path: /logo.png
 
+# Calendar settings
+
+google_calendar_api_key: AIzaSyBxhlbQb37k7vv711uMLcSWkw-TMNfVeIY
+
 #  Social media settings
 
 facebook: ""
