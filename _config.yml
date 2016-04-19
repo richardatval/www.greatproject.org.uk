@@ -12,23 +12,20 @@ gems:
   - jekyll-feed
    
 #  Site settings
-title: Children's Workforce Matters
-description: An example site
-url: http://www.aylestoneallotments.co.uk
+title: The Great Project
+description: Helping families
+url: http://www.greatleicester.org.uk
 baseurl: 
-email: newsletter@aylestoneallotments.co.uk
+email: info@greatleicester.org.uk
 github: aylestoneallotments/www.aylestoneallotments.co.uk
 logo_path: /logo.png
 
-# Calendar settings
-
-google_calendar_api_key: AIzaSyBxhlbQb37k7vv711uMLcSWkw-TMNfVeIY
-
 #  Social media settings
 
-facebook: ""
-twitter : ""
-facebook: ""
+facebook: "voluntaryactionleics"
+twitter : "valonline"
+instagram: ""
+
 permalink: pretty
 
 analyticstracking: " "
@@ -38,12 +35,6 @@ paginate_path: "/news/:num/"
 
 #  Timezone
 timezone: Europe/London
-
-#  Custom Collections
-
-collections:
-  events:
-    output: true
 
 #  Configuration for prose.io online editor
 prose:
@@ -56,21 +47,6 @@ prose:
           label: "Date"
           element: "text"
           value: CURRENT_DATETIME
-      - name: "published"
-        field:
-          label: "Published"
-          element: "checkbox"
-          value: false
-      - name: "layout"
-        field:
-          element: "hidden"
-          value: "default"
-    _events:
-      - name: "date"
-        field:
-          label: "Date"
-          element: "text"
-          value: 2012-12-22 14:07
       - name: "published"
         field:
           label: "Published"

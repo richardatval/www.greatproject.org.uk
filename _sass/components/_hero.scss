@@ -92,4 +92,15 @@ background-image: url('../images/optimized/hero-early-help.jpg');
 }
 }
 
+&.purple {
+.hero-inner {
+	h1, h1 a {
+		color: $purple;
+	}
+	.button {
+		@extend button.purple;
+	}
+}
+}
+
 }

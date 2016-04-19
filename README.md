@@ -24,8 +24,9 @@ In addition the Bourbon framework by thoughbot is used to enable quick developme
   Semantic grid for Sass and Bourbon
 * [Bitters](http://bitters.bourbon.io):
   Scaffold styles, variables and structure for Bourbon projects.
+* [Fullcalendar](http://fullcalendar.io/):
+  FullCalendar is a drag-n-drop jQuery plugin for displaying events on a full-sized calendar.
 
-We also recommend [Refills](http://refills.bourbon.io/) for prepackaged interface patterns.
 
 ## Getting Started
 

@@ -216,8 +216,7 @@ NOTE: use percentage font sizes or else old IE chokes
 .fc-state-down,
 .fc-state-active,
 .fc-state-disabled {
-	color: #333333;
-	background-color: #e6e6e6;
+	@extend button:disabled;
 }
 
 .fc-state-hover {
@@ -1110,4 +1109,11 @@ be a descendant of the grid when it is being dragged.
 	border-width: 5px 6px 5px 0;
 	border-top-color: transparent;
 	border-bottom-color: transparent;
+}
+
+.calendar-fallback {
+	display: none;
+	.no-js & {
+		display: block;
+	}
 }

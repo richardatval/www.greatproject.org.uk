@@ -50,6 +50,16 @@ button, a.button {
   }
   }
   
+  &.purple {
+  background-color: $purple;
+  &:hover,
+  &:focus {
+    background-color: darken($purple, 15%);
+    color: #fff;
+	text-decoration: none;
+  }
+  }
+  
 }
 
 a.button:link, a.button:visited,  {

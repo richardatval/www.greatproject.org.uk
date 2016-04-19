@@ -410,6 +410,9 @@ a.logo {
 }
 
 .navigation-search-button {
+	.no-js & {
+		display: none;
+	}
 	background-image: url('../img/search-button.png');
 	background-repeat: no-repeat;
 	background-position: center center;

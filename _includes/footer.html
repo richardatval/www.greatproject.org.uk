@@ -2,35 +2,28 @@
 	<div class="container">
 		<div class="footer-links footer-links-content">
 			<h4>Content</h4>
-			<ul>{% for nav in site.data.nav %}
-				{% if nav.subcategories == null %}
+			<ul>{% for nav in site.data.footer-content-links %}
 				<li>
 					<a href="{{ site.baseurl }}{{ nav.href }}">{{ nav.title }}</a>
 				</li>
-				{% endif %}
 				{% endfor %}
 			</ul>
 		</div>
 		<div class="footer-links footer-links-legal">
 			<h4>Legal</h4>
-			<ul>{% for nav in site.data.nav %}
-				{% if nav.subcategories == null %}
+			<ul>{% for nav in site.data.footer-legal-links %}
 				<li>
 					<a href="{{ site.baseurl }}{{ nav.href }}">{{ nav.title }}</a>
 				</li>
-				{% endif %}
 				{% endfor %}
 			</ul>
 		</div>
 		<div class="footer-links footer-links-social">
 			<h4>Follow us</h4>
-			<ul>{% for nav in site.data.nav %}
-				{% if nav.subcategories == null %}
-				<li>
-					<a href="{{ site.baseurl }}{{ nav.href }}">{{ nav.title }}</a>
-				</li>
-				{% endif %}
-				{% endfor %}
+			<ul>
+				{% if site.twitter != "" %}<li><a href="http://www.twitter.com/{{ site.twitter }}">@{{ site.twitter }}</a></li>{% endif %}
+				{% if site.facebook != "" %}<li><a href="http://www.facebook.com/{{ site.facebook }}">{{ site.facebook }}</a></li>{% endif %}
+				{% if site.instagram != "" %}<li><a href="http://www.instagram.com/{{ site.instagram }}">{{ site.instagram }}</a></li>{% endif %}
 			</ul>
 		</div>
 		<div class="footer-copyright">

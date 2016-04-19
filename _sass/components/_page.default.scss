@@ -6,4 +6,12 @@ h1.title {
 
 article {
 	padding: $gutter;
+	ol {
+		padding-left: $gutter;
+		list-style: decimal;
+		li {
+			padding-left: 0.5em;
+		}
+	}
+	
 }

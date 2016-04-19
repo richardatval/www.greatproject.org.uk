@@ -15,7 +15,7 @@
 		<div class="navigation-wrapper">
 			<a href="{{ site.baseurl }}/" class="logo"><img src="{{ site.logo_path }}" alt="{{ site.title }}" data-pin-nopin="true"></a>
 			<a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">MENU</a>
-			<a href="/search" class="navigation-search-button show" id="js-search-toggle">Search</a>
+			<a href="/search" class="navigation-search-button" id="js-search-toggle">Search</a>
 			<nav role="navigation">
 				<ul id="js-navigation-menu" class="navigation-menu show">
 					{% for nav in site.data.nav %}
@@ -26,7 +26,7 @@
 					</ul>
 				</div>
 				<div class="search-tools-wrapper">
-					<div class="search-tools show">
+					<div class="search-tools">
 						<div class="search-bar">
 							<form class="search-form" action="/search/" id="search-form" accept-charset="UTF-8" name="search-form">
 								<div>
