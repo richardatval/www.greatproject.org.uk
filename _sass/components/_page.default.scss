@@ -6,9 +6,16 @@ h1.title {
 
 article {
 	padding: $gutter;
+	ul {
+		padding-left: $gutter;
+		@extend %default-ul;
+		li {
+			padding-left: 0.5em;
+		}
+	}
 	ol {
 		padding-left: $gutter;
-		list-style: decimal;
+		@extend %default-ol;
 		li {
 			padding-left: 0.5em;
 		}

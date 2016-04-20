@@ -3,7 +3,7 @@
 ---
 {% include header.html %}
 
-<main role="main" class="page-content m-scene one-sidebar sidebar-second">
+<main role="main" class="page-content m-scene no-sidebars">
 	<div  class="scene_element scene_element--fadein">
 		<div class="container">
 			<h1 class="title">{{ page.title }}</h1>
@@ -11,15 +11,7 @@
 				<article>
 					{{ content }}
 				</article>
-				<footer>
-				{% include eventbrite.html eid= page.eid %}
-			</footer>
 			</section>
-			<aside id="sidebar-second">
-				{% include events.html %}
-				{% include posts.html %}
-				{% include mailchimp.html %}
-			</aside>
 		</div>
 	</div>
 </main>

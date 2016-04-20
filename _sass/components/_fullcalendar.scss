@@ -1111,9 +1111,19 @@ be a descendant of the grid when it is being dragged.
 	border-bottom-color: transparent;
 }
 
+#calendar {
+	  animation-duration: 0.25s;
+	  transition-timing-function: ease-in;
+	  animation-fill-mode: both;
+	  animation-name: fadeIn;
+}
+
 .calendar-fallback {
-	display: none;
+	.js & {
+			display: none;
+	}
 	.no-js & {
+		animation-name: fadeIn;
 		display: block;
 	}
 }

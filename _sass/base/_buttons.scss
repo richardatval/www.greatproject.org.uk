@@ -32,9 +32,13 @@ button, a.button {
   
   &.white {
   color: $brand-primary;
+  &:link, &:visited {
+    color: $brand-primary;
+  }
   background-color: #fff;
   &:hover,
   &:focus {
+	  color: $brand-primary;
     background-color: darken(#fff, 15%);
 	text-decoration: none;
   }

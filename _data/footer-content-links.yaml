@@ -7,18 +7,9 @@
 #     - subtitle: "title of second level item"
 #       subhref: "relative link of second level item"
 
-- title: "About"
-  href: "#"
-  subcategories:
-    - subtitle: "What we do"
-      subhref: "/about/what-we-do"
-    - subtitle: "Our Team"
-      subhref: "/about/our-team"
 - title: "News"
   href: "/news"
 - title: "Events"
   href: "/events"
-- title: "Monkey"
-  href: "/monkey"
 - title: "Contact"
   href: "/contact"
