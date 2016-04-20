@@ -2,6 +2,7 @@
 title: Search
 layout: default
 summary: Search site for content.
+sitemap: false
 ---
 
 <div class="content" id="content">

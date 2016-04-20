@@ -46,4 +46,4 @@ sudo npm install uglify-js -g
 	
 Then use it to compress your files…
 
-uglifyjs _javascript/* -o js/application.js
+echo "$(cat js/_forjekyllcompile/opening.js ; uglifyjs js/_foruglification/*; cat js/_forjekyllcompile/lunrfeed.js js/_forjekyllcompile/calendar.js)" > js/application.js
