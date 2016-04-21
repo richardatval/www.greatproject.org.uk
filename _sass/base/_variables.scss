@@ -30,6 +30,15 @@ $pink: #D84A8D;
 $yellow: yellow;
 $purple: #9E4380;
 
+// Name Colour Keys - used for automatically generating coloured elements. Only include required elements.
+$colors: (
+blue: $blue,
+turqoise: $turquoise,
+green: $green,
+pink: $pink,
+purple: $purple
+);
+
 // Brand Colours
 
 $brand-primary: $turquoise;

@@ -6,7 +6,7 @@
   $footer-disclaimer-color: desaturate(darken($footer-background, 40%), 50%);
   background: $footer-background;
   padding-top: $gutter*2;
-
+  
   .footer-links {
 	  padding: $gutter;
       @include media($mobile) {
@@ -40,7 +40,7 @@
 
     &:focus,
     &:hover {
-      color: transparentize($footer-color, 0);
+      color: darken($footer-color, 20%);
     }
   }
 

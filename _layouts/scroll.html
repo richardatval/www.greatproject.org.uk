@@ -11,7 +11,7 @@
 					<aside id="sidebar-first">
 						<div id="scroll-on-page-top">
 							{% for scrollheading in page.scrollheadings %}
-							<a class="scroll-on-page-link" href="#{{ scrollheading['title'] | replace: ' ', '-' | replace: ' ', '-'  | replace: "'", '' | replace: '"', '' | downcase  }}">{{ scrollheading['title']}}</a>
+							<a class="scroll-on-page-link" href="#{% unless scrollheading['id'] %}{{ scrollheading['title'] | replace: ' ', '-' | replace: ' ', '-'  | replace: "'", '' | replace: '"', '' }}{% else %}{{ scrollheading['id'] }}{% endunless %}">{{ scrollheading['title']}}</a>
 							{% endfor %}
 						</div>
 					</aside>

@@ -44,28 +44,20 @@ button, a.button {
   }
   }
   
-  &.pink {
-  background-color: $pink;
-  &:hover,
-  &:focus {
-    background-color: darken($pink, 15%);
-    color: #fff;
-	text-decoration: none;
-  }
-  }
   
-  &.purple {
-  background-color: $purple;
-  &:hover,
-  &:focus {
-    background-color: darken($purple, 15%);
-    color: #fff;
-	text-decoration: none;
+  @each $name, $color in $colors {
+	&.#{"" + $name} {
+	    background-color: $color;
+	    &:hover,
+	    &:focus {
+	      background-color: darken($color, 15%);
+	      color: #fff;
+	  	text-decoration: none;
+	    }
+	}
   }
-  }
-  
 }
-
+ 
 a.button:link, a.button:visited,  {
 	color: #fff;
 }

@@ -25,7 +25,6 @@ index.add({
   id: {{count}}
 });{% endif %}
 {% assign count = count | plus: 1 %}{% endfor %}
-console.log( jQuery.type(index) );
 // builds reference data
 var store = [{% for post in site.posts %}{
   {% if post.title != null %}

@@ -15,4 +15,4 @@ As a community, we tend to congregate around the Seed Hut where we operate a sma
 We hold a variety of social events and competitions throughout the year, as well as taster events for those who are interested in taking a look around the site.
 
 
-{% include calltoaction.html title="Find out more" description="Find out more about our offer." buttonurl="/contact" buttontext="Contact us" %}
+{% include box.html title="Find out more" text="Find out more about our offer." buttonurl="/contact" buttontext="Contact us" class="box-purple" %}

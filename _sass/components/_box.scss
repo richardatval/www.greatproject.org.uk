@@ -16,6 +16,9 @@
 	color: #fff;
 	background: $brand-primary;
 	border: 1px solid darken($brand-primary, 5%);
+	input {
+		color: $base-font-color;
+	}
 	h3 {
 		color: #fff;
 	}
@@ -24,5 +27,21 @@
 	} 
 	a.button {
 		@extend a.button.white
+	}
+}
+
+@each $name, $color in $colors {
+	.box-#{"" + $name} {
+		background: lighten($color,35%);
+		border: 1px solid lighten($color,25%);
+		h2, h3 {
+			color: $color;
+		}
+		input[type="submit"] {
+			@extend button.#{"" + $name}
+		} 
+		a.button {
+			@extend a.button.#{"" + $name}
+		}
 	}
 }
