@@ -6,7 +6,7 @@ $hero-background-bottom: #20392B;
 $hero-color: $base-font-color;
 $hero-background-color: #B6E0F1;
 $gradient-angle: 10deg;
-$hero-image: '../images/optimized/hero-home.jpg';
+$hero-image: '#{"" + $image-directory}/hero-home.jpg';
 @include background(url($hero-image));
 background-position: center top ;
 background-repeat: no-repeat;
@@ -14,7 +14,7 @@ background-color: $hero-background-color;
 background-size: auto 100%;
 
 .page-early-help-training & {
-	background-image: url('../images/optimized/hero-early-help.jpg');
+	background-image: url('#{"" + $image-directory}/hero-early-help.jpg');
 }
 
 .hero-inner {

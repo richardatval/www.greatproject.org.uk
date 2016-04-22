@@ -1,4 +1,18 @@
+var ratio = 0.6;
+var calendarbreakpoint = 600;
+if ($(window).width() > calendarbreakpoint){
+ratio = 1.35;
+};
 $('#calendar').fullCalendar({
+    aspectRatio: ratio,
+    windowResize: function(view) {
+		if ($(window).width() < calendarbreakpoint){
+			$('#calendar').fullCalendar('option', 'aspectRatio', 0.75);
+		}
+		else {
+			$('#calendar').fullCalendar('option', 'aspectRatio', 1.35);
+		}
+    },
 buttonText: {
    today:    'Today',
 },

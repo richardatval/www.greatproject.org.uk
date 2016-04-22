@@ -1,11 +1,11 @@
 @import "../neat/neat-helpers";
 
-// Neat Breakpoints
-$medium-screen: em(640);
-$large-screen: em(860);
+// Bourbon grid display. Comment out to remove display.
+$visual-grid: false;
+$visual-grid-color: #eeeeee;
 
-$medium-screen-up: new-breakpoint(min-width $medium-screen 4);
-$large-screen-up: new-breakpoint(min-width $large-screen 8);
+// Set to false if you'd like to remove the responsiveness.
+$responsive: true;
 
 // Setup the column, grid, and gutter amounts.
 $column: 60px;
@@ -24,7 +24,7 @@ $max-width: em($max-width-px, $font-size);
 // Define your breakpoints.
 $mobile: new-breakpoint(min-width em(320px, $font-size) 4);
 $tablet: new-breakpoint(min-width em(720px, $font-size) 8);
-$desktop: new-breakpoint(min-width em(960px, $font-size) 15);
+$desktop: new-breakpoint(min-width em(960px, $font-size) 12);
 
 // Import grid to be used (Bourbon Neat).
 // We load this after we provide our overrides: https://github.com/thoughtbot/neat#changing-the-defaults

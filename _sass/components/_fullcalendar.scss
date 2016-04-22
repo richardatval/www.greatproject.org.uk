@@ -479,9 +479,10 @@ temporary rendered events).
 /* Scrolling Container
 --------------------------------------------------------------------------------------------------*/
 
-.fc-scroller { /* this class goes on elements for guaranteed vertical scrollbars */
+ .fc-scroller { /* this class goes on elements for guaranteed vertical scrollbars */
 	overflow-y: scroll;
 	overflow-x: hidden;
+	z-index: 20000;
 }
 
 .fc-scroller > * { /* we expect an immediate inner element */
