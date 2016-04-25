@@ -1,12 +1,12 @@
 ---
 ---
 
-{% include_relative _source/moment.min.js %}
-{% include_relative _source/fullcalendar.min.js %}
-{% include_relative _source/jquery.jqgoogleforms.min.js %}
-{% include_relative _source/jquery.smoothState.min.js %}
-{% include_relative _source/lunr.min.js %}
-{% include_relative _source/modernizr.js %}
-{% include_relative _source/scripts.js %}
-{% include_relative _source/lunrfeed.js %}
-{% include_relative _source/calendar.js %}
+{% include_relative _source/vendor/moment.min.js %}
+{% include_relative _source/vendor/fullcalendar.min.js %}
+{% include_relative _source/custom/jquery.jqgoogleforms.min.js %}
+{% include_relative _source/vendor/jquery.smoothState.min.js %}
+{% include_relative _source/vendor/lunr.min.js %}
+{% include_relative _source/custom/modernizr.js %}
+{% include_relative _source/custom/scripts.js %}
+{% include_relative _source/custom/lunrfeed.js %}
+{% include_relative _source/custom/calendar.js %}

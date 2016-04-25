@@ -11,7 +11,7 @@
   @font-face {
     font-family: $font-family;
     font-style: $style;
-    Monserrat: $weight;
+    font-weight: $weight;
 
     src: font-source-declaration(
       $font-family,
