@@ -3,12 +3,12 @@
 ---
 @charset "utf-8";
 
-@import "bower_components/normalize-scss/normalize";
+@import "../_includes/bower_components/normalize-scss/normalize";
 
 //Base
 
-@import "bower_components/bourbon/app/assets/stylesheets/bourbon";
-@import "bower_components/neat/app/assets/stylesheets/neat";
+@import "../_includes/bower_components/bourbon/app/assets/stylesheets/bourbon";
+@import "../_includes/bower_components/neat/app/assets/stylesheets/neat";
 @import "base/base";
 @import "base/typography";
 @import "global";

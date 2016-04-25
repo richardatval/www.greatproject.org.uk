@@ -22,7 +22,7 @@ In addition the Bourbon framework by Thoughbot is used to enable faster developm
 
 ## Getting Started
 
-Install dependencies
+Install dependencies.
 ```
 bundle install
 ```

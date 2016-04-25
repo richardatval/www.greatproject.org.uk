@@ -1,12 +1,12 @@
 ---
 ---
 
-{% include_relative _source/vendor/moment.min.js %}
-{% include_relative _source/vendor/fullcalendar.min.js %}
-{% include_relative _source/custom/jquery.jqgoogleforms.min.js %}
-{% include_relative _source/vendor/jquery.smoothState.min.js %}
-{% include_relative _source/vendor/lunr.min.js %}
-{% include_relative _source/custom/modernizr.js %}
-{% include_relative _source/custom/scripts.js %}
-{% include_relative _source/custom/lunrfeed.js %}
-{% include_relative _source/custom/calendar.js %}
+{% include bower_components/moment/min/moment.min.js %}
+{% include bower_components/fullcalendar/dist/fullcalendar.min.js %}
+{% include js/jquery.jqgoogleforms.min.js %}
+{% include bower_components/smoothstate/jquery.smoothState.min.js %}
+{% include bower_components/lunr.js/lunr.min.js %}
+{% include js/modernizr.js %}
+{% include js/scripts.js %}
+{% include js/lunrfeed.js %}
+{% include js/calendar.js %}

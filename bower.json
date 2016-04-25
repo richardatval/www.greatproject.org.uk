@@ -18,6 +18,9 @@
     "bourbon": "~4.2.7",
     "neat": "~1.7.4",
     "normalize-css": "~4.1.1",
-    "normalize-scss": "~3.0.3"
+    "normalize-scss": "~3.0.3",
+    "fullcalendar": "~2.7.0",
+    "lunr.js": "~0.7.0",
+    "smoothstate": "~0.7.2"
   }
 }

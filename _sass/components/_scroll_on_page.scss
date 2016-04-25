@@ -59,7 +59,7 @@
 
 		@include media($desktop) {
 			// Span this div 2 columns wide.
-			@include span-columns(5);
+			@include span-columns(4);
 			@include shift(0);
 		}
 	}
@@ -80,7 +80,7 @@
 
 		// Span this div 7 columns wide.
 		@include media($desktop) {
-			@include span-columns(10);
+			@include span-columns(8);
 			@include shift(0);
 		}
 	}
