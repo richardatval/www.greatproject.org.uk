@@ -1128,3 +1128,8 @@ be a descendant of the grid when it is being dragged.
 		display: block;
 	}
 }
+
+.fc-event {
+	border: 1px solid lighten($brand-primary, 10%);
+	background: lighten($brand-primary, 30%);
+}
