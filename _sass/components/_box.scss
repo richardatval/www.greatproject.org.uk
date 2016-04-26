@@ -32,8 +32,8 @@
 
 @each $name, $color in $colors {
 	.box-#{"" + $name} {
-		background: lighten($color,35%);
-		border: 1px solid lighten($color,25%);
+		background: lighten($color,40%);
+		border: 1px solid lighten($color,30%);
 		h2, h3 {
 			color: $color;
 		}

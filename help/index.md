@@ -4,24 +4,34 @@ sitemap: false
 scrollheadings:
   - title: "1. Overview"
     id: "overview"
-  - title: "2. How the site works"
-    id: "how-the-site-works"
-  - title: "3. How to edit a post"
-    id: "how-to-edit-a-post"
+  - title: "2. How to edit a page"
+    id: "how-to-edit-a-page"
+  - title: "3. How to create a new post"
+    id: "how-to-create-a-new-post"
 ---
 
 # Help
 
 ## 1. Overview
 
-Welcome to a simple introduction to how to edit this site.
+Welcome to the {{ site.title }} help system.
 
-## 2. How the site works
+## 2. How to edit a page or post
 
-This site is basically a collection of text files and images which 'talk to each other'.
+The {{ site.title }} website is basically a collection of text files and images which 'talk to each other'.
 
 A program called Jekyll takes these text files and builds them into a website. So for the most part all editing is simply a case of editing these files.
 
-## 3. How to edit a post
+## 3. How to create a new post
 
-## 4. Components
+You can begin editing the site by visiting the admin pages:
+
+[{{ site.url }}/admin]({{ site.url }}/admin)
+
+This will redirect you the editor.
+
+## 4. Changing site layouts
+
+## 5. Events
+
+## 6. Includes
