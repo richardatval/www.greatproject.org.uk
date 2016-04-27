@@ -120,14 +120,11 @@ header.navigation {
 		z-index: 9999;
 		
 		@include media($horizontal-bar-mode)  {
-			padding: (($navigation-height - $base-font-size)/2) 0 (($navigation-height - $base-font-size)/2) 0;
+			padding: (($navigation-height - $base-line-height-px)/2) 0 (($navigation-height - $base-line-height-px)/2) 0;
 			&:focus,
 			&:hover {
 				background: $navigation-nav-button-background-hover;
 			}
-		}
-
-		@include media ($horizontal-bar-mode) {
 			border-top: none;
 			background: transparent;
 			display: inline;
@@ -171,7 +168,10 @@ header.navigation {
 
 	li.more.nav-link {
 		padding-right: 0;
-
+		@include media($horizontal-bar-mode) {
+			padding: (($navigation-height - $base-line-height-px)) 0 (($navigation-height - $base-line-height-px)) 0;
+		}
+		
 		> ul > li:first-child a  {
 			@include media($horizontal-bar-mode) {
 				padding-top: 1em;

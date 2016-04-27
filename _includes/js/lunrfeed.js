@@ -2,55 +2,43 @@
 var index = lunr(function () {
   this.field('title')
   this.field('content', {boost: 10})
-  this.field('category')
   this.ref('id')
 });
 {% assign count = 0 %}{% for post in site.posts %}
   {% if post.title != null %}
 index.add({
   title: {{post.title | jsonify}},
-  category: {{post.category | jsonify}},
   content: {{post.content | strip_html | jsonify}},
-  tags: {{post.tags | jsonify}},
   id: {{count}}
-});{% endif %}
-{% assign count = count | plus: 1 %}{% endfor %}
+});{% assign count = count | plus: 1 %}{% endif %}
+{% endfor %}
 {% for page in site.pages %}
   {% if page.title != null %}
 index.add({
   title: {{page.title | jsonify}},
-  category: {{page.category | jsonify}},
   summary: {{page.summary | jsonify}},
-  tags: {{page.tags | jsonify}},
   id: {{count}}
-});{% endif %}
-{% assign count = count | plus: 1 %}{% endfor %}
+});{% assign count = count | plus: 1 %}{% endif %}
+{% endfor %}
 // builds reference data
-var store = [{% for post in site.posts %}{
-  {% if post.title != null %}
+var store = [{% for post in site.posts %}
+  {% if post.title != null %}{
   "title": {{post.title | jsonify}},
   "link": {{ site.baseurl | | append: post.url | jsonify }},
   "date": {{ post.date | date: '%-d %B %Y' | jsonify }},
-  "category": {{ post.category | jsonify }},
-   {% if post.summary != null %} 
-   "summary": {{post.summary | jsonify }},
-   {% else %}
-   "summary": {{ post.content | strip_html | truncatewords: 20 | jsonify }},
-   {% endif %}
-   {% endif %}
-}{% unless forloop.last %},{% endunless %}{% endfor %},
-{% for page in site.pages %}{
-  {% if page.title != null %}
+  {% if post.summary != null %}"summary": {{post.summary | jsonify }},{% else %}"summary": {{ post.content | strip_html | truncatewords: 20 | jsonify }},
+   {% endif %}},{% endif %}{% endfor %}
+{% for page in site.pages %}
+  {% if page.title != null %}{
   "title": {{page.title | jsonify}},
   "link": {{ site.baseurl | | append: page.url | jsonify }},
-  "category": {{ page.category | jsonify }},
   {% if page.summary != null %} 
   "summary": {{page.summary | jsonify }},
   {% else %}
   "summary": {{ page.content | strip_html | truncatewords: 20 | jsonify }},
+  {% endif %}}{% unless forloop.last %},{% endunless %}
   {% endif %}
-  {% endif %}
-}{% unless forloop.last %},{% endunless %}{% endfor %}
+{% endfor %}
 ]
 // builds search
 $(document).ready(function() {

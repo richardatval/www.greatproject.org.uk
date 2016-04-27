@@ -12,6 +12,7 @@ $base-font-size: 18px;
 // Line height
 $base-line-height: 1.7;
 $heading-line-height: 1.2;
+$base-line-height-px: $base-line-height * $base-font-size;
 
 // Other Sizes
 $base-border-radius: 3px;

@@ -13,9 +13,11 @@ summary: Latest news from the Aylestone Allotment Society.
 	{% else %}
 	{{ post.summary }}
 	{% endif %}
+	<a href="{{ site.baseurl }}{{ post.url }}">read more</a>
   </div>
 </div>
 {% endfor %}
+{% if paginator.total_pages > 1 %}
 <div class="pagination">
   <ul>
   {% if paginator.previous_page %}
@@ -31,3 +33,4 @@ summary: Latest news from the Aylestone Allotment Society.
   {% endif %}
   </ul>
 </div>
+{% endif %}
