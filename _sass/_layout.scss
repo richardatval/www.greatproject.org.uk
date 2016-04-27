@@ -55,7 +55,7 @@
 
     @include media($tablet) {
       @include span-columns(5);
-      @include shift(5);
+      @include shift(3);
     }
 
     @include media($desktop) {

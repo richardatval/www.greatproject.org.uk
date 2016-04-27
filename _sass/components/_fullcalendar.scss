@@ -1131,5 +1131,5 @@ be a descendant of the grid when it is being dragged.
 
 .fc-event {
 	border: 1px solid lighten($brand-primary, 10%);
-	background: lighten($brand-primary, 30%);
+	background: desaturate(lighten($brand-primary, 40%), 20%);
 }
