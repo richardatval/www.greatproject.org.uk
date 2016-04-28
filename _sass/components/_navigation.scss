@@ -21,8 +21,8 @@ $navigation-font-weight: bold;
 $horizontal-bar-mode: $large-screen;
 $logo-image-height: 20px;
 $logo-image-width: 250px;
-$small-screen: em($gutter + $logo-image-width + $navigation-height + $navigation-height + 15px);
-
+$small-screen: em($gutter + $logo-image-width + $navigation-height + $navigation-height);
+$tiny-screen: em(320px);
 
 header.navigation {
 	background-color: $navigation-background;
@@ -310,7 +310,7 @@ header.navigation {
 						content: "";
 						padding-left: 0;
 					}
-					border-top: none;
+					border-color: $navigation-nav-button-background-hover;
 					border-bottom: none;
 					background-color: $navigation-nav-button-background-hover;
 					padding-left: $navigation-submenu-padding;
@@ -375,16 +375,22 @@ a.logo {
 	background-repeat: no-repeat;
 	background-position: center center;
 	text-indent: -99999px;
-	width: $logo-image-width;
+	width: 210px;
 	height: $logo-image-height;
-		@include media ($small-screen) {
-			margin-left: $gutter;
-		}
-	max-height: $navigation-height;
+	width: 210px;
+	background-image:url('#{"" + $image-directory}/logo-tiny.png');
+	.svg & {
+		background-image:url('#{"" + $image-directory}/logo-tiny.svg');
+	}
+	@include media ($small-screen) {
+		width: $logo-image-width;
+		margin-left: $gutter;
+		max-height: $navigation-height;
 		.svg & {
 			background-image:url('#{"" + $image-directory}/logo.svg');
 		}
-			background-image:url('#{"" + $image-directory}/logo.png');
+		background-image:url('#{"" + $image-directory}/logo.png');
+	}
 }
 
 .navigation-menu-button {
