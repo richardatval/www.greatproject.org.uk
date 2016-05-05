@@ -10,6 +10,8 @@ In addition the Bourbon framework by Thoughbot is used to enable faster developm
 
 ## Includes
 
+* [Bower](http://bourbon.io):
+  Javascript dependencies are managed with
 * [Bourbon](http://bourbon.io):
   Sass mixin library
 * [Neat](http://neat.bourbon.io):

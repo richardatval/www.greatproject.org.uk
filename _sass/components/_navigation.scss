@@ -382,7 +382,7 @@ a.logo {
 	.no-svg & {
 		background-image:url('#{"" + $image-directory}/logo-tiny.png');
 	}
-	@include media ($small-screen) {
+ 	@include media ($small-screen) {
 		width: $logo-image-width;
 		margin-left: $gutter;
 		max-height: $navigation-height;
@@ -402,6 +402,9 @@ a.logo {
 	background-repeat: no-repeat;
 	background-position: center center;
 	width: 43px;
+	@include media (em(350px)){
+	width: 50px;
+	}
 	@include media ($small-screen) {
 		width: $navigation-height;
 	}
@@ -428,6 +431,9 @@ a.logo {
 	background-repeat: no-repeat;
 	background-position: center center;
 	width: 43px;
+	@include media (em(350px)){
+	width: 50px;
+	}
 	@include media ($small-screen) {
 		width: $navigation-height;
 	}

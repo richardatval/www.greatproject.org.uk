@@ -9,6 +9,10 @@
 // 5. Sideabr Right
 // Layout rules. (Disclaimer: do not change if you're not sure you know what you're doing.)
 
+#page {
+min-width: em(320px - ($gutter * 2)) ;
+}
+
 .container {
   @include outer-container;
   margin-left: auto;
