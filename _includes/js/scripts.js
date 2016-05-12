@@ -26,6 +26,8 @@ $(document).ready(function() {
 			$('#js-search-toggle').toggleClass('active');
 		});
 
+//Initialise google form
+
 		var googleForm = $('#contact-form').jqGoogleForms({
 			"formKey": "1xnRdbuaw7-fpO_qdRCN0LPoHwVfJpR5C7EcoP5QM_3E"
 		});
