@@ -101,23 +101,32 @@ picture {
   max-width: 100%;
 }
 
+address {
+	background: lighten($brand-primary, 50%);
+	border-left: 7px solid $brand-primary;
+	padding: $gutter;
+	font-style: normal;
+	margin-bottom: 1em;
+}
+
 blockquote {
 	padding-top: 1em;
 	padding-bottom: 1em;
-	float: left;
 	width: 100%;
 	display: block;
 	color: $brand-primary;
 	line-height: 1.5em;
 	font-size: modular-scale(1);
-	padding-left: 30px;
-	&:before {
-		font-size: 1em;
-		float: left;
-		font-size: modular-scale(4);
-		content: '\201C';
-		margin-top: 0.28em;
-		margin-left: -30px;
-		width: 30px;
+	padding-left: 2.5em;
+	padding-right: $gutter;
+	position: relative;
+	&::before {
+	    content: "\201C"; /*Unicode for Left Double Quote*/
+	    font-family: $helvetica;
+	    font-size: 60px;
+	    font-weight: bold;
+	    position: absolute;
+	    left: 10px;
+	    top: 27px;
 	}
 }
