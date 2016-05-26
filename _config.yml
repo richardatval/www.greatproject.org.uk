@@ -26,10 +26,13 @@ copyright: "Children's Workforce Matters is a project of Voluntary Action Leices
 facebook: "voluntaryactionleics"
 twitter : "valonline"
 instagram: ""
-
 permalink: pretty
 
+# Services
+
 analyticstracking: " "
+
+# Pagination
 
 paginate: 5
 paginate_path: "/news/:num/"
@@ -38,6 +41,12 @@ paginate_path: "/news/:num/"
 timezone: Europe/London
 
 exclude: ['bower.json']
+
+# Conditional Stylesheets
+
+conditionalstylesheets:
+  - target: "ie9"
+    path: "/css/ie9.css"
 
 #  Configuration for prose.io online editor
 prose:

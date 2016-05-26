@@ -19,11 +19,7 @@
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 	<script type="text/javascript" src="{{ site.baseurl }}/js/modernizr.js"></script>
 	<link rel="stylesheet" href="{{ site.baseurl }}/css/application.css">
-	<!--[if IE 9]>
-	<style type="text/css" media="all">
-	@import url("{{ site.baseurl }}/css/ie9.css");
-	</style>
-	<![endif]-->
+	{% for stylesheet in site.conditionalstylesheets %}<!--[{{ stylesheet.target }}]><style type="text/css" media="all">@import url("{{ site.baseurl }}{{ stylesheet.path }}");</style><![endif]-->{% endfor %}
 </head>
 <body>
 	<header class="navigation" role="banner">
