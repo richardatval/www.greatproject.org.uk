@@ -12,10 +12,9 @@ $(document).ready(function() {
 					$('#js-navigation-menu').removeAttr('style');
 				}
 			});
-		})
+		});
 
 		// Search Bar
-
 		$('.search-tools').removeClass("show");
 		$('#js-search-toggle').attr({
 			href: "javascript:void(0)"
@@ -62,7 +61,6 @@ $(document).ready(function() {
 			if (typeof options == 'string') {
 				defaults.selector = options;
 			}
-
 			options = jQuery.extend(defaults, options);
 			return jQuery(options.selector).click(function(e) {
 				var jumpobj = jQuery(this);
@@ -78,7 +76,7 @@ $(document).ready(function() {
 	};
 })(jQuery);
 
-
+(function ($) { 
 jQuery(function() {
 	jQuery.mark.jump();
 });

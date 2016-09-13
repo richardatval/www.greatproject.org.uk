@@ -50,8 +50,6 @@ background-size: auto 100%;
 		padding: $gutter;
 		min-height: 300px;
 		.hero-copy {
-			@include animation-delay(2s);
-			@include animation(scale 1.0s ease-in, slide 2.0s ease);
 			text-align: left;
 			padding: $gutter;
 			box-shadow: #2d373b 0 1px 15px;

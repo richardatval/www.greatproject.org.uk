@@ -382,7 +382,7 @@ a.logo {
 	@include media ($small-screen) {
 		width: $navigation-height;
 	}
-	text-indent: -99999px;
+	@include hide-text;
 	&.active {
 		background-color: $navigation-nav-button-background-hover;	
 	}
@@ -411,12 +411,11 @@ a.logo {
 	@include media ($small-screen) {
 		width: $navigation-height;
 	}
-	text-indent: -99999px;
+	@include hide-text;
 	display: block;
 	float: right;
 	line-height: $navigation-height;
 	margin: 0;
-	padding-right: 1em;
 	text-decoration: none;
 	text-transform: uppercase;
 	&:hover, &:focus, &.active {
