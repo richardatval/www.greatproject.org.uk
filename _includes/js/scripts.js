@@ -27,10 +27,6 @@ $(document).ready(function() {
 
 //Initialise google form
 
-		var googleForm = $('#contact-form').jqGoogleForms({
-			"formKey": "1xnRdbuaw7-fpO_qdRCN0LPoHwVfJpR5C7EcoP5QM_3E"
-		});
-
 		// Validate Forms
 
 		$("#contact-form").validate({
@@ -38,45 +34,40 @@ $(document).ready(function() {
 					email: "required",
 				},
 				messages: {
-					email: "We need your email to send you updates.",
+					email: "We need your email address to contact you.",
 				},
 				submitHandler: function(form) {
-					googleForm.sendFormData({
-						"entry.993658079": $("input[name=name]").val(),
-						"entry.1139272614": $("input[name=email]").val(),
-						"entry.415731429": $("textarea[name=message]").val()
-					});
-					$(".flash-success").fadeIn("fast");
-					$("#contact-form").fadeOut("fast");
+					form.submit();
 				}
 		});
 });
 
-(function(jQuery) {
-	jQuery.mark = {
-		jump: function(options) {
-			var defaults = {
-				selector: 'a.scroll-on-page-link'
-			};
-			if (typeof options == 'string') {
-				defaults.selector = options;
-			}
-			options = jQuery.extend(defaults, options);
-			return jQuery(options.selector).click(function(e) {
-				var jumpobj = jQuery(this);
-				var target = jumpobj.attr('href');
-				var thespeed = 1000;
-				var offset = jQuery(target).offset().top;
-				jQuery('html,body').animate({
-					scrollTop: offset
-				}, thespeed, 'swing');
-				e.preventDefault();
-			});
-		}
-	};
+(function (jQuery) {
+  jQuery.mark = {
+    jump: function (options) {
+      var defaults = {
+        selector: 'a.scroll-on-page-link'
+      };
+      if (typeof options == 'string') {
+        defaults.selector = options;
+      }
+
+      options = jQuery.extend(defaults, options);
+      return jQuery(options.selector).click(function (e) {
+        var jumpobj = jQuery(this);
+        var target = jumpobj.attr('href');
+        var thespeed = 1000;
+        var offset = jQuery(target).offset().top;
+        jQuery('html,body').animate({
+          scrollTop: offset
+        }, thespeed, 'swing');
+        e.preventDefault();
+      });
+    }
+  };
 })(jQuery);
 
-(function ($) { 
-jQuery(function() {
-	jQuery.mark.jump();
+
+jQuery(function(){  
+  jQuery.mark.jump();
 });

@@ -22,12 +22,15 @@
 @import "components/mscene";
 @import "components/navigation";
 @import "components/itemlist";
+@import "components/vcard";
 @import "components/hero";
 @import "components/google_embeds";
 @import "components/box";
 @import "components/page.default";
-@import "components/page.hero";
+@import "components/page.home";
+@import "components/page.news";
 @import "components/mailchimp";
+@import "components/form-item";
 @import "components/footer";
 @import "components/profiles";
 @import "components/pagination";
@@ -39,4 +42,3 @@
 @import "components/contact-form";
 @import "components/scroll_on_page";
 @import "components/section-button";
-// @import "components/modal";

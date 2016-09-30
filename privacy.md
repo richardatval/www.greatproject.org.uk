@@ -1,11 +1,12 @@
 ---
 title: Privacy & Cookies
 layout: scroll
-summary: Privacy and cookie information for the Aylestone Allotments website
+summary: Privacy and cookie information
+permalink: /privacy/
 scrollheadings:
   - title: "Overview"
-  - title: "What we collect's"
-  - title: "What information do we gather"
+  - title: "What we collect"
+  - title: "Why we gather this information"
   - title: "Security"
   - title: "How we use cookies"
   - title: "Links to other websites"
@@ -18,9 +19,9 @@ This privacy policy sets out how Voluntary Action LeicesterShire uses and protec
 
 Voluntary Action LeicesterShire is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, it will only be used in accordance with this privacy statement.
 
-Voluntary Action LeicesterShire may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 28 January 2015.
+Voluntary Action LeicesterShire may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 3 October 2016.
 
-### What we collect's
+### What we collect
 
 We may collect the following information:
 
@@ -30,7 +31,7 @@ We may collect the following information:
 * contact information including email address
 * demographic information such as postcode, preferences and interests other information relevant to customer surveys and our work with the sector
 
-### What information do we gather
+### Why we gather this information
 
 We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
@@ -55,44 +56,9 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 This may prevent you from taking full advantage of the website.
 
-List of the main cookies used by the Voluntary Action LeicesterShire website:
-
 #### Google Analytics Tracking
 
-    _utma
-   _utmb
-   _utmc
-   _utmz
-
-These cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.
-
-Visit Google for more information
-
-#### Javascript settings
-
-    has_js
-
-Lets the website know whether javascript is enabled on this device.
-
-#### Session Cookie
-
-    e.g. SESS41abf1b6767311d0da8c09f9779b365d
-
-A unique ID that allows the site to pass information between pages.
-
-#### Display preferences
-
-Drupal.tableDrag.showWeight
-Stores display preferences for the site.
-
-#### Cookie Control
-
-voluntary-action-leicestershire_cookiecontrol
-Holds settings for the cookie warning popup.
-
-#### YouTube cookies
-
-We embed videos from our official YouTube channel using YouTube’s privacy-enhanced mode. This mode may set cookies on your computer once you click on the YouTube video player, but YouTube will not store personally-identifiable cookie information for playbacks of embedded videos using the privacy-enhanced mode. To find out more please visit YouTube’s embedding videos information page.
+Google Analytics cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.
 
 ### Links to other websites
 
@@ -104,14 +70,16 @@ You may choose to restrict the collection or use of your personal information in
 
 Whenever you are asked to fill in a form on the website your data will be for the use of Voluntary Action LeicesterShire’s work unless explicitly stated otherwise
 If you have previously agreed to us using your personal information for direct contact you may cancel it at any time by contacting us at helpline@valonline.org.uk
+
 We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
 
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to:
 
-Voluntary Action LeicesterShire
-9 Newarke Street
-Leicester
-LE1 5SN
+
+<div class="vcard">
+<span class="street-address">Voluntary Action LeicesterShire</span><br>
+<span class="region">Leicester</span><br>
+<span class="postal-code">LE1 5SN</span><br>
+</div>
 
 If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
-

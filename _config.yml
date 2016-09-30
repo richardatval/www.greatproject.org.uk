@@ -12,25 +12,23 @@ gems:
   - jekyll-feed
    
 #  Site settings
-title: The Great Project
+title: Yes Project
 description: Helping families
-url: http://www.greatleicester.org.uk
+url: http://www.yesproject.org
 baseurl: 
-email: info@greatleicester.org.uk
-github: aylestoneallotments/www.aylestoneallotments.co.uk
-logo_path: /img/logo.svg
-copyright: "Children's Workforce Matters is a project of Voluntary Action Leicester. Voluntary Action Leicester is a registered charity (No. 509300) Company Limited by Guarantee (No. 1357513) Registered in England and Wales."
+email: info@yesproject.org
+github: 
+copyright: "The Great Project is funded by Big Lottery Fund and the European Social Fund. The service is delivered by Voluntary Action LeicesterShire (VAL).</p><p>
+Voluntary Action LeicesterShire is the trading name of Voluntary Action Leicester registered charity (No. 509300) Registered in England and Wales. Copyright © 2016 Voluntary Action Leicester"
 
 #  Social media settings
 
-facebook: "voluntaryactionleics"
-twitter : "valonline"
-instagram: ""
+facebook: "yourprojectyes"
 permalink: pretty
 
 # Services
 
-analyticstracking: " "
+analyticstracking: "UA-84927932-1"
 
 # Pagination
 
@@ -41,6 +39,7 @@ paginate_path: "/news/:num/"
 timezone: Europe/London
 
 exclude: ['bower.json']
+exclude: ['grunt']
 
 # Conditional Stylesheets
 
@@ -50,10 +49,34 @@ conditionalstylesheets:
 
 #  Configuration for prose.io online editor
 prose:
-  ignore: ['_includes','assets','_assets','_layouts','_plugins','/.jekyll-metadata','feed.xml','bin','js','css','_sass','_config.yml','bower.json']
+  ignore: 
+    - '_includes'
+    - 'assets'
+    - '_assets'
+    - '_layouts'
+    - '_plugins'
+    - '/.jekyll-metadata'
+    - 'feed.xml'
+    - 'js'
+    - 'css'
+    - '_sass'
+    - 'CNAME'
+    - '.bowerrc'
+    - '.gitignore'
+    - '404.md'
+    - 'Gemfile'
+    - 'Gemfile.lock'
+    - 'README.md'
+    - '_config.yml'
+    - 'bower.json'
+    - 'favicon.ico'
   media: img
   metadata:
     _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
       - name: "date"
         field:
           label: "Date"
@@ -64,7 +87,24 @@ prose:
           label: "Published"
           element: "checkbox"
           value: false
+      - name: "summary"
+        field:
+          label: "Summary"
+          element: "textarea"
+          value: null
+      - name: "thumbnail-image"
+        field:
+          label: "Thumbnail Image"
+          element: "text"
+          placeholder: "/img/thumbnails/placeholder-thumbnail.png"
+          value: "/img/thumbnails/placeholder.jpg"
       - name: "layout"
         field:
-          element: "hidden"
+          label: "Layout"
+          element: "select"
           value: "default"
+          options:
+            - name: 'Default'
+              value: 'default'
+            - name: 'No Sidebars'
+              value: 'no-sidebars'

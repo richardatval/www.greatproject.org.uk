@@ -6,6 +6,7 @@ body {
   font-size: $base-font-size;
   line-height: $base-line-height;
   background: $base-background-color;
+  font-weight: 500;
 }
 
 // Links
@@ -41,7 +42,7 @@ h4,
 h5,
 h6 {
   font-family: $heading-font-family;
-  font-weight: 700;
+  font-weight: 900;
   font-size: $base-font-size;
   line-height: $heading-line-height;
   margin: 0 0 $small-spacing;
@@ -110,6 +111,7 @@ address {
 }
 
 blockquote {
+	margin: 0;
 	padding-top: 1em;
 	padding-bottom: 1em;
 	width: 100%;

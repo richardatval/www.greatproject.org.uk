@@ -3,11 +3,11 @@
 
 // Typography
 
-$base-font-family: "Myriad Pro", $helvetica;
-$heading-font-family: "Myriad Pro", $helvetica;
+$base-font-family: "Museo Sans", $helvetica;
+$heading-font-family: "Museo Sans", $helvetica;
 
 // Font Sizes
-$base-font-size: 18px;
+$base-font-size: 20px;
 
 // Line height
 $base-line-height: 1.7;
@@ -20,33 +20,36 @@ $base-spacing: $base-line-height * 1em;
 $small-spacing: $base-spacing / 2;
 $base-z-index: 0;
 
-// Colors
-$blue: #00B0F1;
-$turquoise: #009EB0;
-$dark-gray: #332525;
+// Core Colors
+$turquoise: #009FB0;
+$purple: #A14582;
+$dark-gray: #515356;
+
+
+// Accent Colors
+$red: #E53818;
+$dark-purple: #6E1859;
+
+// Helper Colors
 $medium-gray: #CECCC4;
 $light-gray: #C6C4B9;
 $green: #3FAC4D;
 $pink: #D84A8D;
-$yellow: yellow;
-$purple: #9E4380;
-$red: red;
+$white: #fff;
+
 
 // Name Colour Keys - used for automatically generating coloured elements. Only include required elements.
 $colors: (
-blue: $blue,
+purple: $purple,
+red: $red,
 turqoise: $turquoise,
-green: $green,
-pink: $pink,
-purple: $purple
 );
 
 // Brand Colours
-
 $brand-primary: $turquoise;
 
 // Font Colors
-$base-background-color: #fff;
+$base-background-color: $white;
 $base-font-color: $dark-gray;
 $action-color: $brand-primary;
 
