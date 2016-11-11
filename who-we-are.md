@@ -10,9 +10,3 @@ published: true
 The service is run by a range of statutory, not for profit and private companies. This partnership approach means that we can offer a holistic, person-centred service which is tailored to each families unique needs. 
 
 The Great Project is delivered by Voluntary Action LeicesterShire and funded by Big Lottery Fund and the European Social Fund.
-
-### Our partners
-
-The Great Project is a partnership initiative. Our partners ensure that we can offer a range of services to meet the needs of local families. We’re proud to work with the following inspiring local groups. 
-
-{% include partners.html %}

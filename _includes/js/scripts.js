@@ -24,8 +24,7 @@ $(document).ready(function() {
 			$(".search-tools").toggle();
 			$('#js-search-toggle').toggleClass('active');
 		});
-
-//Initialise google form
+		
 
 		// Validate Forms
 
@@ -40,7 +39,18 @@ $(document).ready(function() {
 					form.submit();
 				}
 		});
+		
+		$("#textfield-surname").hide();
+		
+		$("#textfield-surname").change(function() {
+			console.log($(this).val());
+			if ($(this).val() == "Referral for someone else") {
+				$("#textfield-surname").show();
+			} 
+		});
 });
+
+
 
 (function (jQuery) {
   jQuery.mark = {

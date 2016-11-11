@@ -66,7 +66,7 @@ header.navigation {
 		text-indent: -10000px;
 		color: $navigation-color;
 		display: block;
-		float: right;
+		float: left;
 		line-height: $navigation-height;
 		margin: 0;
 		padding-right: 1em;
@@ -108,7 +108,7 @@ header.navigation {
 		padding: 0;
 		width: 100%;
 		z-index: 9999;
-		font-weight: bold;
+		font-weight: normal;
 
 		&.show, .no-js & {
 			display: block;
@@ -162,7 +162,6 @@ header.navigation {
 
 			&:focus,
 			&:hover {
-				font-weight: bold;
 				color: $navigation-color-hover;
 				background: darken($navigation-background, 10%);
 				@include media($horizontal-bar-mode) {
@@ -170,6 +169,18 @@ header.navigation {
 				}
 			}
 
+		}
+		
+		li a {
+			&:focus,
+			&:hover {
+				font-weight: bold;
+				color: $navigation-color-hover;
+				background: darken($navigation-background, 10%);
+				@include media($horizontal-bar-mode) {
+					background: $navigation-nav-button-background-hover;
+				}
+			}
 		}
 	}
 
@@ -396,7 +407,7 @@ a.logo {
 	background-position: center center;
 	text-indent: -99999px;
 	@include transition(all 0.1s ease-in-out);
-	@include logoresizer($logo-image-width, $logo-image-height, 530);
+	@include logoresizer($logo-image-width, $logo-image-height, 520);
 	background-image:url('#{"" + $image-directory}/ui/logo.png');
 }
 

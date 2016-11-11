@@ -1,18 +1,18 @@
 <form id="contact-form" action="https://valonline-jekyll-forms.herokuapp.com/send" method="post">
-<div class="form-item">Email <input type="text" name="email"></div>
 <div class="form-item">Name <input type="text" name="name"></div>
+<div class="form-item">Email <input type="text" name="email"></div>
 <div class="form-item">Age <input type="text" name="age"></div>
-<div class="form-item">Your employment status<select name="employment">
+<div class="form-item">Phone <input type="text" name="age"></div>
+<div class="form-item">What support would you like?<select name="employment">
 <option value="">- Choose one -</option>
-<option value="Unemployed">Unemployed</option>
-<option value="Education">In education</option>
-<option value="In training">In training</option>
-<option value="Zero hours">Zero hours contract</option>
-<option value="Other">Other</option>
+<option value="Referral for someone else">I'd like to make a referral for someone else</option>
+<option value="Referral my family">I'd like to refer my family</option>
+<option value="Requset for information">I'd like information about the GREAT Project</option>
 </select></div>
-<div class="form-item">Tell us what you need help with <textarea name="message" cols="40" rows="5"></textarea></div>
+<div id="textfield-surname" class="form-item">Surname of family to be contacted <input type="text" name="age"></div>
+<div class="form-item">Your message <textarea name="message" cols="40" rows="5"></textarea></div>
 <div class="form-item"><input type="hidden" name="formname" value="www_yesproject_org_contact"></div>
 <div class="form-item"><input type="text" name="gotcha" style="display:none"></div>
-<div class="form-item form-checkbox"><input type="checkbox" name="mailchimp" value="subscribe"> I would like to receive news updates from the YES Project </div>
-<div class="form-item"><input class="red" type="submit" value="Send Message"></div>
+<div class="form-item form-checkbox"><input type="checkbox" name="mailchimp" value="subscribe"> I would like to receive news updates from the Great Project </div>
+<div class="form-item"><input type="submit" value="Send Message"></div>
 </form>

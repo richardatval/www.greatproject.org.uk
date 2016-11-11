@@ -31,14 +31,14 @@ button, a.button {
   }
   
   &.white {
-  color: $brand-primary;
+  color: $purple;
   &:link, &:visited {
-    color: $brand-primary;
+    color: $purple;
   }
   background-color: #fff;
   &:hover,
   &:focus {
-	  color: $brand-primary;
+	  color: $purple;
     background-color: darken(#fff, 15%);
 	text-decoration: none;
   }

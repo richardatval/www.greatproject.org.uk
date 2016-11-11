@@ -4,9 +4,9 @@ $action-color: #477DCA !default;
 $hero-background-top: #7F99BE; 
 $hero-background-bottom: #20392B;
 $hero-color: $base-font-color;
-$hero-background-color: #A14582;
+$hero-background-color: $purple;
 $gradient-angle: 10deg;
-$hero-image: '#{"" + $image-directory}/banners/hero-home.jpg';
+$hero-image: '#{"" + $image-directory}/banners/na.jpg';
 @include background(url($hero-image));
 background-position: center top ;
 background-repeat: no-repeat;
@@ -21,6 +21,9 @@ background-size: auto 50%;
 	.hero-copy {
 		background: $dark-gray;
 		padding: flex-gutter();
+		.button {
+			@extend button.white
+		}
 		h1 {
 			font-size: 1.6em;
 			color: #fff;
@@ -62,16 +65,6 @@ background-size: auto 50%;
 			text-align: left;
 			h1 {
 				font-size: 2em;
-			}
-		}
-	}
-}
-
-@each $name, $color in $colors {
-	&.#{"" + $name} {
-		.hero-copy {
-			.button {
-				@extend button.#{"" + $name}
 			}
 		}
 	}
