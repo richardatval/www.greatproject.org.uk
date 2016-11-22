@@ -18,7 +18,7 @@ When you get involved with the GREAT Project, you’ll be able to access support
 * Health assessments, diagnosis support and occupational health support to help you overcome any health-related barriers to work and training
 * Support with key employment skills, like CV writing and interviewing
 * Taster days and work experience in a range of industries 
-* Help with managing your money, include accounts that accommodate Sharia law
+* Help with managing your money, including accounts that accommodate Sharia law
 * Focused support for communities with particular needs, such as the Eastern European population
 * Work clubs in libraries to offer one-to-one support with job searching
 * Confidence building courses
