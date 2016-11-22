@@ -25,6 +25,17 @@ $(document).ready(function() {
 			$('#js-search-toggle').toggleClass('active');
 		});
 		
+		// Contact Form dependent fields
+		
+		$("#support").change(function () {
+		   if( $("#support").val() != "request_for_information" )
+		   {
+			   $("#textfield-surname").show();
+		   }
+		   else {
+		   	$("#textfield-surname").hide();
+		   }
+		});
 
 		// Validate Forms
 

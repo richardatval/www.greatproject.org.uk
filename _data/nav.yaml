@@ -9,8 +9,6 @@
 
 - title: "Home"
   href: "/"
-- title: "News"
-  href: "/news"
 - title: "About"
   href: "#"
   subcategories:
