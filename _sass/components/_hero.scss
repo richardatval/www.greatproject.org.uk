@@ -4,40 +4,35 @@ $action-color: #477DCA !default;
 $hero-background-top: #7F99BE; 
 $hero-background-bottom: #20392B;
 $hero-color: $base-font-color;
-$hero-background-color: $purple;
+$hero-background-color: #dfdfdf;
 $gradient-angle: 10deg;
-$hero-image: '#{"" + $image-directory}/banners/na.jpg';
+$hero-image: '#{"" + $image-directory}/banners/hero-home.jpg';
 @include background(url($hero-image));
 background-position: center top ;
 background-repeat: no-repeat;
 background-color: $hero-background-color;
-background-size: auto 50%;
+background-size: length auto;
 
 .hero-inner {
 	@include outer-container;
 	@include clearfix;
 	text-align: left;
-	padding-top: 200px;
+	padding-top: 300px;
 	.hero-copy {
-		background: $dark-gray;
+		background: $hero-background-color;
 		padding: flex-gutter();
-		.button {
-			@extend button.white
-		}
 		h1 {
 			font-size: 1.6em;
-			color: #fff;
+			color: $purple;
 			line-height: 1.1em;
 			margin-bottom: 0.4em;
 			a {
-				color: #fff;
 				&:hover {
 					text-decoration: none;
 				}
 			}
 		}
 		p {
-			color: #fff;
 			line-height: 1.4em;
 		}
 	}
@@ -63,9 +58,15 @@ background-size: auto 50%;
 			margin-left: 12px;
 			width: 40%;
 			text-align: left;
-			h1 {
-				font-size: 2em;
-			}
+			font-size: 1.1em;
+		}
+	}
+}
+
+@include media(1100px) {
+	.hero-inner {
+		.hero-copy {
+			font-size: 1.2em;
 		}
 	}
 }

@@ -15,15 +15,22 @@ $(document).ready(function() {
 		});
 
 		// Search Bar
+		var searchToggle = $('#js-search-toggle').unbind();
 		$('.search-tools').removeClass("show");
 		$('#js-search-toggle').attr({
 			href: "javascript:void(0)"
 		});
 		$('#js-search-toggle').addClass("show");
-		$('#js-search-toggle').click(function() {
-			$(".search-tools").toggle();
+		searchToggle.on('click', function(e) {
+			e.preventDefault();
+			$(".search-tools").slideToggle(function() {
+				if ($('.search-tools').attr('style')=="display:block") {
+					$('#js-search-toggle').removeAttr('style');
+				}
+			});
 			$('#js-search-toggle').toggleClass('active');
 		});
+		
 		
 		// Contact Form dependent fields
 		

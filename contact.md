@@ -4,7 +4,7 @@ layout: contact
 summary: Contact the YES Project
 ---
 
-#### Getting involved in the Great Project is a fantastic way to take the first step toward employment or training.
+#### Getting involved in the GREAT Project is a fantastic way to take the first step toward employment or training.
 
 To get started, you can either contact us using the form below or call us on 0116 257 xxxx. 
 

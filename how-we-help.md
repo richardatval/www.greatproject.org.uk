@@ -1,16 +1,16 @@
 ---
 layout: default
 title: How we help
-summary: The Great Project is here to help individuals within families move toward employment and training. 
+summary: The GREAT Project is here to help individuals within families move toward employment and training. 
 published: true
 ---
-#### The Great Project is here to help individuals within families move toward employment and training. 
+#### The GREAT Project is here to help individuals within families move toward employment and training. 
 
 Rather than provide a one size fits all solution, we’ll work with you to understand the challenges you face. Together, we’ll then design a support package that’s right for you. 
 
 ### Support you can access
 
-When you get involved Great Project, you’ll be able to access support from our partners. This support includes: 
+When you get involved GREAT Project, you’ll be able to access support from our partners. This support includes: 
 
 * Health assessments, diagnosis support and occupational health support to help you overcome any health-related barriers to work and training
 * Support with key employment skills, like CV writing and interviewing

@@ -18,7 +18,7 @@ url: http://www.greatproject.org.uk
 baseurl: 
 email: info@greatproject.org.uk
 github: 
-copyright: "The Great Project is funded by Big Lottery Fund and the European Social Fund. The service is delivered by Voluntary Action LeicesterShire (VAL).</p><p>
+copyright: "The GREAT Project is funded by Big Lottery Fund and the European Social Fund. The service is delivered by Voluntary Action LeicesterShire (VAL).</p><p>
 Voluntary Action LeicesterShire is the trading name of Voluntary Action Leicester registered charity (No. 509300) Registered in England and Wales. Copyright © 2016 Voluntary Action Leicester"
 
 #  Social media settings
@@ -38,9 +38,9 @@ paginate_path: "/news/:num/"
 #  Timezone
 timezone: Europe/London
 
-exclude: ['bower.json']
-exclude: ['grunt']
-exclude: ['grunt']
+exclude:
+  - bower.json
+  - grunt
 
 # Conditional Stylesheets
 
@@ -98,8 +98,8 @@ prose:
         field:
           label: "Thumbnail Image"
           element: "text"
-          placeholder: "/img/thumbnails/placeholder-thumbnail.png"
-          value: "/img/thumbnails/placeholder.jpg"
+          placeholder: "/img/placeholder-thumbnail.png"
+          value: "/img/placeholder.jpg"
       - name: "layout"
         field:
           label: "Layout"
