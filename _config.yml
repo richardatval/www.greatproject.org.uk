@@ -12,8 +12,8 @@ gems:
   - jekyll-feed
    
 #  Site settings
-title: Yes Project
-description: Helping families
+title: The Great Project
+description: Helping families move toward employment and training
 url: http://www.greatproject.org.uk
 baseurl: 
 email: info@greatproject.org.uk
