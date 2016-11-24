@@ -407,7 +407,7 @@ a.logo {
 	background-position: center center;
 	text-indent: -99999px;
 	@include transition(all 0.1s ease-in-out);
-	@include logoresizer($logo-image-width, $logo-image-height, 520);
+	@include logoresizer($logo-image-width, $logo-image-height, 500);
 	background-image:url('#{"" + $image-directory}/ui/logo.png');
 }
 
