@@ -2,10 +2,10 @@
 title: New £1.94m project to change lives of young people
 layout: default
 published: true
-thumbnail-image: /img/thumbnails/meeting.jpg
+thumbnail-image: /img/thumbnails/placeholder.jpg
 ---
 
-![Alt text](/img/meeting.jpg)
+![Alt text](/img/placeholder.jpg)
 
 We're pleased to announce that funding has been secured to launch a new project to support some of Leicester and Leicestershire's most at risk young people. The project, called the Youth Employability Support (YES) project, will aim to transform the futures of 400 young people between the ages of 15 and 24 who are currently the furthest from being able to move into employment.
 
