@@ -358,6 +358,10 @@ header.navigation {
 
 
 	// Elements on the far right
+	
+	.search-tools-wrapper {
+		background: darken($navigation-background, 10%);
+	}
 
 	.search-tools {
 		display: none;
