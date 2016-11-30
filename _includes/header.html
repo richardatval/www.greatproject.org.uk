@@ -33,7 +33,7 @@
 		</div>
 		<div class="navigation-wrapper">
 			<a href="javascript:void(0)" class="navigation-menu-button" id="js-mobile-menu">MENU</a>
-			<a href="/search" class="navigation-search-button" id="js-search-toggle">Search</a>
+			
 			<nav role="navigation">
 				<ul id="js-navigation-menu" class="navigation-menu">
 					{% for nav in site.data.nav %}
@@ -42,6 +42,7 @@
 						{% endfor %}</ul>{% endif %}</li>
 						{% endfor %}
 					</ul>
+					<a href="/search" class="navigation-search-button" id="js-search-toggle">Search</a>
 				</div>
 				<div class="search-tools-wrapper">
 					<div class="search-tools">
