@@ -7,7 +7,7 @@ published: true
 
 #### Getting involved in the GREAT Project is a fantastic way to take the first step toward employment or training.
 
-To get started, you can either contact us using the form below or call us on 0116 257 xxxx. 
+To get started, you can either contact us using the form below or call us on 0116 257 5020. 
 
 We will then contact you with more details about the steps that you’ll go through to enrol in the project and start developing your support package.
 
