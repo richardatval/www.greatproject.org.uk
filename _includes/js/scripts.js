@@ -59,12 +59,21 @@ $(document).ready(function() {
 		});
 		
 		$("#textfield-surname").hide();
+		$("#textfield-organisation").hide();
 		
-		$("#textfield-surname").change(function() {
-			console.log($(this).val());
-			if ($(this).val() == "Referral for someone else") {
+		$("#support").change(function() {
+			if ($(this).val() == "referral_for_someone_else") {
 				$("#textfield-surname").show();
+				$("#textfield-organisation").show();
 			} 
+			else if ($(this).val() == "referral_my_family") {
+				$("#textfield-surname").show();
+				$("#textfield-organisation").hide();
+			} 
+			else {
+				$("#textfield-surname").hide();
+				$("#textfield-organisation").hide();
+			}
 		});
 });
 
