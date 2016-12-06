@@ -30,7 +30,7 @@ We may collect the following information:
 * your organisation name and details
 * your job title
 * contact information including email address
-* demographic information such as postcode, preferences and interests other information relevant to customer surveys and our work with the sector
+* demographic information such as postcode, preferences,interests and other information relevant to customer surveys and our work with the sector
 
 ### Why we gather this information
 
@@ -51,15 +51,15 @@ A cookie is a small file which asks permission to be placed on your computer’s
 
 We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+Overall, cookies help us provide you with a better website by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer.
+You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies, if you prefer.
 
 This may prevent you from taking full advantage of the website.
 
 #### Google Analytics Tracking
 
-Google Analytics cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited.
+Google Analytics cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, from where visitors have come to the site and the pages they visited.
 
 ### Links to other websites
 
@@ -69,10 +69,11 @@ Our website may contain links to other websites of interest. However, once you h
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
-Whenever you are asked to fill in a form on the website your data will be for the use of Voluntary Action LeicesterShire’s work unless explicitly stated otherwise
+Whenever you are asked to fill in a form on the website your data will be for the use of Voluntary Action LeicesterShire’s work unless explicitly stated otherwise.
+
 If you have previously agreed to us using your personal information for direct contact you may cancel it at any time by contacting us at helpline@valonline.org.uk
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting, if you tell us that you wish this to happen.
 
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to:
 
@@ -83,4 +84,4 @@ You may request details of personal information which we hold about you under th
 <span class="postal-code">LE1 5SN</span><br>
 </div>
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us, as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
