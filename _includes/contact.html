@@ -1,17 +1,16 @@
 <form id="contact-form" action="https://valonline-jekyll-forms.herokuapp.com/send" method="post">
-<div class="form-item">Name <input type="text" name="name"></div>
-<div class="form-item">Email <input type="text" name="email"></div>
-<div class="form-item">Age <input type="text" name="age"></div>
-<div class="form-item">Phone <input type="text" name="phone"></div>
 <div class="form-item">What support would you like?<select id="support" name="support">
 <option value="">- Choose one -</option>
-<option value="referral_for_someone_else">I'd like to make a referral for someone else</option>
-<option value="referral_my_family">I'd like to refer my family</option>
-<option value="request_for_information">I'd like information about the GREAT Project</option>
+<option value="ask_question">I would like more information</option>
+<option value="my_family">Support for my family</option>
+<option value="refer_family">Support for a family I work with</option>
 </select></div>
-<div id="textfield-organisation" class="form-item">Organisation <input type="text" name="organisation"></div>
-<div id="textfield-surname" class="form-item">Surname of family to be contacted <input type="text" name="surname"></div>
-<div class="form-item">Your message <textarea name="message" cols="40" rows="5"></textarea></div>
+<div class="form-item"><label>Your Name</label> <input type="text" name="name"></div>
+<div id="textfield-email" class="form-item"><label>Your Email</label> <input type="text" name="email"></div>
+<div id="textfield-phone" class="form-item"><label>Your Phone</label> <input type="text" name="phone"></div>
+<div id="textfield-organisation" class="form-item"><label>Referring Organisation</label> <input type="text" name="organisation"></div>
+<div id="textfield-surname" class="form-item"><label>Surname of family to be supported</label> <input type="text" name="surname"></div>
+<div id="textarea-message" class="form-item"><label>Your message</label> <textarea name="message" cols="40" rows="5"></textarea></div>
 <div class="form-item"><input type="hidden" name="formname" value="www_great_leicester_org_uk_contact"></div>
 <div class="form-item"><input type="text" name="gotcha" style="display:none"></div>
 <div class="form-item form-checkbox"><input type="checkbox" name="mailchimp" value="subscribe"> I would like to receive news updates from the GREAT Project </div>
