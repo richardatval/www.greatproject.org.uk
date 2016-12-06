@@ -65,19 +65,16 @@ $(document).ready(function() {
 			if ($(this).val() == "refer_family") {
 				$("#textfield-surname").show();
 				$("#textfield-organisation").show();
-				$("#textfield-email").show();
 				$("#textarea-message label").text("Please provide a brief description of the case, including any time constraints or interpretation needs.");
 			} 
 			else if ($(this).val() == "my_family") {
 				$("#textfield-surname").show();
 				$("#textfield-organisation").hide();
-				$("#textfield-email").hide();
 				$("#textarea-message label").text("How can we help?");
 			} 
 			else {
 				$("#textfield-surname").hide();
 				$("#textfield-organisation").hide();
-				$("#textfield-email").show();
 				$("#textarea-message label").text("Your message");
 			}
 			
