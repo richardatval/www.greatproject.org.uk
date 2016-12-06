@@ -48,10 +48,10 @@ $(document).ready(function() {
 
 		$("#contact-form").validate({
 				rules: {
-					email: "required",
+					name: "required",
 				},
 				messages: {
-					email: "We need your email address to contact you.",
+					name: "We need your name to contact you.",
 				},
 				submitHandler: function(form) {
 					form.submit();
