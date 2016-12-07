@@ -12,8 +12,6 @@
   subcategories:
     - subtitle: "Who we are"
       subhref: "/who-we-are"
-    - subtitle: "Our team"
-      subhref: "/our-team"
     - subtitle: "Our partners"
       subhref: "/our-partners"
 - title: "What we offer"
