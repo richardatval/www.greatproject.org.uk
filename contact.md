@@ -1,7 +1,7 @@
 ---
 title: Contact us
 layout: contact
-summary: Contact the YES Project
+summary: Contact the GREAT Project
 published: true
 ---
 
