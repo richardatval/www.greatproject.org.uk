@@ -393,6 +393,8 @@ header.navigation {
 				left: 70%;
 				width: 30%;
 				height: $gutter*2.5;
+				-webkit-border-top-left-radius: 0;
+				-webkit-border-bottom-left-radius: 0;
 				@include media($tablet) {
 					right: 10px;
 					left: 80%;
