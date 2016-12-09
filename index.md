@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Helping families move toward employment and training
-summary: Helping families move toward employment and training.
-hero-copy: Helping families move toward employment and training
+summary: Helping families move toward employment and training
+hero-copy: We’ll work with you to understand the challenges you face
 hero-link-url: /what-we-offer
 hero-link-copy: Learn more
 published: true
