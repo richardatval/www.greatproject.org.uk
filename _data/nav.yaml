@@ -16,5 +16,7 @@
       subhref: "/our-partners"
 - title: "What we offer"
   href: "/what-we-offer"
+- title: "News"
+  href: "/news"
 - title: "Contact"
   href: "/contact"
