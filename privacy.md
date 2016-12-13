@@ -80,7 +80,7 @@ You may request details of personal information which we hold about you under th
 
 <div class="vcard">
 <span class="street-address">Voluntary Action LeicesterShire</span><br>
-<span class="region">Leicester</span><br>
+<span class="region">Leicester</span> 
 <span class="postal-code">LE1 5SN</span><br>
 </div>
 
