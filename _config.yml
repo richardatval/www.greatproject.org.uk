@@ -1,6 +1,8 @@
 sass:
   style: compressed
 
+encoding: utf-8
+
 #  Build settings
 markdown: kramdown
 
