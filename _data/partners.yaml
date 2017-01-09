@@ -14,8 +14,13 @@
     url: "http://www.bitc.org.uk"
   - name: "Fit for Work "
     img: "/img/partners/ffw.png"
+<<<<<<< HEAD
     bio: "Fit for Work will be supporting navigators and partners in the first instance to identify service users whose health and wellbeing has an impact on their ability to find, secure or maintain employment.  Navigators will then refer these clients directly to us so our case managers and clinical support staff can support those with physical or mental health conditions, whether short or long term, to better understand and manage their conditions. We will also identify and help to address additional social factors that may be impacting on the service users’ general well-being, eg: debt, housing or relationship difficulties. This bio-psycho-social approach allows us to physically and mentally prepare service users for the next step in their GREAT journey ie: working towards work readiness and employment with the other project partners."
     url: "https://www.fitforworkteam.org"
+=======
+    bio: "Fit for Work is a free service that helps people with long-term health issues get back to work. As the GREAT project’s specialist health provider, they will be supporting navigators and other partners in the identification and support of service users whose ability to find, secure or maintain employment has been affected by issues of health or well-being."
+    url: "https://www.fitforworkteam.org/"
+>>>>>>> b8a23aa008e30f7526d6a6630b5862cec8d07ccc
   - name: "LCPT "
     img: "/img/partners/lcpt.png"
     bio: "LCPT is a social care provider that champions inclusion and access to social resources for all the people of the region. The charity will offer one-to-one work readiness activities with a particular focus on Eastern European communities."
