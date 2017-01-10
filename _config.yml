@@ -16,7 +16,7 @@ gems:
 #  Site settings
 title: The Great Project
 description: Helping families move toward employment and training
-url: http://www.greatproject.org.uk
+url: https://www.greatproject.org.uk
 baseurl: 
 email: info@greatproject.org.uk
 github: 
