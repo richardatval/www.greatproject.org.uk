@@ -18,7 +18,13 @@
 				{% endfor %}
 			</ul>
 		</div>
-		
+		<div class="footer-links footer-links-social">
+			<h4>Follow us</h4>
+			<ul>
+				{% if site.twitter != "" %}<li><a href="http://www.twitter.com/{{ site.twitter }}">Follow us on Twitter</a></li>{% endif %}
+				{% if site.facebook != "" %}<li><a href="http://www.facebook.com/{{ site.facebook }}">Like us on Facebook</a></li>{% endif %}
+			</ul>
+		</div>
 		<div class="footer-copyright">
 		    <a href="http://www.valonline.org.uk"><span class="val-logo">A Voluntary Action LeicesterShire (VAL) service.</a></span>
 			<p>{{ site.copyright }}</p>
