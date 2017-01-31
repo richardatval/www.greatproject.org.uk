@@ -75,6 +75,10 @@ input[type="file"] {
 }
 
 select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+     text-indent: 0.01px;
+     text-overflow: '';
   border: $base-border;
   border-radius: $base-border-radius;
   box-sizing: border-box;
@@ -85,7 +89,6 @@ select {
   transition: border-color;
   max-width: 100%;
   line-height: 1;
-  -webkit-appearance: none;
   background: url('#{"" + $image-directory}/ui/caret.png') no-repeat 95% #fff;
 }
 
