@@ -60,16 +60,28 @@ $(document).ready(function() {
 		
 		$("#textfield-surname").hide();
 		$("#textfield-organisation").hide();
+		$("#textfield-postcode").hide();
+		$("#textfield-adults").hide();
+		$("#textfield-children").hide();
+		$("#textfield-belowschoolage").hide();
 		
 		$("#support").change(function() {
 			if ($(this).val() == "refer_family") {
 				$("#textfield-surname").show();
 				$("#textfield-organisation").show();
+				$("#textfield-postcode").show();
+				$("#textfield-adults").show();
+				$("#textfield-children").show();
+				$("#textfield-belowschoolage").show();
 				$("#textarea-message label").text("Please provide a brief description of the case, including any time constraints or interpretation needs.");
 			} 
 			else if ($(this).val() == "my_family") {
 				$("#textfield-surname").show();
 				$("#textfield-organisation").hide();
+				$("#textfield-postcode").show();
+				$("#textfield-adults").show();
+				$("#textfield-children").show();
+				$("#textfield-belowschoolage").show();
 				$("#textarea-message label").text("How can we help?");
 			} 
 			else {
