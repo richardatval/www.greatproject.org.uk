@@ -15,7 +15,7 @@ gems:
    
 #  Site settings
 title: The Great Project
-description: Helping families move toward employment and training
+description: Helping families move toward employment and training in Leicester and Leicestershire
 url: https://www.greatproject.org.uk
 baseurl: 
 email: info@greatproject.org.uk
@@ -105,6 +105,8 @@ prose:
           element: "select"
           value: "default"
           options:
+            - name: 'Post'
+              value: 'post'
             - name: 'Default'
               value: 'default'
             - name: 'No Sidebars'

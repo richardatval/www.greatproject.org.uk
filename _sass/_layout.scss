@@ -42,11 +42,6 @@ min-width: em(320px - ($gutter * 2)) ;
       @include fill-parent;
     }
 
-    // Same logic for tablets.
-    @include media($tablet) {
-      @include span-columns(5);
-    }
-
     @include media($desktop) {
       @include span-columns(8);
     }
