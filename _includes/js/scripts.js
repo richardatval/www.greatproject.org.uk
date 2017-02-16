@@ -75,9 +75,10 @@ $(document).ready(function() {
 				$("#textfield-adults").show();
 				$("#textfield-children").show();
 				$("#textfield-belowschoolage").show();
+				$("#textarea-access label").text("Does the family have any access requirements?");
 				$("#textarea-access").show( "slow" );
 				$("#eligibility").show( "slow" );
-				$("#textarea-message label").text("Please provide a brief description of the case, including any time constraints or interpretation needs.");
+				$("#textarea-message label").text("Please provide a brief description of the case, including any time constraints.");
 			} 
 			else if ($(this).val() == "my_family") {
 				$("#textfield-surname").show();
@@ -86,6 +87,7 @@ $(document).ready(function() {
 				$("#textfield-adults").show();
 				$("#textfield-children").show();
 				$("#textfield-belowschoolage").show();
+				$("#textarea-access label").text("Do you have any access requirements?");
 				$("#textarea-access").show();
 				$("#eligibility").show( "slow" );
 				$("#textarea-message label").text("How can we help?");
