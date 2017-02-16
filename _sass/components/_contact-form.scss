@@ -13,6 +13,17 @@
 }
 
 label.error {
-  background: lighten($red, 40%);	
-  padding: 1em;
+	background: lighten($red, 40%);	
+	padding: 1em;
+}
+
+ul.checklist {
+	padding-left: 30px;
+	li {
+		&:before {
+			content: "";
+		};
+		list-style-image: url('#{"" + $image-directory}/ui/check.png');
+	}
+
 }

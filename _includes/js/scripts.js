@@ -64,6 +64,8 @@ $(document).ready(function() {
 		$("#textfield-adults").hide();
 		$("#textfield-children").hide();
 		$("#textfield-belowschoolage").hide();
+		$("#textarea-access").hide();
+		$("#eligibility").hide();
 		
 		$("#support").change(function() {
 			if ($(this).val() == "refer_family") {
@@ -73,6 +75,8 @@ $(document).ready(function() {
 				$("#textfield-adults").show();
 				$("#textfield-children").show();
 				$("#textfield-belowschoolage").show();
+				$("#textarea-access").show( "slow" );
+				$("#eligibility").show( "slow" );
 				$("#textarea-message label").text("Please provide a brief description of the case, including any time constraints or interpretation needs.");
 			} 
 			else if ($(this).val() == "my_family") {
@@ -82,11 +86,15 @@ $(document).ready(function() {
 				$("#textfield-adults").show();
 				$("#textfield-children").show();
 				$("#textfield-belowschoolage").show();
+				$("#textarea-access").show();
+				$("#eligibility").show( "slow" );
 				$("#textarea-message label").text("How can we help?");
 			} 
 			else {
 				$("#textfield-surname").hide();
 				$("#textfield-organisation").hide();
+				$("#textarea-access").hide();
+				$("#eligibility").hide( "slow" );
 				$("#textarea-message label").text("Your message");
 			}
 			

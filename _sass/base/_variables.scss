@@ -38,11 +38,13 @@ $pink: #D84A8D;
 $white: #fff;
 $yellow: #FCDF0D;
 $brown: #BA552E;
+$light-turq: desaturate(lighten($turquoise, 50%), 40%);
 
 // Name Colour Keys - used for automatically generating coloured elements. Only include required elements.
 $colors: (
 purple: $purple,
 turq: $turquoise,
+light-turq: $light-turq,
 );
 
 // Brand Colours
