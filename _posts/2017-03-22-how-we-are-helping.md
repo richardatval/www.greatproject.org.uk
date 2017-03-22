@@ -2,7 +2,7 @@
 date: '2017-03-22 16:10 +0000'
 thumbnail-image: /img/placeholder.jpg
 layout: post
-published: false
+published: true
 title: How We Are Helping
 summary: >-
   The GREAT Project is already working with participants to provide unique
@@ -26,5 +26,4 @@ _In another instance, we have worked with a male with learning disabilities. He 
 
 In both of these cases, it would be easy to focus on the end goal alone and miss out on these necessary areas of support for the individual people concerned. 
 
-We will be continuing to focus our support on the needs and goals of each of our participants throughout the project. 
-
+We will be continuing to focus our support on the needs and goals of each of our participants throughout the project.
