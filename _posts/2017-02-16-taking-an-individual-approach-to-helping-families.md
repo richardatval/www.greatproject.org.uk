@@ -2,7 +2,7 @@
 date: '2017-02-16 11:57 +0000'
 thumbnail-image: /img/GREATConstruction-thumbnail.jpg
 layout: post
-published: false
+published: true
 title: Taking an individual approach to helping families
 ---
 ![Construction]({{site.baseurl}}/img/GREATConstruction-fullsize-web.jpg)
@@ -23,6 +23,4 @@ Potential family participants are most likely to have children of school age liv
 
 Referrals will be taken on case-by-case basis, in discussion with the participant, to ensure the Project meets their employment and training goals.
 
-For more information, or to request a referral, please [contact us](http://www.greatproject.org.uk/contact/). 
-
-
+For more information, or to request a referral, please [contact us](http://www.greatproject.org.uk/contact/).
