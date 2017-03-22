@@ -111,3 +111,8 @@ prose:
               value: 'default'
             - name: 'No Sidebars'
               value: 'no-sidebars'
+      - name: "published"
+        field:
+          label: "Published"
+          element: "checkbox"
+          value: "true"
