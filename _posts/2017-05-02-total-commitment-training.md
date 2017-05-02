@@ -1,6 +1,6 @@
 ---
 date: '2017-05-02 13:46 +0100'
-thumbnail-image: /img/placeholder.jpg
+thumbnail-image: /img/20170303_102757-fullsize-web.jpg
 layout: post
 published: true
 title: Total Commitment Training
@@ -20,17 +20,30 @@ We spoke to John, one of our Navigators about his experience with TCT and the re
 
 _“Before Christmas, I did the TCT myself, along with a “train the trainer” day. So, I was supporting and facilitating the programme, but also taking part. For me, the experience was excellent. The bonding that we had as a team was fantastic. It’s not a training course where you’re sitting in front of a PowerPoint or being lectured to. It’s not that kind of thing. It’s a participation thing.”_
 
+![20170303_104736-fullsize-web.jpg]({{site.baseurl}}/img/20170303_104736-fullsize-web.jpg)
+
+
+
 **Tell us a little more about what the training consists of.**
 
 _“It’s different depending on the needs of the group, the size of the group. But it’s a collection of tasks designed to help them work together, to discover skills they may not realise they had, as they collaborate to solve the problem at hand. It could be learning a Shakespearean sonnet, that they have to recite in order. There are memory tasks, for instance, memorising cards laid out on a table and having to find pairs. There are speed tests, where you have to assemble a jigsaw puzzle in a set period of time. They are all designed to test different areas and make people think differently about themselves and what they can accomplish, both individually and as part of a group. Making sure everyone is listened to, that everyone feels a part of it.”_
 
 _“You develop the programme for each group. On the first day, there are confidence-building exercises, icebreakers, that help us discover what may be specifically useful to each group.”_
 
+![17358774_183631142141106_1418114221648261812_o-fullsize-web.jpeg]({{site.baseurl}}/img/17358774_183631142141106_1418114221648261812_o-fullsize-web.jpeg)
+
+![17239782_183633728807514_6790403585479931845_o-fullsize-web.jpeg]({{site.baseurl}}/img/17239782_183633728807514_6790403585479931845_o-fullsize-web.jpeg)
+
+
 **How does the training help, for instance, in moving towards work?**
 
 _“It shows people they have skills. Skills they may not even realise they have. They’re given the opportunity to succeed as a group. And to fail. How both make everyone feel. It makes everyone ask questions: “What am I good at?”, “What do I need support with?” And we can be identifying those things as well and offering support.”_
 
 _“Participants learn to consider others and work as a team. They can see their own leadership skills in a new context. They learn how they react to both success and failure, and how they pick themselves up from the latter. All of these things can increase confidence in not only finding work, but knowing they have the skills to do that work.”_
+
+
+![20170303_102757-fullsize-web.jpg]({{site.baseurl}}/img/20170303_102757-fullsize-web.jpg)
+
 
 **And what was the reaction of the participants?**
 
@@ -41,6 +54,9 @@ _“We were hearing all of the things we hoped for: “One of the best experienc
 _“Here’s one example that impressed me: We had one participant who was struggling to get there. She had car trouble. Not only did she do everything to let us know, she got the neighbour round to fix the car. She managed a 10-mile journey with her car only going into second gear, just to be there.”_ 
 
 _“At first, understandably, they were sceptical. These people want to work. And we were asking them to commit four days to throwing balls into a bucket or putting a jigsaw puzzle together. But no one questioned the reasons afterwards. They all got it.”_
+
+![cameringo_20170303_123825-fullsize-web.jpg]({{site.baseurl}}/img/cameringo_20170303_123825-fullsize-web.jpg)
+
 
 **What was the experience like for you?**
 
