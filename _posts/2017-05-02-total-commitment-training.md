@@ -28,23 +28,23 @@ _“You develop the programme for each group. On the first day, there are confid
 
 **How does the training help, for instance, in moving towards work?**
 
-_“It shows people they have skills. Skills they may not even realise they have. They’re given the opportunity to succeed as a group. And to fail. How both make everyone feel. It makes everyone ask questions: “What am I good at?”, “What do I need support with?” And we can be identifying those things as well and offering support.” 
+_“It shows people they have skills. Skills they may not even realise they have. They’re given the opportunity to succeed as a group. And to fail. How both make everyone feel. It makes everyone ask questions: “What am I good at?”, “What do I need support with?” And we can be identifying those things as well and offering support.”_
 
-“Participants learn to consider others and work as a team. They can see their own leadership skills in a new context. They learn how they react to both success and failure, and how they pick themselves up from the latter. All of these things can increase confidence in not only finding work, but knowing they have the skills to do that work.”_
+_“Participants learn to consider others and work as a team. They can see their own leadership skills in a new context. They learn how they react to both success and failure, and how they pick themselves up from the latter. All of these things can increase confidence in not only finding work, but knowing they have the skills to do that work.”_
 
 **And what was the reaction of the participants?**
 
-_“Everyone committed to it. They turned up every day. Everybody loved it.  Everyone came out of it buzzing, asking “What’s next?””
+_“Everyone committed to it. They turned up every day. Everybody loved it.  Everyone came out of it buzzing, asking “What’s next?””_
 
-“We were hearing all of the things we hoped for: “One of the best experiences I’ve had”, “I never thought of doing anything like that.” It’s spurred people on. They’ve seen themselves achieve something. The reaction at the end when they achieved the final goal – not every group does - was amazing.”
+_“We were hearing all of the things we hoped for: “One of the best experiences I’ve had”, “I never thought of doing anything like that.” It’s spurred people on. They’ve seen themselves achieve something. The reaction at the end when they achieved the final goal – not every group does - was amazing.”_
 
-“Here’s one example that impressed me: We had one participant who was struggling to get there. She had car trouble. Not only did she do everything to let us know, she got the neighbour round to fix the car. She managed a 10-mile journey with her car only going into second gear, just to be there.” 
+_“Here’s one example that impressed me: We had one participant who was struggling to get there. She had car trouble. Not only did she do everything to let us know, she got the neighbour round to fix the car. She managed a 10-mile journey with her car only going into second gear, just to be there.”_ 
 
-“At first, understandably, they were sceptical. These people want to work. And we were asking them to commit four days to throwing balls into a bucket or putting a jigsaw puzzle together. But no one questioned the reasons afterwards. They all got it.”_
+_“At first, understandably, they were sceptical. These people want to work. And we were asking them to commit four days to throwing balls into a bucket or putting a jigsaw puzzle together. But no one questioned the reasons afterwards. They all got it.”_
 
 **What was the experience like for you?**
 
-_“It’s been great. It’s helped me as a Navigator to engage with people. You have to throw yourself into it. You can’t be on the edge; you have to be involved. And I think my commitment helped them to commit to it. Because they saw my enthusiasm.”
+_“It’s been great. It’s helped me as a Navigator to engage with people. You have to throw yourself into it. You can’t be on the edge; you have to be involved. And I think my commitment helped them to commit to it. Because they saw my enthusiasm.”_
 
 _“The team still has a special bond. We’ll always have that. That four days we did. You can’t put your finger on it. Until you experience it, it’s difficult to describe.”_
 
