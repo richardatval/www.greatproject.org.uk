@@ -1,10 +1,13 @@
 ---
 date: '2017-05-02 13:46 +0100'
-thumbnail-image: /img/20170303_102757-fullsize-web.jpg
+thumbnail-image: /img/TCTGroup3.jpg
 layout: post
 published: true
 title: Total Commitment Training
 ---
+
+![TCTGroup3.jpg]({{site.baseurl}}/img/TCTGroup3.jpg)
+
 
 The aim of the GREAT Project is to provide tailored and flexible support to enable participants to engage with a range of support services and activities, including training and work experience opportunities, to help them progress towards and into employment. 
 
@@ -20,9 +23,7 @@ We spoke to John, one of our Navigators about his experience with TCT and the re
 
 _“Before Christmas, I did the TCT myself, along with a “train the trainer” day. So, I was supporting and facilitating the programme, but also taking part. For me, the experience was excellent. The bonding that we had as a team was fantastic. It’s not a training course where you’re sitting in front of a PowerPoint or being lectured to. It’s not that kind of thing. It’s a participation thing.”_
 
-![20170303_104736-fullsize-web.jpg]({{site.baseurl}}/img/20170303_104736-fullsize-web.jpg)
-
-
+![TCTGroup1.jpg]({{site.baseurl}}/img/TCTGroup1.jpg)
 
 **Tell us a little more about what the training consists of.**
 
@@ -30,10 +31,9 @@ _“It’s different depending on the needs of the group, the size of the group.
 
 _“You develop the programme for each group. On the first day, there are confidence-building exercises, icebreakers, that help us discover what may be specifically useful to each group.”_
 
-![17358774_183631142141106_1418114221648261812_o-fullsize-web.jpeg]({{site.baseurl}}/img/17358774_183631142141106_1418114221648261812_o-fullsize-web.jpeg)
+![TCTCards.jpeg]({{site.baseurl}}/img/TCTCards.jpeg)
 
-![17239782_183633728807514_6790403585479931845_o-fullsize-web.jpeg]({{site.baseurl}}/img/17239782_183633728807514_6790403585479931845_o-fullsize-web.jpeg)
-
+![TCTPuzzle.jpeg]({{site.baseurl}}/img/TCTPuzzle.jpeg)
 
 **How does the training help, for instance, in moving towards work?**
 
@@ -41,9 +41,7 @@ _“It shows people they have skills. Skills they may not even realise they have
 
 _“Participants learn to consider others and work as a team. They can see their own leadership skills in a new context. They learn how they react to both success and failure, and how they pick themselves up from the latter. All of these things can increase confidence in not only finding work, but knowing they have the skills to do that work.”_
 
-
-![20170303_102757-fullsize-web.jpg]({{site.baseurl}}/img/20170303_102757-fullsize-web.jpg)
-
+![TCTGroup2.jpg]({{site.baseurl}}/img/TCTGroup2.jpg)
 
 **And what was the reaction of the participants?**
 
@@ -55,8 +53,7 @@ _“Here’s one example that impressed me: We had one participant who was strug
 
 _“At first, understandably, they were sceptical. These people want to work. And we were asking them to commit four days to throwing balls into a bucket or putting a jigsaw puzzle together. But no one questioned the reasons afterwards. They all got it.”_
 
-![cameringo_20170303_123825-fullsize-web.jpg]({{site.baseurl}}/img/cameringo_20170303_123825-fullsize-web.jpg)
-
+![TCTCelebration.jpg]({{site.baseurl}}/img/TCTCelebration.jpg)
 
 **What was the experience like for you?**
 
@@ -71,5 +68,3 @@ Total Commitment Training is just one of the programmes we can offer to GREAT Pr
 To learn more about referring yourself, or being referred to the GREAT Project, please contact us via the link below: 
 
 [https://www.greatproject.org.uk/contact/](Contact Us)
-
-
