@@ -26,8 +26,6 @@ _“It’s different depending on the needs of the group, the size of the group.
 
 _“You develop the programme for each group. On the first day, there are confidence-building exercises, icebreakers, that help us discover what may be specifically useful to each group.”_
 
-
-
 **How does the training help, for instance, in moving towards work?**
 
 _“It shows people they have skills. Skills they may not even realise they have. They’re given the opportunity to succeed as a group. And to fail. How both make everyone feel. It makes everyone ask questions: “What am I good at?”, “What do I need support with?” And we can be identifying those things as well and offering support.” 
@@ -36,7 +34,7 @@ _“Participants learn to consider others and work as a team. They can see their
  
 **And what was the reaction of the participants?**
 
-“Everyone committed to it. They turned up every day. Everybody loved it.  Everyone came out of it buzzing, asking “What’s next?””
+_“Everyone committed to it. They turned up every day. Everybody loved it.  Everyone came out of it buzzing, asking “What’s next?””_
 
 _“We were hearing all of the things we hoped for: “One of the best experiences I’ve had”, “I never thought of doing anything like that.” It’s spurred people on. They’ve seen themselves achieve something. The reaction at the end when they achieved the final goal – not every group does - was amazing.”
 
@@ -54,8 +52,8 @@ _“Seeing people progress was amazing. But I know that I progressed too.”_
 
 Total Commitment Training is just one of the programmes we can offer to GREAT Project participants who want to move towards work and training. 
 
-To learn more about referring yourself, or being referred to the GREAT Project, please visit: 
+To learn more about referring yourself, or being referred to the GREAT Project, please contact us via the link below: 
 
-https://www.greatproject.org.uk/contact/
+[https://www.greatproject.org.uk/contact/](Contact Us)
 
 
