@@ -30,17 +30,17 @@ _“You develop the programme for each group. On the first day, there are confid
 
 _“It shows people they have skills. Skills they may not even realise they have. They’re given the opportunity to succeed as a group. And to fail. How both make everyone feel. It makes everyone ask questions: “What am I good at?”, “What do I need support with?” And we can be identifying those things as well and offering support.” 
 
-_“Participants learn to consider others and work as a team. They can see their own leadership skills in a new context. They learn how they react to both success and failure, and how they pick themselves up from the latter. All of these things can increase confidence in not only finding work, but knowing they have the skills to do that work.”_
- 
+“Participants learn to consider others and work as a team. They can see their own leadership skills in a new context. They learn how they react to both success and failure, and how they pick themselves up from the latter. All of these things can increase confidence in not only finding work, but knowing they have the skills to do that work.”_
+
 **And what was the reaction of the participants?**
 
-_“Everyone committed to it. They turned up every day. Everybody loved it.  Everyone came out of it buzzing, asking “What’s next?””_
+_“Everyone committed to it. They turned up every day. Everybody loved it.  Everyone came out of it buzzing, asking “What’s next?””
 
-_“We were hearing all of the things we hoped for: “One of the best experiences I’ve had”, “I never thought of doing anything like that.” It’s spurred people on. They’ve seen themselves achieve something. The reaction at the end when they achieved the final goal – not every group does - was amazing.”
+“We were hearing all of the things we hoped for: “One of the best experiences I’ve had”, “I never thought of doing anything like that.” It’s spurred people on. They’ve seen themselves achieve something. The reaction at the end when they achieved the final goal – not every group does - was amazing.”
 
-_“Here’s one example that impressed me: We had one participant who was struggling to get there. She had car trouble. Not only did she do everything to let us know, she got the neighbour round to fix the car. She managed a 10-mile journey with her car only going into second gear, just to be there.” 
+“Here’s one example that impressed me: We had one participant who was struggling to get there. She had car trouble. Not only did she do everything to let us know, she got the neighbour round to fix the car. She managed a 10-mile journey with her car only going into second gear, just to be there.” 
 
-_“At first, understandably, they were sceptical. These people want to work. And we were asking them to commit four days to throwing balls into a bucket or putting a jigsaw puzzle together. But no one questioned the reasons afterwards. They all got it.”_
+“At first, understandably, they were sceptical. These people want to work. And we were asking them to commit four days to throwing balls into a bucket or putting a jigsaw puzzle together. But no one questioned the reasons afterwards. They all got it.”_
 
 **What was the experience like for you?**
 
