@@ -15,6 +15,6 @@ Here's what some of our participants had to say about the experience:
 
 "It’s quite interesting here, there are lots of opportunities. I am just getting some basic info and when I get home I will look over and make some phone calls. Since I met Krishna (Employment Navigator), things have changed positively- that has given me the confidence to attend this event. I also felt reassured that the Work Club would be here to support me."
 
-![JobsFairBigAlt2-fullsize-web.jpg]({{site.baseurl}}/img/JobsFairBigAlt2-fullsize-web.jpg)!
+![JobsFairBigAlt2-fullsize-web.jpg]({{site.baseurl}}/img/JobsFairBigAlt2-fullsize-web.jpg)
 
 For more information about the project, please [contact us](https://www.greatproject.org.uk/contact/).
