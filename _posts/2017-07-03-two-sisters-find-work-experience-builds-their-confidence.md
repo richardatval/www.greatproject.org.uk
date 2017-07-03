@@ -3,7 +3,7 @@ date: '2017-07-03 11:30 +0100'
 thumbnail-image: /img/placeholder.jpg
 layout: post
 published: true
-title: Two Sisters find work experience builds their confidence
+title: Two sisters find work experience builds their confidence
 ---
 
 
