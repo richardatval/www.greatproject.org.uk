@@ -1,6 +1,6 @@
 ---
 date: '2017-07-03 11:30 +0100'
-thumbnail-image: /img/placeholder.jpg
+thumbnail-image: /img/MSLogo1.jpg
 layout: post
 published: true
 title: Two sisters find work experience builds their confidence
