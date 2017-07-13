@@ -1,6 +1,6 @@
 ---
 date: '2017-07-13 15:36 +0100'
-thumbnail-image: /img/JobsBig2Alt-thumbnail.jpg
+thumbnail-image: /img/JobsFairBigAlt2-fullsize-web.jpg
 layout: post
 published: true
 title: The GREAT Project is recruiting
@@ -22,5 +22,6 @@ http://www.valonline.org.uk/employment-navigators
 
 http://www.valonline.org.uk/lead-employment-navigators-%E2%80%93-2-positions
 
-![BBO grantholder lock up FINAL.jpg]({{site.baseurl}}/img/partners/BBO%20grantholder%20lock%20up%20FINAL.jpg)
+![]({{site.baseurl}}/img/BBO%20grantholder%20logo%20May%202017.jpg)![BBO grantholder logo May 2017.jpg]({{site.baseurl}}/img/BBO grantholder logo May 2017.jpg)
+
 
