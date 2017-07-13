@@ -18,10 +18,8 @@ Lead Navigators will line manage, supervise and coordinate a team of Employment 
 
 For more information or to apply, please visit
 
-http://www.valonline.org.uk/employment-navigators
+[Employment Navigators](http://www.valonline.org.uk/employment-navigators)
 
-http://www.valonline.org.uk/lead-employment-navigators-%E2%80%93-2-positions
+[Lead Employment Navigators](http://www.valonline.org.uk/lead-employment-navigators-%E2%80%93-2-positions)
 
 ![BBO grantholder logo May 2017.jpg]({{site.baseurl}}/img/BBO grantholder logo May 2017.jpg)
-
-
