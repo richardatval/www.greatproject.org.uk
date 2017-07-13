@@ -22,6 +22,6 @@ http://www.valonline.org.uk/employment-navigators
 
 http://www.valonline.org.uk/lead-employment-navigators-%E2%80%93-2-positions
 
-![]({{site.baseurl}}/img/BBO%20grantholder%20logo%20May%202017.jpg)![BBO grantholder logo May 2017.jpg]({{site.baseurl}}/img/BBO grantholder logo May 2017.jpg)
+![BBO grantholder logo May 2017.jpg]({{site.baseurl}}/img/BBO grantholder logo May 2017.jpg)
 
 
