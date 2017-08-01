@@ -5,7 +5,7 @@ layout: post
 published: true
 title: The GREAT Project on BBC Leicester
 ---
-The GREAT Project was featured on BBC Leicester on the 26 July, with Jim Davis and Jo Hayward, discussing about the real effect it is having on people's lives. 
+The GREAT Project was featured on BBC Leicester on 26 July, with Jim Davis and Jo Hayward, discussing about the real effect it is having on people's lives. 
 
 The two segments can be heard at 1hr and 1hr 55 mins respectively and will be available online until 22 August. 
 
