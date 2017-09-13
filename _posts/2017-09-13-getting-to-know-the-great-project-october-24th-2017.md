@@ -1,11 +1,11 @@
 ---
 date: '2017-09-13 14:28 +0100'
-thumbnail-image: /img/placeholder.jpg
+thumbnail-image: /img/GREAT Event 2017 Banner.jpg
 layout: default
 published: true
 title: 'Getting to Know the GREAT Project - October 24th, 2017'
 ---
-![]({{site.baseurl}}/img/GREAT%20Event%202017%20Banner.jpg)![GREAT Event 2017 Banner.jpg]({{site.baseurl}}/img/GREAT Event 2017 Banner.jpg)
+![GREAT Event 2017 Banner.jpg]({{site.baseurl}}/img/GREAT Event 2017 Banner.jpg)
 
 
 The GREAT Project is holding an event on Tuesday, October 24th to celebrate and share its work so far and to offer its support to new participants moving forward. 
