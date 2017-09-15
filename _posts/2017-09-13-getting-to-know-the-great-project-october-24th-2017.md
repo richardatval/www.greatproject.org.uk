@@ -23,6 +23,3 @@ The event will begin at 10:30 am with tea and coffee, followed by presentations 
 Spaces are limited, so early booking is recommended. 
 
 Book your tickets [now](https://www.eventbrite.co.uk/e/getting-to-know-the-great-project-tickets-37759056354).
-
-
-
