@@ -1,6 +1,6 @@
 ---
 date: '2017-09-15 15:11 +0100'
-thumbnail-image: /img/GPVideoThumbnail.jpg
+thumbnail-image: /img/DianaFrame.jpg
 layout: default
 published: true
 title: VIDEO - What is the GREAT Project?
