@@ -41,6 +41,10 @@ min-width: em(320px - ($gutter * 2)) ;
     @include media($mobile) {
       @include fill-parent;
     }
+	
+    @include media($tablet) {
+      @include fill-parent;
+    }
 
     @include media($desktop) {
       @include span-columns(8);
@@ -50,11 +54,6 @@ min-width: em(320px - ($gutter * 2)) ;
     // 100% width for mobile devices.
     @include media($mobile) {
       @include fill-parent;
-    }
-
-    @include media($tablet) {
-      @include span-columns(5);
-      @include shift(3);
     }
 
     @include media($desktop) {
@@ -111,12 +110,6 @@ min-width: em(320px - ($gutter * 2)) ;
   // 100% width for mobile devices.
   @include media($mobile) {
     @include fill-parent;
-  }
-
-  // Similar logic for tablets.
-  @include media($tablet) {
-    @include span-columns(3);
-    @include shift(0);
   }
 
   @include media($desktop) {

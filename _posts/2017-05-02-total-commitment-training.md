@@ -1,6 +1,6 @@
 ---
 date: '2017-05-02 13:46 +0100'
-thumbnail-image: /img/TCTGroup3.jpg
+thumbnail-image: /img/TCTGroup3-thumbnail.jpg
 layout: post
 published: true
 title: Total Commitment Training

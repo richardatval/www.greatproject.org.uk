@@ -453,14 +453,20 @@ span.funder-logo {
 }
 
 span.val-logo {
-	float: right;
-	margin-left: $gutter;
+	margin-top: 20px;
+	margin-bottom: 20px;
 	margin-right: -100px;
 	background-image:url('#{"" + $image-directory}/ui/val-logo.png');
-	background-size: 93px 128px;
-	width: 93px;
-	height: 128px;
+	background-size: 194px 92px;
+	width: 194px;
+	height: 92px;
 	@include transition(all 0.1s ease-in-out);
+	@include media($tablet) {
+		margin-bottom: 0;
+		margin-top: 6px;
+		margin-left: $gutter;
+		float: right;
+	}
 }
 
 .navigation-menu-button {
@@ -473,7 +479,7 @@ span.val-logo {
 		width: $navigation-height;
 	}
 	@include hide-text;
-	&.active, &:hover, &:focus {
+	&.active {
 		background-color: $navigation-nav-button-background-hover;
 	}
 }
