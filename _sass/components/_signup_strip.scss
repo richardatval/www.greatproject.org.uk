@@ -1,0 +1,44 @@
+#signupstrip {
+	background: $purple;
+	label {
+		color: #fff;
+		margin-right: 20px;
+		margin-top: 0.35em;
+		@include media(689px) {
+			float: left;
+			width: 40%;
+		}
+	}
+	
+	.signupstrip-container {
+		position: relative;
+		padding: $gutter $gutter 0 $gutter;
+	}
+	
+	.mc-field-group {
+		@include media(689px) {
+			position: absolute;
+			top: $gutter;
+			left: 320px;
+			right: 210px;
+			width: auto;
+			margin-left: auto;
+			margin-right: auto;
+		}
+	}
+	
+	input[type="submit"] {
+		color: #fff;
+		margin-right: $gutter*2;
+		@include media(689px) {
+			float: right;
+		}
+		background: darken($purple, 25%);
+		&:hover,
+		&:focus {
+			background-color: darken($purple, 40%);
+			color: #fff;
+			text-decoration: none;
+		}
+	}
+}
