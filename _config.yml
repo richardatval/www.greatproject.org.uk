@@ -35,7 +35,7 @@ analyticstracking: "UA-88639134-1"
 
 # Pagination
 
-paginate: 5
+paginate: 6
 paginate_path: "/news/:num/"
 
 #  Timezone

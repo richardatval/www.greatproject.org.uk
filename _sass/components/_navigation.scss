@@ -479,7 +479,7 @@ span.val-logo {
 		width: $navigation-height;
 	}
 	@include hide-text;
-	&.active {
+	&.active, &:hover, &:focus {
 		background-color: $navigation-nav-button-background-hover;
 	}
 }

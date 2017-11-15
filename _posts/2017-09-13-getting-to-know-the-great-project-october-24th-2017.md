@@ -1,6 +1,6 @@
 ---
 date: '2017-09-13 14:28 +0100'
-thumbnail-image: /img/GREAT Event 2017 Banner.jpg
+thumbnail-image: /img/thumbnails/gtk-thumbnail.jpg
 layout: default
 published: true
 title: 'Getting to Know the GREAT Project - October 24th, 2017'

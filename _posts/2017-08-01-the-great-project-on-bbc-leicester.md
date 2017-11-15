@@ -1,6 +1,6 @@
 ---
 date: '2017-08-01 14:13 +0100'
-thumbnail-image: /img/BBCCombined.jpg
+thumbnail-image: /img/thumbnails/great-project.jpg
 layout: post
 published: true
 title: The GREAT Project on BBC Leicester

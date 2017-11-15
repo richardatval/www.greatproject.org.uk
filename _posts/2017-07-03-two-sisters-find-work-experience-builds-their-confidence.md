@@ -1,6 +1,6 @@
 ---
 date: '2017-07-03 11:30 +0100'
-thumbnail-image: /img/MSLogo1.jpg
+thumbnail-image: /img/thumbnails/single-mothers.jpg
 layout: post
 published: true
 title: Single mothers say the GREAT Project has “changed their lives”.

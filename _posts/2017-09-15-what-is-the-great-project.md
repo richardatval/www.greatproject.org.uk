@@ -1,6 +1,6 @@
 ---
 date: '2017-09-15 15:11 +0100'
-thumbnail-image: /img/DianaFrameWS.jpg
+thumbnail-image: /img/thumbnails/what-is-thumbnail.jpg
 layout: default
 published: true
 title: VIDEO - What is the GREAT Project?

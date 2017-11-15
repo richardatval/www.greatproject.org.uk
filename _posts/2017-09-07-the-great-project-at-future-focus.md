@@ -1,6 +1,6 @@
 ---
 date: '2017-09-07 15:52 +0100'
-thumbnail-image: /img/20170905_111505 copy.jpg
+thumbnail-image: /img/thumbnails/future-focus.jpg
 layout: post
 published: true
 title: The GREAT Project at Future Focus

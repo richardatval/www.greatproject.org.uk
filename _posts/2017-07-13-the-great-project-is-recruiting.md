@@ -1,6 +1,6 @@
 ---
 date: '2017-07-13 15:36 +0100'
-thumbnail-image: /img/JobsFairBigAlt2-fullsize-web.jpg
+thumbnail-image: /img/thumbnails/recruiting.jpg
 layout: post
 published: true
 title: The GREAT Project is recruiting
