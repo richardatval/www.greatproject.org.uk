@@ -7,7 +7,6 @@ title: How to Refer to the GREAT Project
 ---
 
 ![P1020811-fullsize-web.JPG]({{site.baseurl}}/img/P1020811-fullsize-web.JPG)
-![P1020811-thumbnail.JPG]({{site.baseurl}}/img/P1020811-thumbnail.JPG)
 
 
 Wondering how to refer yourself or a family with whom you work to the GREAT Project? 
