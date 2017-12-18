@@ -9,10 +9,7 @@ The GREAT Project is proud to have been collecting toys for Toys on the Table. I
 
 Toys on the Table is a Charity working in the Leicester and Leicestershire area, which provides NEW toys and gifts at the holiday season for those children, regardless of faith, who might otherwise not receive anything.
 
-![P1030144.jpg]({{site.baseurl}}/img/P1030144.jpg)
-
 ![P1030144-fullsize-web.jpg]({{site.baseurl}}/img/P1030144-fullsize-web.jpg)
-![P1030144-thumbnail.jpg]({{site.baseurl}}/img/P1030144-thumbnail.jpg)
 
 
 Here's how you can contribute to this amazing work. 
