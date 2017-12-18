@@ -17,4 +17,4 @@ Toys on the Table is a Charity working in the Leicester and Leicestershire area,
 
 Here's how you can contribute to this amazing work. 
 
-http://www.toysonthetable.org.uk/how-can-you-help/
+[Toys on the Table](http://www.toysonthetable.org.uk/how-can-you-help/)
