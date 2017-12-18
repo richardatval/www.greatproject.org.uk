@@ -1,6 +1,6 @@
 ---
 date: '2017-12-18 16:09 +0000'
-thumbnail-image: /img/placeholder.jpg
+thumbnail-image: /img/P1030144-thumbnail.jpg
 layout: default
 published: true
 title: Toys on the Table
