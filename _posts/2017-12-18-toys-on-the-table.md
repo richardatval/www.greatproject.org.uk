@@ -11,6 +11,10 @@ Toys on the Table is a Charity working in the Leicester and Leicestershire area,
 
 ![P1030144.jpg]({{site.baseurl}}/img/P1030144.jpg)
 
+![P1030144-fullsize-web.jpg]({{site.baseurl}}/img/P1030144-fullsize-web.jpg)
+![P1030144-thumbnail.jpg]({{site.baseurl}}/img/P1030144-thumbnail.jpg)
+
+
 Here's how you can contribute to this amazing work. 
 
 http://www.toysonthetable.org.uk/how-can-you-help/
