@@ -1,6 +1,6 @@
 ---
 date: '2018-01-09 12:45 +0000'
-thumbnail-image: /img/placeholder.jpg
+thumbnail-image: /img/newucposter1.png
 layout: default
 published: true
 title: Universal Credit Events
