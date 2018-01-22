@@ -11,4 +11,5 @@ If you feel your family could benefit from the project, or you work with a famil
 
 We will then contact you with more details about the steps that you’ll go through to enrol in the project and start developing your support package.
 
-{% include contact.html %}
+{% include jotform.html %}
+

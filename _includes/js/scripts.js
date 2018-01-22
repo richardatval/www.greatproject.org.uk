@@ -104,33 +104,33 @@ $(document).ready(function() {
 		
 		$("#input_16").change(function() {
 			if ($(this).val() == "Support for a family I work with") {
-				$("#input_7").show();
-				$("#input_6").show();
-				$("#input_9").show();
-				$("#input_11").show();
-				$("#input_12").show();
-				$("#input_13").show();
-				$("#label_15").text("Does the family have any access requirements?");
-				$("#input_15").show( "slow" );
+				$("#id_7").show();
+				$("#id_6").show();
+				$("#id_9").show();
+				$("#id_11").show();
+				$("#id_12").show();
+				$("#id_13").show();
+				$("#id_15").text("Does the family have any access requirements?");
+				$("#id_15").show( "slow" );
 				$("#eligibility").show( "slow" );
 				$("#label_14").text("Please provide a brief description of the case, including any time constraints.");
 			} 
 			else if ($(this).val() == "Support for my family") {
-				$("#input_7").show();
-				$("#input_6").hide();
-				$("#input_9").show();
-				$("#input_11").show();
-				$("#input_12").show();
-				$("#input_13").show();
+				$("#id_7").show();
+				$("#id_6").hide();
+				$("#id_9").show();
+				$("#id_11").show();
+				$("#id_12").show();
+				$("#id_13").show();
 				$("#label_15").text("Do you have any access requirements?");
-				$("#input_15").show();
+				$("#id_15").show();
 				$("#eligibility").show( "slow" );
 				$("#label_14").text("How can we help?");
 			} 
 			else {
-				$("#input_7").hide();
-				$("input_6").hide();
-				$("#input_15").hide();
+				$("#id_7").hide();
+				$("#id_6").hide();
+				$("#id_15").hide();
 				$("#eligibility").hide( "slow" );
 				$("#label_14").text("Your message");
 			}
