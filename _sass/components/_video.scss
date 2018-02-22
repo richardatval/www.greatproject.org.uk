@@ -1,3 +1,14 @@
+#videos {
+    .teaser-wrapper {
+        .teaser {
+            height: auto;
+        }
+        @include media($desktop) {
+            width: 49%;
+        }
+    }
+}
+
 .video-wrapper {
   height: 0;
   margin-bottom: $gutter;

@@ -1,4 +1,30 @@
 $(document).ready(function() {
+    
+    if (document.location.pathname == "/films/") {
+        $.getJSON("https://www.googleapis.com/youtube/v3/playlistItems?part=snippet,contentDetails&maxResults=30&playlistId=PLpaj2LoHcuo_-Y1J4DTaAvZkVmbiMTT6j&fields=items&key=AIzaSyB3lVlBUFAYDVTwWSohEqoAV_lyNbUeq_w", function(result) {
+            $.each(result.items, function(i, item) {
+                $("#videos").append('<div class="teaser-wrapper"><div class="teaser">' + '<a data-id="' + item.contentDetails.videoId + '" class="modal-trigger" href="javascript:void(0);"><img src="https://img.youtube.com/vi/' + item.contentDetails.videoId + '/0.jpg"></a><a data-id="' + item.contentDetails.videoId + '" class="modal-trigger" href="javascript:void(0);"><h4>'+ item.snippet.title + '</a></h4><p>' + item.snippet.description.split(' ', 15).join(' ') + '…</p></div></div>');
+            });
+        
+        
+            $('.modal-trigger').click(function() {
+                var id = $(this).data("id");
+                $('.modal-content').append('<div class="video"><div class="video-wrapper"><iframe id="#youtube" src="https://www.youtube.com/embed/' + id + '?enablejsapi=1&amp;version=3&amp;playerapiid=ytplayer" frameborder="0" allowfullscreen="true" allowscriptaccess="always"></iframe></div></div>');
+                $('.modal').toggleClass('is-active');
+            });
+
+            $(".modal-fade-screen, .modal-close").on("click", function() {
+                $('.modal').removeClass('is-active');
+                $('.modal-content').empty();
+            });
+
+            $(".modal-inner").on("click", function(e) {
+                e.stopPropagation();
+                $('iframe')[0].contentWindow.postMessage('{"event":"command","func":"' + 'stopVideo' + '","args":""}', '*');
+            });
+        
+        });
+    }
 
 		// Menu Bar
 
@@ -141,6 +167,20 @@ $(document).ready(function() {
 });
 
 
+$(function() {
+    $('.modal-trigger').click(function() {
+        $('.modal').toggleClass('is-active');
+    });
+
+    $(".modal-fade-screen, .modal-close").on("click", function() {
+        $('.modal').removeClass('is-active');
+    });
+
+    $(".modal-inner").on("click", function(e) {
+        e.stopPropagation();
+        $('iframe')[0].contentWindow.postMessage('{"event":"command","func":"' + 'stopVideo' + '","args":""}', '*');
+    });
+});
 
 (function (jQuery) {
   jQuery.mark = {
