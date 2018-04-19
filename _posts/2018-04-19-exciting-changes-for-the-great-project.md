@@ -1,6 +1,6 @@
 ---
 date: '2018-04-19 16:02 +0100'
-thumbnail-image: img/GREAT-project-exciting-changes-thumbnail.jpg
+thumbnail-image: /img/GREAT-project-exciting-changes-thumbnail.jpg
 layout: default
 published: true
 title: Exciting changes for the GREAT Project
