@@ -10,11 +10,11 @@ summary: >-
 ---
 On 17 April, GREAT spent a morning looking behind the scenes at Leicestershire-based charity Fareshare. 
 
-## Who is Fareshare?
+### Who is Fareshare?
 
 Fareshare tackles food waste across the UK by taking excess food from the food industry and individuals. They check it for quality and redistribute it to voluntary groups and businesses who can use the food for social good, such as community centres, cafes and restaurants who could provide free or low-cost meals in deprived areas.
 
-## Behind the scenes
+### Behind the scenes
 
 We invited a few GREAT participants along, and they had the chance to see how an organisation like Fareshare works. They were also able to get a feel for what Fareshare would be looking for in a volunteer (as the organisation has many volunteers to help sort and distribute the food) and in potential staff if they were to recruit.
 
