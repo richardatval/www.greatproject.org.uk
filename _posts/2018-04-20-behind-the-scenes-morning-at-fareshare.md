@@ -8,7 +8,7 @@ summary: >-
   On 17 April, GREAT spent a morning looking behind the scenes at
   Leicestershire-based charity Fareshare.
 ---
-On 17 April, GREAT spent a morning looking behind the scenes at Leicestershire-based charity Fareshare. 
+On 18 April, GREAT spent a morning looking behind the scenes at Leicestershire-based charity Fareshare. 
 
 ### Who is Fareshare?
 
