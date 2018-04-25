@@ -17,9 +17,9 @@ However, not all of our participants can afford to buy brand new clothes, so we'
 
 ### What we're looking for
 
-We're looking for people to donate:
+We're looking for people to donate the following, for men and women, in all sizes:
 
-- Complete smart suits (mens and womens)
+- Complete smart suits
 - Smart trousers
 - Smart jackets
 - Shirts and blouses
