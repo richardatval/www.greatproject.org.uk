@@ -1,0 +1,29 @@
+---
+date: '2018-04-25 12:51 +0100'
+thumbnail-image: /img/placeholder.jpg
+layout: default
+published: false
+title: Donate your spare smart clothes for GREAT
+summary: >-
+  Not all of our participants can afford to buy brand new clothes, so we're
+  collecting formal clothes that we can give to interviewees ahead of their
+  interviews.
+---
+One of the ways GREAT is helping our project participants to get ready for work is by preparing them for the interview process.
+
+Successful interviews depend on knowing how to present yourself to prospective employers, and a part of that is making sure that interviewees are dressed appropriately. 
+
+However, not all of our participants can afford to buy brand new clothes, so we're collecting formal clothes that we can give to interviewees ahead of their interviews.
+
+### What we're looking for
+
+We're looking for people to donate:
+
+- Complete smart suits (mens and womens)
+- Smart trousers
+- Smart jackets
+- Shirts and blouses
+
+If you'd like to donate something, please contact Suzi Hailes, GREAT Employment Support Officer:
+
+suzi.h@greatproject.org.uk
