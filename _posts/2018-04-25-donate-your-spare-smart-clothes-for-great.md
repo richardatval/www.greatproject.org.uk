@@ -24,6 +24,8 @@ We're looking for people to donate the following, for men and women, in all size
 - Smart jackets
 - Shirts and blouses
 
+Any donated clothes which aren't used by the GREAT participants will be passed on to local charities.
+
 If you'd like to donate something, please contact Suzi Hailes, GREAT Employment Support Officer:
 
 suzi.h@greatproject.org.uk
