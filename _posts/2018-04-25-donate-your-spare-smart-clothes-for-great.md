@@ -1,8 +1,8 @@
 ---
 date: '2018-04-25 12:51 +0100'
-thumbnail-image: /img/placeholder.jpg
+thumbnail-image: /img/donate-clothes-for-great-thumbnail.jpg
 layout: default
-published: false
+published: true
 title: Donate your spare smart clothes for GREAT
 summary: >-
   Not all of our participants can afford to buy brand new clothes, so we're
@@ -29,3 +29,5 @@ Any donated clothes which aren't used by the GREAT participants will be passed o
 If you'd like to donate something, please contact Suzi Hailes, GREAT Employment Support Officer:
 
 suzi.h@greatproject.org.uk
+
+![Donate your spare smart clothes for GREAT]({{site.baseurl}}/img/donate-clothes-for-great.jpg)
