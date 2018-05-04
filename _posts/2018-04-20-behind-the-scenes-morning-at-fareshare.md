@@ -8,6 +8,8 @@ summary: >-
   On 17 April, GREAT spent a morning looking behind the scenes at
   Leicestershire-based charity Fareshare.
 ---
+![GREAT Project behind the scenes at Fareshare]({{site.baseurl}}/img/fareshare_group_exercise.jpg)
+
 On 18 April, GREAT spent a morning looking behind the scenes at Leicestershire-based charity Fareshare. 
 
 ### Who is Fareshare?
@@ -21,5 +23,3 @@ We invited a few GREAT participants along, and they had the chance to see how an
 To help us to understand what the average Fareshare volunteer has to do, we were given a pallet of donated food to sort into the correct boxes. It might look easy but it was surprisingly difficult!
 
 We hope our participants were inspired by their morning at Fareshare and we look forward to more behind the scenes visits in the future!
-
-![GREAT Project behind the scenes at Fareshare]({{site.baseurl}}/img/fareshare_group_exercise.jpg)
