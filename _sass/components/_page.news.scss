@@ -5,3 +5,29 @@ margin-bottom: $gutter;
 }
 }
 }
+
+.page-partner-news {
+    aside {
+        @include media($desktop) {
+        		margin-top: 70px;
+        }
+    }
+section {
+h1 {
+margin-bottom: $gutter;
+}
+}
+.teaser-wrapper {
+@include media($desktop) {
+		width: 49%;
+}
+}
+
+#sidebar-second {
+	@include media($tablet) {
+	#fb-teaser {
+		margin-top: 90px;
+	}
+	}
+}
+}

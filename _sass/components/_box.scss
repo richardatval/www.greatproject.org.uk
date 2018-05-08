@@ -22,6 +22,14 @@
 	h3 {
 		color: #fff;
 	}
+    a:link, a:visited {
+        color: white;
+    }
+    
+    a:hover, a:focus {
+        color: lighten($brand-primary, 30%);
+    }
+    
 	input[type="submit"] {
 		@extend button.white
 	} 
@@ -40,6 +48,9 @@
 		input[type="submit"] {
 			@extend button.white
 		} 
+        a:link, a:visited {
+            color: white;
+        }
 		a.button {
 			@extend a.button.white
 		}

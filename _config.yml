@@ -20,7 +20,7 @@ url: https://www.greatproject.org.uk
 baseurl: 
 email: info@greatproject.org.uk
 github: 
-copyright: 'The GREAT Project is funded by Big Lottery Fund and the European Social Fund. The service is delivered by Voluntary Action LeicesterShire (VAL).</p><p>
+copyright: 'The GREAT Project  is funded by the European Social Fund and the National Lottery, through the Big Lottery Fund. The service is delivered by Voluntary Action LeicesterShire (VAL).</p><p>
 <a href="http://www.valonline.org.uk/">Voluntary Action LeicesterShire</a> is the trading name of Voluntary Action Leicester registered charity (No. 509300) Registered in England and Wales. ©'
 
 #  Social media settings
@@ -51,6 +51,16 @@ conditionalstylesheets:
   - target: "ie9"
     path: "/css/ie9.css"
 
+# Events configuration
+
+collections:
+  events:
+    output: true
+    permalink: /events/:path/
+  partnernews:
+    output: true
+    permalink: /partnernews/:path/
+
 #  Configuration for prose.io online editor
 prose:
   ignore: 
@@ -79,6 +89,74 @@ prose:
   media: img
   metadata:
     _posts:
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+      - name: "date"
+        field:
+          label: "Date"
+          element: "text"
+          value: CURRENT_DATETIME
+      - name: "summary"
+        field:
+          label: "Summary"
+          element: "textarea"
+          value: null
+      - name: "thumbnail-image"
+        field:
+          label: "Thumbnail Image"
+          element: "text"
+          placeholder: "/img/placeholder-thumbnail.png"
+          value: "/img/placeholder.jpg"
+      - name: "layout"
+        field:
+          label: "Layout"
+          element: "select"
+          value: "default"
+          options:
+            - name: 'Post'
+              value: 'post'
+            - name: 'Default'
+              value: 'default'
+            - name: 'No Sidebars'
+              value: 'no-sidebars'
+      - name: "published"
+        field:
+          label: "Published"
+          element: "checkbox"
+          value: "true"
+    _events:
+      - name: "title"
+        field:
+          element: "text"
+          label: "Title"
+      - name: "summary"
+        field:
+          label: "Summary"
+          element: "textarea"
+          value: null
+      - name: "when"
+        field:
+          label: "When"
+          element: "text"
+          value: ""
+      - name: "venue"
+        field:
+          label: "Where"
+          element: "text"
+          value: ""
+      - name: "layout"
+        field:
+          label: "Layout"
+          element: "hidden"
+          value: "event"
+      - name: "published"
+        field:
+          label: "Published"
+          element: "checkbox"
+          value: "true"
+    _partnernews:
       - name: "title"
         field:
           element: "text"
