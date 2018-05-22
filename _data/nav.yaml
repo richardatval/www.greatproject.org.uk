@@ -14,6 +14,8 @@
       subhref: "/who-we-are"
     - subtitle: "Our partners"
       subhref: "/our-partners"
+    - subtitle: "Our Team"
+      subhref: "/our-team"
 - title: "What we offer"
   href: "/what-we-offer"
 - title: "Films"
