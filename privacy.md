@@ -14,74 +14,109 @@ scrollheadings:
 published: true
 ---
 
-### Overview
+The GREAT Project is managed and delivered by Voluntary Action LeicesterShire (VAL). The project operates as a partnership, led by VAL. Current delivery partners can be found on our Partners page.
 
-This privacy policy sets out how Voluntary Action LeicesterShire uses and protects any information that you give to us when you use this website.
+This privacy policy covers what we do with any information we collect about you when accessing the GREAT Project. Other projects managed by VAL have their own websites, where you will find their own specific privacy policies.
 
-Voluntary Action LeicesterShire is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, it will only be used in accordance with this privacy statement.
+### About VAL
 
-Voluntary Action LeicesterShire may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 25 November 2016.
+VAL is a charity based in Leicester. VAL manages and delivers a range of contracts and projects, including VAL Voluntary Sector Support, VAL Volunteering, VAL Directory, VALUES, Orange Rooms, Technical Assistance, SENDIASS Leicester, SENDIASS Rutland, Choice Advice, and the YES Project.
+
+VAL is registered as a data controller with the Information Commissioner's Office (ICO). Our registration number is Z9829723.
+
+VAL considers itself to be a joint data controller with the Department for Work and Pensions (DWP) for the purposes of data processing for the GREAT Project.
+
+### Lawful basis for processing data
+
+We use the following lawful bases for processing your data:
+
+**The performance of a public task, meaning a task carried out in the public interest.**
+1.This is the lawful basis chosen by the Department for Work and Pensions, who are the Managing Authority of the Building Better Opportunities (BBO) Programme which funds this project.
+
+**Based on our legitimate interests:**
+1. To assess your suitability before entering the programme
+2. To contact you about the activities you are undertaking as part of the programme
+
+**Based on your consent:**
+1. To process special categories of your personal data (e.g. data concerning your health, ethnicity, biometric data)
+2. To send you marketing emails
 
 ### What we collect
 
-We may collect the following information:
+We collect the data which we need in order to successfully deliver and report on our services:
 
-* your name
-* your organisation name and details
-* your job title
-* contact information including email address
-* demographic information such as postcode, preferences,interests and other information relevant to customer surveys and our work with the sector
+- Names
+- Addresses
+- Email addresses
+- Telephone numbers
+- Date of birth
+- Details of benefits
+- Copies of birth certificates
+- Data about your children (where necessary for nursery provision)
+- Family situation (e.g. living arrangements, marital status, etc.)
+- Copies of letters from DWP, JCP or NCS to prove employment status
 
-### Why we gather this information
+We may also request more sensitive information (known as special categories of personal data):
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+- Information around health and disability
+- Ethnicity
+- Copies of passports
+- Copies of documents showing eligibility to work in the UK e.g. biometric document from the Home Office showing leave to remain or right to work status of a foreign national
 
-* Internal record keeping.
-* We may use the information to improve our products and services.
-* We may periodically send information about training, funding and other sector-specific activities.
-* From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests. You may opt out of this by contacting our helpline on 0116 257 5050.
+From time to time we may also ask for you to voluntarily provide additional information as part of surveys, polls, feedback or competitions. 
 
-### Security
+When you visit our website, we collect data about your visit using Google Analytics cookies.
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+### How we use your information
 
-### How we use cookies
+Your information will only ever be used to help us deliver and report on our services.
 
-A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+Information about your family situation and health conditions are used to determine your eligibility for access to the GREAT Project.
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+### Data sharing
 
-Overall, cookies help us provide you with a better website by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
+Your data is shared with the Building Better Opportunities Programme, 
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies, if you prefer.
+We will share your personal data with appropriate delivery partners in order to enable them to deliver their support services. 
 
-This may prevent you from taking full advantage of the website.
+Partners may collect additional information about you which they need in order to support you. This will not be shared with the GREAT Project.
 
-#### Google Analytics Tracking
+We do use your information to help with the statistics in our reporting. Our reporting never includes personal data or anything that could identify a specific person, only anonymous statistical data which helps us to monitor and improve the performance of our services.
 
-Google Analytics cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, from where visitors have come to the site and the pages they visited.
+### Data retention period
 
-### Links to other websites
+Personal data will be stored for 10 years after the end of the project. The project is currently due to end in 2019. This is a requirement of the project funders.
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+### Marketing
 
-### Controlling your personal information
+We would like to send you information about news and events relating to the GREAT Project.
 
-You may choose to restrict the collection or use of your personal information in the following ways:
+If you consent to receive marketing, you can opt out at any time by clicking the 'Unsubscribe' link at the bottom of our emails.
 
-Whenever you are asked to fill in a form on the website your data will be for the use of Voluntary Action LeicesterShire’s work unless explicitly stated otherwise.
+We will also communicate directly with you by phone, text message or email about the activities you are doing as part of the GREAT Project.
 
-If you have previously agreed to us using your personal information for direct contact you may cancel it at any time by contacting us at helpline@valonline.org.uk
+### Access to your information
 
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting, if you tell us that you wish this to happen.
+You have the right at any time to ask us what information we have about you, request amendments or updates to that information, or to ask us to delete information we hold on you.
 
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to:
+You can submit an information request by emailing info@greatproject.org.uk
 
+### Cookies
 
-<div class="vcard">
-<span class="street-address">Voluntary Action LeicesterShire</span><br>
-<span class="region">Leicester</span> <br>
-<span class="postal-code">LE1 5SN</span><br>
-</div>
+Cookies are small text files placed on your computer by websites you visit to help track your behaviour on those sites. For example, we use Google Analytics tracking cookies to understand how you use our site, which allows us to improve the overall website experience.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us, as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+You can configure your browser to block websites from accepting cookies and to delete any existing cookies that have already been downloaded. However, please note that blocking cookies may stop some features of our website from working correctly.
+
+Please note: Cookies cannot be used to run code or programs, or to deliver viruses to your computer.
+
+You can find out more about cookies on the Information Commissioner's Office (ICO) website: https://ico.org.uk/for-the-public/online/cookies/
+
+### Other websites
+
+Our website contains links to other websites. This privacy policy only applies to this website so when you link to other websites you should read their own privacy policies.
+
+### Changes to this privacy policy
+
+We regularly review our privacy policies, and any updates will be made to this page. Please check back from time to time to ensure that you have read the most up-to-date version of this policy.
+
+Policy last updated: May 2018
