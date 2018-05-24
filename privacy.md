@@ -31,7 +31,7 @@ VAL considers itself to be a joint data controller with the Department for Work 
 We use the following lawful bases for processing your data:
 
 **The performance of a public task, meaning a task carried out in the public interest.**
-1.This is the lawful basis chosen by the Department for Work and Pensions, who are the Managing Authority of the Building Better Opportunities (BBO) Programme which funds this project.
+1. This is the lawful basis chosen by the Department for Work and Pensions, who are the Managing Authority of the Building Better Opportunities (BBO) Programme which funds this project.
 
 **Based on our legitimate interests:**
 1. To assess your suitability before entering the programme
