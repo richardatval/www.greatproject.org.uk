@@ -99,7 +99,7 @@ We will also communicate directly with you by phone, text message or email about
 
 You have the right at any time to ask us what information we have about you, request amendments or updates to that information, or to ask us to delete information we hold on you.
 
-You can submit an information request by emailing info@greatproject.org.uk
+You can submit an information request by completing our [data request form](https://www.valonline.org.uk/forms/submit-data-access-request).
 
 ### Cookies
 
