@@ -1,6 +1,6 @@
 ---
 date: '2018-05-25 14:53 +0100'
-thumbnail-image: /img/lord-callanan-visit-GREAT-thumbnail.jpg)
+thumbnail-image: /img/lord-callanan-visit-GREAT-thumbnail.jpg
 layout: default
 published: true
 title: Lord Callanan visits the GREAT Project
