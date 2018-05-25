@@ -4,7 +4,9 @@ thumbnail-image: /img/lord-callanan-visit-GREAT-thumbnail.jpg
 layout: default
 published: true
 title: Lord Callanan visits the GREAT Project
-summary: Lord Callanan visits the GREAT Project
+summary: >-
+  In April the GREAT Project was excited to host Lord Callanan, Minister of
+  State at the Department for Exiting the European Union.
 ---
 ![Lord Callanan visits the GREAT Project]({{site.baseurl}}/img/lord-callanan-visit-GREAT.jpg)
 
@@ -18,4 +20,4 @@ Both had a chance to tell their own stories about how GREAT had helped them. Lor
 
 VAL’s Chair and Chief Executive were also involved in the meeting, and the minister was able to hear feedback from VAL and GREAT on the challenges of running Building Better Opportunities (BBO) projects as well as ideas about how a potential ‘BBO 2’ could look if Government decides to keep funding the current BBO projects after 2019.
 
-We were extremely proud of both Neha and Suzi, who managed to articulate the benefits of GREAT in a way that we hope left a real impression on Lord Callanan. We feel he went away with some very positive messages about BBO and we look forward to seeing what happens next. 
+We were extremely proud of both Neha and Suzi, who managed to articulate the benefits of GREAT in a way that we hope left a real impression on Lord Callanan. We feel he went away with some very positive messages about BBO and we look forward to seeing what happens next.
