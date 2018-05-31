@@ -23,4 +23,4 @@ As well as recruiting new ESOs, we’ve also created two new Employment Coordina
 
 ### Encouraging more male participants
 
-We’ve identified that we are seeing lower numbers of male participants on the GREAT Project than female. Ivan has joined us from Healthwatch Leicestershire as our new Delivery Coordinator to look at ways to improve the numbers of male participants.
+We’ve identified that we are seeing lower numbers of male participants on the GREAT Project than female. Ivan has joined us from Healthwatch Leicestershire as our Interim Delivery Coordinator to look at ways to improve the numbers of male participants. A substantive Delivery Coordinator role will be advertised shortly.
