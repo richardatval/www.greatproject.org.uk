@@ -10,11 +10,11 @@ summary: >-
 ---
 ![A new definition of families]({{site.baseurl}}/img/new-definition-families-GREAT.jpg)
 
-In March we changed the way we define families when we decide who is eligible for the GREAT Project. The new definition should make the project more inclusive and open it up to even more people across Leicester and Leicestershire.
+In March we refreshed the way we define families when we decide who is eligible for the GREAT Project. This refreshed definition should make the project more inclusive and open it up to even more people across Leicester and Leicestershire.
 
 ### Our new definition
 
-Our new criteria for entering the project is:
+Our refreshed criteria for entering the project is:
 
 - Over 18 and not currently in work
 - Willing to participate in the project
@@ -25,9 +25,4 @@ Our new criteria for entering the project is:
 	- A parent who has contact with their children, of school age or below
 	- An adult living with parents or other family members**
     
-The new definition will be updated across our website and all of our promotional material.
-
-
-
-
-
+The revised definition will be updated across our website and all of our promotional material.
