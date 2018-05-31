@@ -3,7 +3,7 @@ date: '2018-05-25 15:34 +0100'
 thumbnail-image: /img/new-definition-families-GREAT-thumbnail.jpg
 layout: default
 published: true
-title: A new definition of family
+title: A refreshed definition of 'families'
 summary: >-
   In March we changed the way we define families when we decide who is eligible
   for the GREAT Project.
