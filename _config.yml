@@ -89,7 +89,7 @@ prose:
         _pages:
             - {name: title, field: {element: text, label: title}}
             - {name: summary, field: {label: Summary, element: textarea, value: null}}
-            - {name: layout, field: {element: hidden, value: page}}
+            - {name: layout, field: {element: hidden, value: default}}
             - {name: permalink, field: {element: text, label: Permalink, value: ""}}
             - {name: layout, field: {label: Layout, element: select, value: default, options: [{name: Post, value: post}, {name: Default, value: default}, {name: 'No Sidebars', value: no-sidebars}]}}
             - {name: published, field: {label: Published, element: checkbox, value: 'true'}}
