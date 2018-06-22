@@ -7,8 +7,6 @@ summary: >-
   We offer courses and support to improve your confidence, gain life skills and
   get ready to find work or training opportunities.
 ---
-### Who we help
-
 We can help you if you are:
 
 * Over 18 and not currently in paid work
