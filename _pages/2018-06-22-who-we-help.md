@@ -2,7 +2,7 @@
 layout: page
 published: true
 title: Who we help
-permalink: who-we-help
+permalink: /who-we-help/
 summary: >-
   We offer courses and support to improve your confidence, gain life skills and
   get ready to find work or training opportunities.
