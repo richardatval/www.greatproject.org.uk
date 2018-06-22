@@ -109,6 +109,25 @@ prose:
           element: "text"
           placeholder: "/img/placeholder-thumbnail.png"
           value: "/img/placeholder.jpg"
+    _posts/static:
+        - name: "title"
+          field:
+            element: "text"
+            label: "title"
+        - name: "summary"
+          field:
+            label: "Summary"
+            element: "textarea"
+            value: null
+        - name: "layout"
+          field:
+            element: "hidden"
+            value: "page"
+        - name: "permalink"
+          field:
+            element: "text"
+            label: "Permalink"
+            value: ""
       - name: "layout"
         field:
           label: "Layout"
