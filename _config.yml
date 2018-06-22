@@ -1,235 +1,95 @@
 sass:
-  style: compressed
-
+    style: compressed
 encoding: utf-8
-
-#  Build settings
 markdown: kramdown
-
 gems:
-  - jekyll-coffeescript
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll-redirect-from
-  - jekyll-feed
-   
-#  Site settings
-title: The Great Project
-description: Helping families move toward employment and training in Leicester and Leicestershire
-url: https://www.greatproject.org.uk
-baseurl: 
+    - jekyll-coffeescript
+    - jekyll-paginate
+    - jekyll-sitemap
+    - jekyll-redirect-from
+    - jekyll-feed
+title: 'The Great Project'
+description: 'Helping families move toward employment and training in Leicester and Leicestershire'
+url: 'https://www.greatproject.org.uk'
+baseurl: null
 email: info@greatproject.org.uk
-github: 
-copyright: 'The GREAT Project  is funded by the European Social Fund and the National Lottery, through the Big Lottery Fund. The service is delivered by Voluntary Action LeicesterShire (VAL).</p><p>
-<a href="http://www.valonline.org.uk/">Voluntary Action LeicesterShire</a> is the trading name of Voluntary Action Leicester registered charity (No. 509300) Registered in England and Wales. ©'
-
-#  Social media settings
-
-facebook: "thegreatprojectleicester"
-twitter: "TheGREATProj"
+github: null
+copyright: "The GREAT Project  is funded by the European Social Fund and the National Lottery, through the Big Lottery Fund. The service is delivered by Voluntary Action LeicesterShire (VAL).</p><p>\n<a href=\"http://www.valonline.org.uk/\">Voluntary Action LeicesterShire</a> is the trading name of Voluntary Action Leicester registered charity (No. 509300) Registered in England and Wales. ©"
+facebook: thegreatprojectleicester
+twitter: TheGREATProj
 permalink: pretty
-
-# Services
-
-analyticstracking: "UA-88639134-1"
-
-# Pagination
-
+analyticstracking: UA-88639134-1
 paginate: 6
-paginate_path: "/news/:num/"
-
-#  Timezone
+paginate_path: '/news/:num/'
 timezone: Europe/London
-
 exclude:
-  - bower.json
-  - grunt
-
-# Conditional Stylesheets
-
+    - bower.json
+    - grunt
 conditionalstylesheets:
-  - target: "ie9"
-    path: "/css/ie9.css"
-
-# Events configuration
-
+    -
+        target: ie9
+        path: /css/ie9.css
 collections:
-  events:
-    output: true
-    permalink: /events/:path/
-  partnernews:
-    output: true
-    permalink: /partnernews/:path/
-  pages:
-    output: true
-    permalink: /staticpages/:path/
-
-#  Configuration for prose.io online editor
+    events:
+        output: true
+        permalink: '/events/:path/'
+    partnernews:
+        output: true
+        permalink: '/partnernews/:path/'
+    pages:
+        output: true
+        permalink: '/staticpages/:path/'
 prose:
-  ignore: 
-    - '_includes'
-    - 'assets'
-    - '_assets'
-    - '_layouts'
-    - '_plugins'
-    - '/.jekyll-metadata'
-    - 'feed.xml'
-    - 'js'
-    - 'css'
-    - '_sass'
-    - 'CNAME'
-    - '.bowerrc'
-    - '.gitignore'
-    - '404.md'
-    - 'news.xml'
-    - 'Gemfile'
-    - 'Gemfile.lock'
-    - 'license.md'
-    - 'README.md'
-    - '_config.yml'
-    - 'bower.json'
-    - 'favicon.ico'
-  media: img
-  metadata:
-    _posts:
-      - name: "title"
-        field:
-          element: "text"
-          label: "title"
-      - name: "date"
-        field:
-          label: "Date"
-          element: "text"
-          value: CURRENT_DATETIME
-      - name: "summary"
-        field:
-          label: "Summary"
-          element: "textarea"
-          value: null
-      - name: "thumbnail-image"
-        field:
-          label: "Thumbnail Image"
-          element: "text"
-          placeholder: "/img/placeholder-thumbnail.png"
-          value: "/img/placeholder.jpg"
-      - name: "layout"
-        field:
-          label: "Layout"
-          element: "select"
-          value: "default"
-          options:
-            - name: 'Post'
-              value: 'post'
-            - name: 'Default'
-              value: 'default'
-            - name: 'No Sidebars'
-              value: 'no-sidebars'
-      - name: "published"
-        field:
-          label: "Published"
-          element: "checkbox"
-          value: "true"
-    _events:
-      - name: "title"
-        field:
-          element: "text"
-          label: "Title"
-      - name: "summary"
-        field:
-          label: "Summary"
-          element: "textarea"
-          value: null
-      - name: "when"
-        field:
-          label: "When"
-          element: "text"
-          value: ""
-      - name: "venue"
-        field:
-          label: "Where"
-          element: "text"
-          value: ""
-      - name: "layout"
-        field:
-          label: "Layout"
-          element: "hidden"
-          value: "event"
-      - name: "published"
-        field:
-          label: "Published"
-          element: "checkbox"
-          value: "true"
-    _partnernews:
-      - name: "title"
-        field:
-          element: "text"
-          label: "title"
-      - name: "date"
-        field:
-          label: "Date"
-          element: "text"
-          value: CURRENT_DATETIME
-      - name: "summary"
-        field:
-          label: "Summary"
-          element: "textarea"
-          value: null
-      - name: "thumbnail-image"
-        field:
-          label: "Thumbnail Image"
-          element: "text"
-          placeholder: "/img/placeholder-thumbnail.png"
-          value: "/img/placeholder.jpg"
-      - name: "layout"
-        field:
-          label: "Layout"
-          element: "select"
-          value: "default"
-          options:
-            - name: 'Post'
-              value: 'post'
-            - name: 'Default'
-              value: 'default'
-            - name: 'No Sidebars'
-              value: 'no-sidebars'
-      - name: "published"
-        field:
-          label: "Published"
-          element: "checkbox"
-          value: "true"
-    _pages:
-        - name: "title"
-          field:
-            element: "text"
-            label: "title"
-        - name: "summary"
-          field:
-            label: "Summary"
-            element: "textarea"
-            value: null
-        - name: "layout"
-          field:
-            element: "hidden"
-            value: "page"
-        - name: "permalink"
-          field:
-            element: "text"
-            label: "Permalink"
-            value: ""
-      - name: "layout"
-        field:
-          label: "Layout"
-          element: "select"
-          value: "default"
-          options:
-            - name: 'Post'
-              value: 'post'
-            - name: 'Default'
-              value: 'default'
-            - name: 'No Sidebars'
-              value: 'no-sidebars'
-      - name: "published"
-        field:
-          label: "Published"
-          element: "checkbox"
-          value: "true"
+    media: img
+    ignore:
+        - _includes
+        - assets
+        - _assets
+        - _layouts
+        - _plugins
+        - /.jekyll-metadata
+        - feed.xml
+        - js
+        - css
+        - _sass
+        - CNAME
+        - .bowerrc
+        - .gitignore
+        - 404.md
+        - news.xml
+        - Gemfile
+        - Gemfile.lock
+        - license.md
+        - README.md
+        - _config.yml
+        - bower.json
+        - favicon.ico
+    metadata:
+        _posts:
+            - {name: title, field: {element: text, label: title}}
+            - {name: date, field: {label: Date, element: text, value: CURRENT_DATETIME}}
+            - {name: summary, field: {label: Summary, element: textarea, value: null}}
+            - {name: thumbnail-image, field: {label: 'Thumbnail Image', element: text, placeholder: /img/placeholder-thumbnail.png, value: /img/placeholder.jpg}}
+            - {name: layout, field: {label: Layout, element: select, value: default, options: [{name: Post, value: post}, {name: Default, value: default}, {name: 'No Sidebars', value: no-sidebars}]}}
+            - {name: published, field: {label: Published, element: checkbox, value: 'true'}}
+        _events:
+            - {name: title, field: {element: text, label: Title}}
+            - {name: summary, field: {label: Summary, element: textarea, value: null}}
+            - {name: when, field: {label: When, element: text, value: ""}}
+            - {name: venue, field: {label: Where, element: text, value: ""}}
+            - {name: layout, field: {label: Layout, element: hidden, value: event}}
+            - {name: published, field: {label: Published, element: checkbox, value: 'true'}}
+        _partnernews:
+            - {name: title, field: {element: text, label: title}}
+            - {name: date, field: {label: Date, element: text, value: CURRENT_DATETIME}}
+            - {name: summary, field: {label: Summary, element: textarea, value: null}}
+            - {name: thumbnail-image, field: {label: 'Thumbnail Image', element: text, placeholder: /img/placeholder-thumbnail.png, value: /img/placeholder.jpg}}
+            - {name: layout, field: {label: Layout, element: select, value: default, options: [{name: Post, value: post}, {name: Default, value: default}, {name: 'No Sidebars', value: no-sidebars}]}}
+            - {name: published, field: {label: Published, element: checkbox, value: 'true'}}
+        _pages:
+            - {name: title, field: {element: text, label: title}}
+            - {name: summary, field: {label: Summary, element: textarea, value: null}}
+            - {name: layout, field: {element: hidden, value: page}}
+            - {name: permalink, field: {element: text, label: Permalink, value: ""}}
+            - {name: layout, field: {label: Layout, element: select, value: default, options: [{name: Post, value: post}, {name: Default, value: default}, {name: 'No Sidebars', value: no-sidebars}]}}
+            - {name: published, field: {label: Published, element: checkbox, value: 'true'}}
