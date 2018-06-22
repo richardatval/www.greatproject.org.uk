@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 published: true
 title: Who we help
 permalink: /who-we-help/
