@@ -1,8 +1,9 @@
 ---
+layout: default
 title: Get started
-layout: contact
 summary: Sign up to the YES Project
 published: true
+permalink: testing123
 ---
 
 #### When you join the YES project, you’ll be assigned a mentor who will support you throughout your journey and help you achieve your goals.
