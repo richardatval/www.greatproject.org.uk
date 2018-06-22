@@ -39,4 +39,4 @@ If this sounds like you, get in touch and see if the GREAT Project can support y
 
 We offer courses and support to improve your confidence, gain life skills and get ready to find work or training opportunities.
 
-{% include button.html url="/contact" buttontext="Get in touch" %}## A New Post
+{% include button.html url="/contact" buttontext="Get in touch" %}
