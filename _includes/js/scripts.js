@@ -168,6 +168,22 @@ $(document).ready(function() {
 		
 });
 
+$("path, circle").click(function(e) {
+    $('#map path').removeAttr("class");
+    $(this).attr("class", "selected");
+    $('#info-box').css('display','block');
+    $('#info-box').html($(this).data('info'));
+    $('#info-box').css('top',e.pageY-$('#info-box').height()-30);
+    $('#info-box').css('left',e.pageX-($('#info-box').width())/2);
+});
+
+//$("path, circle").mouseleave(function(e) {
+//  $('#info-box').css('display','none');
+//});
+//$(document).mousemove(function(e) {
+//  $('#info-box').css('top',e.pageY-$('#info-box').height()-30);
+//  $('#info-box').css('left',e.pageX-($('#info-box').width())/2);
+//}).mouseover();
 
 $(function() {
     $('.modal-trigger').click(function() {
@@ -219,6 +235,8 @@ $('#calendarmini').fullCalendar({
         element.find('a').attr("href", event.description);
     }
 });
+
+
 
 (function (jQuery) {
     jQuery.mark = {
