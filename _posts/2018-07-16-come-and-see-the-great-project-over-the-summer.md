@@ -12,7 +12,7 @@ summary: >-
 
 This summer the GREAT Project will be appearing at events across Leicester and Leicestershire to promote our work to people from local communities.
 
-We’ve already been to the Western Park Family Festival and the On the Green Fund Day at Leicester Caribbean Cricket Club, where we had a chance to talk to members of the public about the project, and made some connections which will hopefully bring some more referrals into the project in the future.
+We’ve already been to the Western Park Family Festival, where we had a chance to talk to members of the public about the project, and made some connections which will hopefully bring some more referrals into the project in the future.
 
 Over the coming months we will be appearing at:
 
