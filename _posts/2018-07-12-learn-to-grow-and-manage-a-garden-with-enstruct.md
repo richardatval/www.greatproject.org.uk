@@ -37,10 +37,7 @@ The last two days will involve an introduction to carpentry, including:
 
 ## When and where
 
-The programme will run on the weeks beginning:
-
-- 23 July 2018
-- 20 August 2018
+The programme will run on the week beginning 20 August 2018.
 
 The first three days will be at Enstruct's two acre garden behind Fullhurst Community College, Imperial Avenue, Leicester, LE3 1AH.
 
