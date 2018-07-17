@@ -11,7 +11,7 @@ summary: >-
 ---
 ![Learn skills like carpentry with GREAT and Enstruct]({{site.baseurl}}/img/enstruct-outdoor-skills.jpg)
 
-For two weeks this summer, Enstruct will be running a programme to help GREAT participants to improve their gardening skills and even learn a little bit about carpentry. 
+For one week this summer, Enstruct will be running a programme to help GREAT participants to improve their gardening skills and even learn a little bit about carpentry. 
 
 Horticulture (growing and managing gardens) is a useful skill to help you to grow your own food, improve your health and manage your own garden. Horticultural activities can be fun for the whole family and are also safe and healthy.
 
