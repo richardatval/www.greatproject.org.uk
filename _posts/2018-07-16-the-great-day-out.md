@@ -2,7 +2,7 @@
 date: '2018-07-16 14:17 +0100'
 thumbnail-image: /img/great-day-out-thumbnail.png
 layout: default
-published: false
+published: true
 title: The GREAT Day out
 summary: >-
   in July and August we’ll be appearing at local libraries throughout the city
