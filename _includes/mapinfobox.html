@@ -1,0 +1,3 @@
+<div id='map-close'></div>
+{% assign info = site.data.profiles | where: "area", include.area %}
+<img src='{{ info[0].img }}'><div><h4>{{ info[0].name }}</h4><p>{{ info[0].role }}</p><p>{{ info[0].phone }}</p></div>

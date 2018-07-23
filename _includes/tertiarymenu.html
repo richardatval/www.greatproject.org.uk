@@ -1,11 +1,9 @@
-{% assign args = page.permalink | split: '/' %}
+{% assign args = page.path | split: '/' %}
 {% assign parent = args | first %}
-{{ parent }}
 
 <div class="box box-default">
 {% for nav in site.data.nav %}
 {% capture navparent %}{{ nav.title | downcase }}{% endcapture %}
-{{ parent }}
 {% if navparent == parent %}
 <h2>{{ nav.title }}</h2>
 <ul>

@@ -58,6 +58,20 @@ $(document).ready(function() {
         });
         $('#js-search-toggle').toggleClass('active');
     });
+    
+    $("path, circle").click(function(e) {
+        $('#map path').removeAttr("class");
+        $(this).attr("class", "selected");
+        $('#info-box').css('display','block');
+        $('#info-box').html($(this).data('info'));
+        $('#info-box').css('top',e.pageY-$('#info-box').height()-30);
+        $('#info-box').css('left',e.pageX-($('#info-box').width())/2);
+    });
+
+    $(document).on("click", '#map-close', function() {
+     $('#info-box').css('display','none');
+     $('#map path').removeAttr("class");
+    });
 		
 		
     // Contact Form dependent fields
@@ -166,15 +180,6 @@ $(document).ready(function() {
     });
 		
 		
-});
-
-$("path, circle").click(function(e) {
-    $('#map path').removeAttr("class");
-    $(this).attr("class", "selected");
-    $('#info-box').css('display','block');
-    $('#info-box').html($(this).data('info'));
-    $('#info-box').css('top',e.pageY-$('#info-box').height()-30);
-    $('#info-box').css('left',e.pageX-($('#info-box').width())/2);
 });
 
 //$("path, circle").mouseleave(function(e) {
