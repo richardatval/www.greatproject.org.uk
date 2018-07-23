@@ -1,6 +1,6 @@
 ---
 date: '2018-04-25 12:51 +0100'
-thumbnail-image: img/donate-clothes-for-great-thumbnail.jpg
+thumbnail-image: /img/donate-clothes-for-great-thumbnail.jpg
 layout: default
 published: true
 title: Donate your spare smart clothes for GREAT
