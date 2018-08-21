@@ -46,7 +46,7 @@ We use the following lawful bases for processing your data:
 
 **Article 6(1)(e) GDPR: 
 ‘processing is necessary for the performance of a task carried out in the public interest or in the exercise of official authority vested in the controller’**
--This is the lawful basis for collecting personal data that has been chosen by the DWP.
+- This is the lawful basis for collecting personal data that has been chosen by the DWP.
 
 **Article 9(2)(b) GDPR: 
 ‘processing is necessary for the purposes of carrying out the obligations and exercising specific rights of the controller or of the data subject in the field of employment and social security and social protection law in so far as it is authorised by Union or Member State law or a collective agreement pursuant to Member State law providing for appropriate safeguards for the fundamental rights and the interests of the data subject;’**
