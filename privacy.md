@@ -56,6 +56,9 @@ We use the following lawful bases for processing your data:
 - To assess your suitability before entering the programme
 - To contact you about the activities you are undertaking as part of the programme
 
+**Based on our legal or statutory responsibilities**
+- We will share your personal data with third parties where we are obliged to for legal or statutory reasons
+
 **Based on your consent:**
 - To process special categories of your personal data (e.g. data concerning your health, ethnicity, biometric data) outside of the data required by the DWP.
 - To send you marketing emails
