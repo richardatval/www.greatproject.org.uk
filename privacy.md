@@ -111,7 +111,7 @@ Personal data will be stored for 10 years after the end of the project. The proj
 
 All personal data held by DWP or research contractors for the purposes of evaluation will be permanently deleted no more than six months after the research has been completed (i.e. when the final report is published on GOV.UK). 
 
-Personal data held by DWP for all other ESF purposes as required by European Commission regulations will be retained in line with the current guidance on GOV.UK at:https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/591617/ESF_Guidance_on_document_retention.pdf
+Personal data held by DWP for all other ESF purposes as required by European Commission regulations will be retained in line with the [current guidance on GOV.UK](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/591617/ESF_Guidance_on_document_retention.pdf).
 
 ### Marketing
 
