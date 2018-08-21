@@ -127,13 +127,7 @@ If you do not wish your personal data to be used for ESF evaluation purposes ple
 
 More information about how and why DWP uses your personal information, including how to ask for a copy of the personal information DWP holds about you can be found in DWP’s [Personal Information Charter](https://www.gov.uk/government/organisations/department-for-work-pensions/about/personal-information-charter).
 
-Information about how to ask for a copy of the information DWP holds about you (known as a ‘Right of Access Request’) can be found on DWP's : https://www.gov.uk/guidance/request-your-personal-information-from-the-department-for-work-and-pensions
-
-### Access to your information
-
-You have the right at any time to ask us what information VAL and the the GREAT Project hold on you, request amendments or updates to that information, or to ask us to delete information we hold on you.
-
-You can submit an information request by completing our [data request form](https://www.valonline.org.uk/forms/submit-data-access-request).
+Information about how to ask for a copy of the information DWP holds about you (known as a ‘Right of Access Request’) can be found on [DWP's website](https://www.gov.uk/guidance/request-your-personal-information-from-the-department-for-work-and-pensions).
 
 ### Cookies
 
