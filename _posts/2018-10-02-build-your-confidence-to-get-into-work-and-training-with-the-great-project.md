@@ -11,7 +11,7 @@ summary: >-
 ---
 {% include youtube.html url=”https://www.youtube.com/watch?v=lxojT3_j-JM&t=5s” %}
 
-As a single parent with two children, Emma had started to feel isolated in her own community. There were a number of barriers that she felt were limiting her from finding work: looking after her family, lack of experience, not knowing how to search for jobs and, most importantly, a lack of confidence.
+As a single parent with two children, Emma had started to feel isolated in her own community. There were a number of barriers that she felt were limiting her from finding work: looking after her family, lack of experience, not knowing how to search for jobs and, most importantly, a lack of confidence. 
 
 > “My self-confidence was that low, I didn’t want to leave the house, I didn’t want to do anything with my time, and when they started me on the GREAT Project it was a point of “’This will do you some good’”
 
