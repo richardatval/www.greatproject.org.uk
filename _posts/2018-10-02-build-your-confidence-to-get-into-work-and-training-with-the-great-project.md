@@ -3,7 +3,7 @@ date: '2018-10-02 10:24 +0100'
 thumbnail-image: /img/emma-case-study-thumbnail.jpg
 layout: default
 published: true
-title: Build your confidence to get into work and training with the GREAT Project
+title: Build your confidence to get into work and training
 summary: >-
   As a single parent with two children, Emma had started to feel isolated in her
   own community. There were a number of barriers that she felt were limiting her
