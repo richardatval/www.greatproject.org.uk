@@ -10,7 +10,7 @@ summary: >-
 ---
 ![The GREAT Project is launching their GREAT men get things done]({{site.baseurl}}/img/great-men-get-things-done-article-image.jpg)
 
-In the last few months the GREAT Project has gone from strength to strength. The number of people engaged by the project has passed 250 people, with more than 70 successfully moving on to work, training or formal job searching. However, with more than three quarters of GREAT participants being women, the project is looking to recruit more men. That’s why they are launching their ‘GREAT men get things done’ campaign.
+The number of people engaged by the GREAT Project has now passed 250 people, with more than 70 successfully moving on to work, training or formal job searching. However, with more than three quarters of GREAT participants being women, the project is looking to recruit more men. That’s why they are launching their ‘GREAT men get things done’ campaign.
 
 Ivan Liburd is the GREAT Project’s Delivery Coordinator and is leading on the campaign to increase the number of men on the project. He said:
 
