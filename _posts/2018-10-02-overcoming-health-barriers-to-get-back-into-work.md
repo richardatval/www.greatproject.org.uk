@@ -6,7 +6,8 @@ published: true
 title: Overcoming health barriers to get back into work
 summary: >-
   Rickin ran his own business and mentored in a college until serious illness
-  changed his life significantly.
+  changed his life significantly. With support from GREAT, Rickin is now more
+  confident about the future.
 ---
 {% include youtube.html url="https://www.youtube.com/embed/rBNEM2ylvyg" %}
 
