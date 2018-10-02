@@ -1,8 +1,10 @@
 ---
 layout: home
 title: Helping families move toward employment and training
-summary: Helping families move toward employment and training
-hero-copy: We’ll work with you to understand the challenges you face
+summary: A unique approach to helping you find work
+hero-copy: >-
+  We help families in Leicester and Leicestershire to overcome barriers to work
+  and training
 hero-link-url: /what-we-offer
 hero-link-copy: Learn more
 published: true
