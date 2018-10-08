@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Helping families move toward employment and training
+title: A unique approach to helping you find work
 summary: A unique approach to helping you find work
 hero-copy: >-
   We help families in Leicester and Leicestershire to overcome barriers to work
