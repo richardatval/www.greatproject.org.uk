@@ -1,0 +1,4 @@
+"cmd /c if exist \"X:\Media\\" & Projects::Category & "\\ID" & Projects::kp_ID_Project & " " & Projects::Name & "\" (start \"\" \"X:\Media\\" & Projects::Category & "\\ID" & Projects::kp_ID_Project & " " & Projects::Name & "\")
+ else (
+mkdir \"X:\Media\\" & Projects::Category & "\\ID" & Projects::kp_ID_Project & " " & Projects::Name & "\" && start \"\" \"X:\Media\\" & Projects::Category & "\\ID" & Projects::kp_ID_Project & " " & Projects::Name & "\"
+)"
