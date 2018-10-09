@@ -20,7 +20,7 @@ Ivan Liburd is the GREAT Project’s Delivery Coordinator and is leading on the 
 
 One of the men we've helped on the project is Rickin - find out more about [his experience with GREAT](https://www.greatproject.org.uk/2018/10/02/overcoming-health-barriers-to-get-back-into-work/).
 
-It’s really easy to get involved with the GREAT Project. If you're an individual who needs support, you can contact us directly on 0116 257 5020 or through our [contact form] (https://www.greatproject.org.uk/contact/). 
+It’s really easy to get involved with the GREAT Project. If you're an individual who needs support, you can contact us directly on 0116 257 5020 or through our [contact form](https://www.greatproject.org.uk/contact/).
 
 You can also text GREAT and your name to 66777 (texts cost your standard network rate). We will call you back and tell you over the phone whether or not you're eligible for support from GREAT.
 
