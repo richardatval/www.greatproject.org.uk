@@ -9,11 +9,7 @@ summary: >-
   own community. With support from GREAT and our partners, Emma's confidence is
   now higher than ever.
 ---
-<<<<<<< HEAD
-{% include youtube.html url="https://www.youtube.com/watch?v=lxojT3_j-JM&t=5s" %}
-=======
 {% include youtube.html url="https://www.youtube.com/embed/lxojT3_j-JM" %}
->>>>>>> 2e3bf72c0be9242562580d66f158bd1dfd902fdf
 
 As a single parent with two children, Emma had started to feel isolated in her own community. There were a number of barriers that she felt were limiting her from finding work: looking after her family, lack of experience, not knowing how to search for jobs and, most importantly, a lack of confidence. 
 
