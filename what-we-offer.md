@@ -17,38 +17,37 @@ Each individual is different, so throughout the process of building your support
 
 When you get involved with the GREAT Project, you’ll be able to access support from our partners and from our Employment Coordinators, who deliver training courses around employability skills. Each partner offers something different that you might like to get involved in, and your ESO will be able to help you decide which partners you might want to work with.
 
-## Healthy Working Futures
+#### Healthy Working Futures
 
 * Health assessments, diagnosis support and occupational health support, to help you overcome any health-related barriers to work and training
 
-## Business in the Community
+#### Business in the Community
 
 * Taster days and work experience in a range of industries
 * 'Behind the scenes' tours at local businesses
 * Help to find jobs that meer your specific needs and skills
 
-## Leicestershire County Council
+#### Leicestershire County Council
 
 * Work clubs in libraries to offer one-to-one support with job searching
 * Support with key employment skills, like CV writing
 
-## Enstruct
+#### Enstruct
 
-* A 10-week 
+* A 10-week course focusing on practical, DIY and construction skills, with the possibility of studying towards a qualification.
+* Female-only courses where needed
 
-Vocational training courses offering qualifications. These include female-only courses where needed
-
-## GREAT Employment Coordinators
+#### GREAT Employment Coordinators
 
 * Help with managing your money, including accounts that accommodate Sharia law
 * Training on key skills like interviewing
 * Focused support for communities with particular needs, such as the Eastern European population
 
-## Pop-Up Nurseries
+#### Pop-Up Nurseries
 
 * Childcare support, so you can attend the courses that best fit your needs
 
-## Personal Development Point (PDP)
+#### Personal Development Point (PDP)
 
 * Confidence building courses
 
