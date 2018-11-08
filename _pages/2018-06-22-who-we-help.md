@@ -47,7 +47,7 @@ For us to offer you support, you must also experience at least one of the follow
 
 ### Make a referral
 
-If this sounds like you, and you'd like to find out whether the GREAT Project can support you, all you need to do is submit a self-referral form to us or call us on 0116 257 5020. You can also find out more about the kinds of support we offer.
+If this sounds like you, and you'd like to find out whether the GREAT Project can support you, all you need to do is submit a self-referral form to us or call us on 0116 257 5020. You can also find out more about the [kinds of support we offer](https://www.greatproject.org.uk/what-we-offer/).
 
 If you're an organisation and think you're working with someone who would benefit from the GREAT Project, we'd love to hear from you too. You can also submit a referral form or give us a call.
 
