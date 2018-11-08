@@ -7,7 +7,9 @@ summary: >-
   We offer courses and support to improve your confidence, gain life skills and
   get ready to find work or training opportunities.
 ---
-The GREAT Project was created to help members of families in Leicester and Leicestershire. When we decide who is eligible to receive our support, we have a specific definition of what we mean by 'member of a family'.
+#### The GREAT Project was created to help members of families in Leicester and Leicestershire. 
+
+When we determine who is eligible to receive our support, we have a specific definition of what we mean by 'member of a family'.
 
 ### What we mean by 'family'
 
