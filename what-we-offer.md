@@ -25,7 +25,7 @@ When you get involved with the GREAT Project, you’ll be able to access support
 
 * Taster days and work experience in a range of industries
 * 'Behind the scenes' tours at local businesses
-* Help to find jobs that meer your specific needs and skills
+* Help to find jobs that meet your specific needs and skills
 
 #### Leicestershire County Council
 
