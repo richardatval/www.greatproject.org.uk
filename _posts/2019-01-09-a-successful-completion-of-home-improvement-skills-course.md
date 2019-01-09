@@ -1,6 +1,6 @@
 ---
 date: '2019-01-09 10:45 +0000'
-thumbnail-image: /img/P1160756 (Custom) (1).JPG)
+thumbnail-image: /img/bradley.JPG
 layout: default
 published: true
 title: A successful completion of home improvement skills course
