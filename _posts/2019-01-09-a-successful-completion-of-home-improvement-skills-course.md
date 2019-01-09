@@ -3,12 +3,14 @@ date: '2019-01-09 10:45 +0000'
 thumbnail-image: /img/bradley.JPG
 layout: default
 published: true
-title: A successful completion of home improvement skills course
-summary: GREAT participants complete home improvement skills with Enstruct.
+title: Participants complete home improvement skills course
+summary: >-
+  More GREAT participants complete the home improvement skills course delivered
+  by Enstruct.
 ---
 ![Participant recieving certificate]({{site.baseurl}}/img/P1160756 (Custom).JPG)
 
-Enstruct is one of the projects delivery partners and focuses on delivering key construction and home improvement skills to participants. Over the course of 10 weeks, participants have the opportunity to learn a variety of skills including tiling, plumbing, bricklaying, electrics and carpentry. In some cases, participants can also undergo training to obtain a CSCS qualification. 
+Enstruct is one of the GREAT Projects delivery partners and focuses on delivering key construction and home improvement skills to participants. Over the course of 10 weeks, participants have the opportunity to learn a variety of skills including tiling, plumbing, bricklaying, electrics and carpentry. In some cases, participants can also undergo training to obtain a CSCS qualification. 
 
 Bradley, a participant from The GREAT Project, has recently completed the 10-week course at Enstruct and earned a certificate acknowledging his achievement. Bradley is not only taking away an abundance of skills he didn’t have before, but also a comic book themed storage box he built especially for his son. 
 
@@ -20,4 +22,4 @@ Bradley said:
 
 Enstruct is a family-run business based in Leicester, offering training in both environmental and constructional fields. With a dedicated and skilled team, they provide a comfortable environment for participants to develop their skills.
 
-The GREAT Project is keen to sign up more local people who could benefit from the programme. Individuals who think they might like to get involved should contact The GREAT Project by texting GREAT and their name to 66777 or by calling 0116 257 5020.
+If you think you'd benefit from this home improvement course, fill out our [contact form](https://www.greatproject.org.uk/contact/). Alternatively, individuals can text GREAT and their name to 66777 or call 0116 257 5020.
