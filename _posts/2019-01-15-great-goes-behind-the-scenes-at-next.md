@@ -1,6 +1,6 @@
 ---
 date: '2019-01-15 11:41 +0000'
-thumbnail-image: /img/P1170257 (Custom).jpg)
+thumbnail-image: /img/P1170257 (Custom) (2).jpg)
 layout: default
 published: true
 title: GREAT goes behind the scenes at Next
