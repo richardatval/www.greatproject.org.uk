@@ -17,10 +17,6 @@ Each individual is different, so throughout the process of building your support
 
 When you get involved with the GREAT Project, you’ll be able to access support from our partners and from our Employment Coordinators, who deliver training courses around employability skills. Each partner offers something different that you might like to get involved in, and your ESO will be able to help you decide which partners you might want to work with.
 
-#### Healthy Working Futures
-
-* Health assessments, diagnosis support and occupational health support, to help you overcome any health-related barriers to work and training
-
 #### Business in the Community
 
 * Taster days and work experience in a range of industries
