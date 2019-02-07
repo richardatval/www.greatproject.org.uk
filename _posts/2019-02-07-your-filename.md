@@ -3,7 +3,7 @@ date: '2019-02-07 11:56 +0000'
 thumbnail-image: /img/tct%20(Custom).jpg
 layout: default
 published: true
-title: ''
+title: Another GREAT participant finds work
 summary: >-
   Another GREAT Project participant completes their time on the programme and
   secures employment.
