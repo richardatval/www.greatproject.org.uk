@@ -3,7 +3,7 @@ date: '2019-03-05 12:43 +0000'
 thumbnail-image: /img/GREATShowcase2019_PrvWebRes-0048 thumbnail.jpg
 layout: default
 published: true
-title: 'Our Changing Lives Together event is a success! '
+title: 'Our Changing Lives Together event was a success! '
 summary: >-
   The GREAT Project held their annual Changing Lives Together celebration, which
   highlighted the benefits of partnership working and to celebrate participants
