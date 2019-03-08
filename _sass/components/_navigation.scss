@@ -15,12 +15,14 @@ header.navigation {
 	width: 100%;
 	z-index: 999;
 
+
 	span.funder-logo {
 		display: none;
-		@include media(new-breakpoint(min-width em(800px, $font-size) 12)) {
+		@include media(new-breakpoint(min-width em(850px, $font-size) 12)) {
 			float: right;
-			margin: $gutter/2;
+			margin: $gutter $gutter $gutter 0;
 			display: block;
+		
 		}
 	}
 
@@ -420,7 +422,7 @@ header.navigation {
 }
 
 a.logo {
-	margin: $gutter * 1.5 $gutter;
+	margin: $gutter*1;
 	color: #fff;
 	font-weight: bold;
 	float: left;
@@ -428,14 +430,12 @@ a.logo {
 	background-position: center center;
 	text-indent: -99999px;
 	@include transition(all 0.1s ease-in-out);
-    
-	@include logoresizer($logo-image-width, $logo-image-height, 400);
+	background-size: $logo-image-width $logo-image-height;
+	height: $logo-image-height;
+	width: $logo-image-width;
 	background-image:url('#{"" + $image-directory}/ui/logo.png');
-	&:focus {
-		border-color: $brand-primary;
-		box-shadow: 0 0 10px $brand-primary;
-	}
 }
+
 
 span.funder-logo, span.val-logo {
 	display: block;
@@ -449,9 +449,9 @@ span.funder-logo, span.val-logo {
 span.funder-logo {
 	@include transition(all 0.1s ease-in-out);
 	background-image:url('#{"" + $image-directory}/ui/big-lottery-logo.png');
-	width: 240px;
-	height: 110px;
+	@include logoresizer(304, 80, 304);
 }
+
 
 span.val-logo {
 	margin-top: 20px;
