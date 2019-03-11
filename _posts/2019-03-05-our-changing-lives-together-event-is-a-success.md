@@ -55,6 +55,7 @@ Leena Shah, a mother of three, felt alone before she joined the project. She ref
 
 Before joining the project, Nickolette Robinson felt isolated and suffered from severe anxiety. She says she had very low self-esteem, which negatively affected her motivation levels. Whilst on the project, Nickolette accessed various support and went on to accept a work placement. She excelled and was offered employment. Nickolette is now enjoying her job, and feels she could not have done it without the help of the GREAT Project. 
 
+
 **Simon Gambardella**
 
 Simon Gambardella was dismissed from his last role due to ongoing health issues. This resulted in Simon suffering from depression and anxiety. Despite this, Simon’s attendance and commitment to the project was exceptional. He accessed a variety of courses whilst on the project, and it helped him overcome his barriers. Simon also found comfort in others who were experiencing the same challenges. Through the GREAT Project, Simon found a full time role that he enjoys and feels comfortable in. 
@@ -69,6 +70,7 @@ Natalie Butler started the project with little confidence and direction. After r
 
 **Emma Harrison**
 
-Emma Harrison is a single mother of two, and felt isolated in her own community. She felt she had many barriers to work, and noted her confidence as a main issue.  Whilst her original goal was to leave the project in search of a job, she actually found herself a role as a personal assistant. Emma’s confidence has grown, and she has since been elected as the Liberal Democrat counsellor for her area. 
+Emma Harrison is a single mother of two, and felt isolated in her own community. She felt she had many barriers to work, and noted her confidence as a main issue.  Whilst her original goal was to leave the project in search of a job, she actually found herself a role as a personal assistant. Emma’s confidence has grown, and she has since been elected as a local councillor for her area. 
 
-Overall, the event was a huge success, and it truly highlighted the impact the GREAT Project has on the lives of the local community. The project is accepting both self-referrals and organisational referrals, and encourages those that have barriers to work and need support to contact them. Individuals can self-refer by texting GREAT and their name to 66777 or by calling 0116 257 5020. Organisations are free to contact the project by calling the same number. 
+
+Overall, the event was a huge success, and it truly highlighted the impact the GREAT Project has on the lives of the local community. The project is accepting both self-referrals and organisational referrals, and encourages those that have barriers to work and need support to contact them. Individuals can self-refer by texting GREAT and their name to 66777 or by calling 0116 257 5020. Organisations are free to contact the project by calling the same number.
