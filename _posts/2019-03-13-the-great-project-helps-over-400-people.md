@@ -5,8 +5,8 @@ layout: default
 published: true
 title: 'The GREAT Project helps over 400 people! '
 summary: >-
-  The GREAT Project has supported over 400 participants and is now looking to
-  work with more men.
+  The GREAT Project is proud to have supported over 400 participants and is now
+  looking to work with more men.
 ---
 ![not thumbnail.jpg]({{site.baseurl}}/img/not thumbnail.jpg)
 
