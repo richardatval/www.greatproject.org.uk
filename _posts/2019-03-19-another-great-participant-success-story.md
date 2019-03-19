@@ -3,12 +3,13 @@ date: '2019-03-19 09:30 +0000'
 thumbnail-image: img/thumbnail (3).jpg
 layout: default
 published: true
-title: Another GREAT Participant success story
+title: Another GREAT participant success story
 summary: >-
   A GREAT Participant completes her time with the project and enrols on a
   Teaching Assistant course.
 ---
-![P1030516 (Custom).jpg]({{site.baseurl}}/img/P1030516 (Custom).jpg)
+
+![]({{site.baseurl}}/img/P1030516%20(Custom).jpg)
 
 At the time of joining the GREAT Project, Sharon felt very low and depressed. She was out of work and receiving Employment and Support Allowance (ESA) due to having difficulty with her mobility. Despite the problems she suffered with her arm and shoulder, Sharon’s benefits were cancelled following an assessment, leaving her feeling completely lost. 
 
