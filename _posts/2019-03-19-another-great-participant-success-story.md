@@ -8,7 +8,7 @@ summary: >-
   A GREAT Participant completes her time with the project and enrols on a
   Teaching Assistant course.
 ---
-![not thumbnail (2).jpg]({{site.baseurl}}/img/not thumbnail (2).jpg)
+![P1030516 (Custom).jpg]({{site.baseurl}}/img/P1030516 (Custom).jpg)
 
 At the time of joining the GREAT Project, Sharon felt very low and depressed. She was out of work and receiving Employment and Support Allowance (ESA) due to having difficulty with her mobility. Despite the problems she suffered with her arm and shoulder, Sharon’s benefits were cancelled following an assessment, leaving her feeling completely lost. 
 
