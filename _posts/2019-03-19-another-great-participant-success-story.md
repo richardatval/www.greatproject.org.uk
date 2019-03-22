@@ -1,6 +1,6 @@
 ---
 date: '2019-03-19 09:30 +0000'
-thumbnail-image: img/thumbnail (3).jpg
+thumbnail-image: /img/thumbnail (3).jpg
 layout: default
 published: true
 title: Another GREAT participant success story
@@ -31,4 +31,4 @@ Yachna, Sharon’s Employment Support Officer, said:
 
 > “Sharon’s come so far from when she joined the project, and I’m so proud of what she’s achieved. She frequently tells me that she’s a lot more confident and a lot happier now, and that’s really good to hear. I’m so glad she feels like she’s becoming more like her old self and has a future to look forward to.”
 
-Sharon is now enrolled on the Teaching Assistant course, and is looking forward to what the future may bring. 
+Sharon is now enrolled on the Teaching Assistant course, and is looking forward to what the future may bring.
