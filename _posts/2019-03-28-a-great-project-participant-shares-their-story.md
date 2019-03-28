@@ -1,6 +1,6 @@
 ---
 date: '2019-03-28 09:33 +0000'
-thumbnail-image: /img/thumb.jpg)
+thumbnail-image: /img/thumb.jpg
 layout: default
 published: true
 title: A GREAT Project participant shares their story
