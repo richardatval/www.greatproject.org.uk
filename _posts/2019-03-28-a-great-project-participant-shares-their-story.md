@@ -4,6 +4,9 @@ thumbnail-image: /img/thumb.jpg
 layout: default
 published: true
 title: A GREAT Project participant shares their story
+summary: >-
+  A GREAT Project participant tells their story and shares their experience with
+  the project.
 ---
 ![]({{site.baseurl}}/img/no%20thumb.jpg)
 
