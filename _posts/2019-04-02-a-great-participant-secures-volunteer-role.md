@@ -4,6 +4,9 @@ thumbnail-image: /img/P1160676 (Custom).jpg
 layout: default
 published: true
 title: A GREAT participant secures volunteer role
+summary: >-
+  A GREAT Project participant now volunteers for recognised humanitarian
+  charity.
 ---
 ![P1160676 (Custom) (1).jpg]({{site.baseurl}}/img/P1160676 (Custom) (1).jpg)
 
