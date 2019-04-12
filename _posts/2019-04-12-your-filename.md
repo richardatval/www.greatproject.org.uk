@@ -3,7 +3,7 @@ date: '2019-04-12 10:13 +0100'
 thumbnail-image: /img/t%20thumb%20(Custom).JPG
 layout: default
 published: true
-title: ''
+title: GREAT participant finishes with the project
 summary: >-
   A GREAT participant completes their time with the project and shares their
   story.
@@ -29,4 +29,3 @@ Emma was Tracey’s Employment Support Officer through the entirety of her time 
 > “I am proud to have witnessed Tracey’s accomplishments whilst she was on the project. She has come a long way and managed to overcome barriers through sheer courage and determination. Hopefully now she will believe that her dreams are within her grasp”.
 
 Looking forward, Tracey intends to carry on her job search, utilising all the skills she learnt as a participant on the GREAT Project. She feels more confident in herself and is looking forward to finding a new role.
-
