@@ -3,7 +3,7 @@ date: '2019-04-12 10:13 +0100'
 thumbnail-image: /img/t%20thumb%20(Custom).JPG
 layout: default
 published: true
-title: GREAT participant successfully completes their with with the project
+title: GREAT participant successfully completes their time with the project
 summary: >-
   A GREAT participant completes their time with the project and shares their
   story.
