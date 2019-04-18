@@ -4,7 +4,7 @@ thumbnail-image: /img/thumbnail.jpg
 layout: default
 published: true
 title: A GREAT Project participant moves into paid employment
-summary: A past GREAT Project participant secures a paid role and shares their story
+summary: A past GREAT Project participant secures a paid role and shares their story.
 ---
 ![normal.jpg]({{site.baseurl}}/img/normal.jpg)
 
@@ -28,5 +28,4 @@ Anita, Emma’s Employment Support Officer whilst on the project, said:
 
 > “Working with Emma has been an absolute pleasure. Seeing her go from strength to strength whilst on the project makes me feel immensely proud. The fact she secured a job in an industry she wants to work in just makes her experience that much better.”
 
-Emma is currently enjoying her new role, and is looking forward to what the future may bring. 
-
+Emma is currently enjoying her new role, and is looking forward to what the future may bring.
