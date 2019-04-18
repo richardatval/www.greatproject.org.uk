@@ -3,7 +3,7 @@ date: '2019-04-18 13:04 +0100'
 thumbnail-image: /img/thumbnail.jpg
 layout: default
 published: true
-title: A GREAT Project participant secures paid employment
+title: A GREAT Project participant moves into paid employment
 summary: A past GREAT Project participant secures a paid role and shares their story
 ---
 ![normal.jpg]({{site.baseurl}}/img/normal.jpg)
