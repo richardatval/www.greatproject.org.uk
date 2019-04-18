@@ -6,7 +6,8 @@ published: true
 title: A GREAT Project participant moves into paid employment
 summary: A past GREAT Project participant secures a paid role and shares their story.
 ---
-![normal.jpg]({{site.baseurl}}/img/normal.jpg)
+![normalfairshare.jpg]({{site.baseurl}}/img/normalfairshare.jpg)
+
 
 Emma, a single mother of four, was unemployed before she joined the GREAT Project. Her ultimate goal was to find work, but she was unsure where or how to start. With this in mind, Emma took her first proactive steps towards this goal, and attended a ‘Progress to Work’ event. It was here she found out about the GREAT Project. 
 
