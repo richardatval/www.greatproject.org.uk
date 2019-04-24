@@ -1,10 +1,12 @@
 ---
 date: '2019-04-24 10:38 +0100'
-thumbnail-image: /img/thumb.jpg
+thumbnail-image: /img/sthumb.jpg
 layout: default
 published: true
-title: GREAT Participant finds employment
-summary: A GREAT participant shares her journey of overcoming barriers to find work.
+title: Another GREAT Project participant finds employment
+summary: >-
+  A GREAT project participant shares her journey of overcoming barriers to find
+  work.
 ---
 ![main.jpg]({{site.baseurl}}/img/main.jpg)
 
@@ -28,4 +30,4 @@ Harinder said:
 
 > “I’m thrilled Jessica has come so far and achieved the goal she set out to do. She came to us unsure she would ever be able to find work and now she’s employed and enjoying it. Her progress over the months has been incredible and I really am exceptionally proud of all she’s achieved.”
 
-Jessica continues to work for the homelessness charity and is enjoying her new role. 
+Jessica continues to work for the homelessness charity and is enjoying her new role.
