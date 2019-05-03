@@ -1,6 +1,6 @@
 ---
 date: '2019-03-28 09:33 +0000'
-thumbnail-image: /img/thumb.jpg
+thumbnail-image: /img/P1140394%20(Custom).jpg
 layout: default
 published: true
 title: A GREAT Project participant shares their story
@@ -28,5 +28,4 @@ Eileen, Joanna’s Employment Support Officer, said:
 
 > “Joanna really has it all; good qualifications and work experience. She just needs to have more confidence in her spoken English. She will make a wonderful teaching assistant.”
 
-Joanna has completed her time with the GREAT Project, and is looking forward to all the job prospects that will be available to her as a bi-lingual teacher. She is registered with multiple teaching agencies and is hoping to secure a job in September.   
-
+Joanna has completed her time with the GREAT Project, and is looking forward to all the job prospects that will be available to her as a bi-lingual teacher. She is registered with multiple teaching agencies and is hoping to secure a job in September.
