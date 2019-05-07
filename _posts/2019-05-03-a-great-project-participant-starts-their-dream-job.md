@@ -3,7 +3,7 @@ date: '2019-05-03 09:41 +0100'
 thumbnail-image: /img/P1180353 (Custom).JPG
 layout: default
 published: true
-title: A GREAT Project participant starts their dream job
+title: A GREAT Project participant starts their dream career
 summary: A GREAT Project participant starts her career with an apprenticeship.
 ---
 ![P1180353 (Custom) (1).JPG]({{site.baseurl}}/img/P1180353 (Custom) (1).JPG)
@@ -28,4 +28,4 @@ Diana said:
 
 > “Eleni has come so far, I barely recognise her. She was so shy at the start that it wasn’t even her I met with, and now she’s a confident young woman. Her drive and focus whilst on the project was outstanding - she was so engaged ALL the time. I’m so proud of all she’s achieved and wish her all the best for the very bright future she has ahead of her.”
 
-Eleni completed her time with the project and recently began an apprenticeship at a Loughborough-based hair salon. 
+Eleni completed her time with the project and recently began an apprenticeship at a Loughborough-based hair salon.
