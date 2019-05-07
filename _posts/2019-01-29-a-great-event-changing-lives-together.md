@@ -1,6 +1,6 @@
 ---
 date: '2019-01-29 15:14 +0000'
-thumbnail-image: /img/normal.jpg
+thumbnail-image: /img/Capture (Custom) (1).PNG
 layout: default
 published: true
 title: 'A GREAT Event: Changing Lives Together'
@@ -9,7 +9,7 @@ summary: >-
   have made efforts to overcome personal barriers, all to improve theirs and
   their family’s lives.
 ---
-![normal.jpg]({{site.baseurl}}/img/normal.jpg)
+![Capture (Custom).PNG]({{site.baseurl}}/img/Capture (Custom).PNG)
 
 Stories are a great way to tell people about what our project does and how we are benefiting local families. Therefore, we are holding our annual celebration event, Changing Lives Together, on Friday 1 March 2019. The event is to celebrate the achievements of remarkable people who have made efforts to overcome personal barriers, all to improve theirs and their family’s lives. 
 
