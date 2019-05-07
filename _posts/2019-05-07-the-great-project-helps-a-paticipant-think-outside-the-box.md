@@ -12,7 +12,7 @@ summary: >-
 
 At the time of joining the GREAT Project, Shannon didn’t know what she wanted to do with her life or what career path she wanted to take, and she just wasn’t sure what options were out there for her. 
 
-“I didn’t know what I wanted to do in life, and this made me feel trapped. Because I didn’t have any passions, I just felt lost and fed-up.”
+> “I didn’t know what I wanted to do in life, and this made me feel trapped. Because I didn’t have any passions, I just felt lost and fed-up.”
 
 Shannon first came into contact with the GREAT Project at Coalville JobCentre, when a project sign-up day was held there. After talking to staff about the project and all it can offer, Shannon decided to refer herself. Diana was appointed Shannon’s Employment Support Officer (ESO), and the pair soon met to talk about what barriers Shannon was facing. This helped Diana devise a support plan tailored to Shannon’s needs.
 
@@ -20,11 +20,11 @@ Once on the project, Shannon started off by attending work club sessions, delive
 
 Speaking of her time on the project, Shannon said: 
 
-“The GREAT Project helped me believe in myself and helped me find new passions I never thought would have been for me. They opened my eyes to new opportunities and encouraged me to try things that might not always be my first choice, because sometimes you find that it actually is an interest to you. I can’t recommend it enough.” 
+> “The GREAT Project helped me believe in myself and helped me find new passions I never thought would have been for me. They opened my eyes to new opportunities and encouraged me to try things that might not always be my first choice, because sometimes you find that it actually is an interest to you. I can’t recommend it enough.”
 
 
 Diana said:
 
-“The transformation I have seen in Shannon is amazing. She’s gone from feeling lost to enjoying a new career she never thought she’d enjoy. I’m so happy we were able to support Shannon and she has a career she likes.”
+> “The transformation I have seen in Shannon is amazing. She’s gone from feeling lost to enjoying a new career she never thought she’d enjoy. I’m so happy we were able to support Shannon and she has a career she likes.”
 
 Shannon has now completed her time with the GREAT Project, and found employment as a cleaner for an emergency services depot.   
