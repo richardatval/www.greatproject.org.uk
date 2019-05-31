@@ -6,7 +6,7 @@ published: true
 title: 'The GREAT Project launches their #BehindEveryGREATMan campaign'
 summary: >-
   There's men out there that are facing multiple barriers and need support, but
-  are perhaps worried about reaching out. That's why we're launching our
+  are perhaps worried about reaching out.
 ---
 ![]({{site.baseurl}}/img/P1210450%20(Custom)%20(1).jpg)
 
