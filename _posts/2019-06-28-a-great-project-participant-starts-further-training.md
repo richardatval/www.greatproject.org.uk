@@ -4,7 +4,9 @@ thumbnail-image: /img/P1180468 (Custom) (1).JPG
 layout: default
 published: true
 title: A GREAT Project participant starts further training
-summary: A GREAT Project participant starts studying for a maths qualification.
+summary: >-
+  A GREAT Project participant completes her time with the project and starts
+  studying for a maths qualification.
 ---
 ![P1180468 (Custom).JPG]({{site.baseurl}}/img/P1180468 (Custom).JPG)
 
