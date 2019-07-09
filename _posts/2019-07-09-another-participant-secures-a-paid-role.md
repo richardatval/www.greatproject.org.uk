@@ -1,6 +1,6 @@
 ---
 date: '2019-07-09 16:38 +0100'
-thumbnail-image: img/P1180325%20(Custom)%20(1).JPG
+thumbnail-image: /img/P1180325%20(Custom)%20(1).JPG
 layout: default
 published: true
 title: 'Another participant secures a paid role! '
