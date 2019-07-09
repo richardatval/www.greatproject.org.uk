@@ -8,7 +8,7 @@ summary: >-
   A GREAT Project participant completes a work placement and secures a paid
   role.
 ---
-![]({{site.baseurl}}/img/P1180325%20(Custom).JPG)
+![P1180325 (Custom) (2).JPG]({{site.baseurl}}/img/P1180325 (Custom) (2).JPG)
 
 Shauna is a young adult living at home with her father and had been out of work for 18 months prior to joining the GREAT Project. She was struggling to find work and found herself going round in circles when applying for jobs; she was consistently putting in the effort, but not getting anywhere. Shauna was continuously told differing opinions when it came to her CV, making her have doubts when it came to applying for roles. 
 
