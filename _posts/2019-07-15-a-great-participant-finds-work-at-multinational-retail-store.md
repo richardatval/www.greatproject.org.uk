@@ -8,7 +8,7 @@ summary: >-
   After taking part in a behind the scenes tour, a GREAT participant finds paid
   employment.
 ---
-![]({{site.baseurl}}/img/P1160676%20(Custom).jpg)
+![]({{site.baseurl}}/img/P1160676%20(Custom)%20(2).jpg)
 
 Before joining the GREAT Project, Harpreet was a stay-at-home mum looking after her young son. Although Harpreet has a degree in fine art print making, she felt she lacked the confidence she needed to find work. Harpreet came into contact with the GREAT Project through her local children’s centre, and explained that she wanted help to build her confidence and general support to help her get back into the world and find a job.
 
