@@ -3,7 +3,7 @@ date: '2019-07-25 13:46 +0100'
 thumbnail-image: /img/P1170708%20(Custom)small.jpg
 layout: default
 published: true
-title: ''
+title: Helping young adults find employment
 summary: The GREAT Project helps a young adult find employment.
 ---
 ![]({{site.baseurl}}/img/P1170708%20(Custom)%20large.jpg)
