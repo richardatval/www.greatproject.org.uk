@@ -8,22 +8,26 @@ summary: The GREAT Project improves one participants life in an unexpected way.
 ---
 ![P1170378 (Custom).JPG]({{site.baseurl}}/img/P1170378 (Custom).JPG)
 
-Before joining the GREAT Project, Harpreet was a stay-at-home mum looking after her young son. Although Harpreet has a degree in fine art print making, she felt she lacked the confidence she needed to find work. Harpreet came into contact with the GREAT Project through her local children’s centre, and explained that she wanted help to build her confidence and general support to help her get back into the world and find a job.
 
-> “I didn’t know such services actually existed. I was so glad and happy that I actually took the step to find out what the GREAT Project was all about.”
+Before joining the GREAT Project, Poonam was a stay-at-home mum of three and had plenty of work experience in differing industries. However, Poonam had been unemployed since having her third child. With her youngest due to start school in September, she decided now was the time to do something for herself. 
 
-Harpreet was soon introduced to her Employment Support Officer, Leah, and together, they devised a plan tailored to Harpreet’s needs. She soon began attending the various workshops on offer, including sessions on interview skills and returning to work - covering best practices, what to expect and making a good impression. Harpreet also worked with delivery partner, Business in the Community, and attended a behind the scenes tour at a multinational retail organisation based in Leicester. 
+> “I wanted to do something on my own - everyone knows me as mum or wife, but I wanted to do something for me.”
 
-Harpreet also attended a three-day confidence building course. Here, participants need to communicate and work together to overcome various tasks. This encourages them to speak freely and form bonds with one another. It’s also good to help them understand what qualities they hold, such as being a good leader or being able to think strategically. Harpreet also utilised the childcare provision the GREAT Project provides, making the sessions far more accessible for her, as childcare was one of her barriers. 
+Poonam knew she wanted to find a role within social care, but felt she didn’t have enough confidence to start looking for jobs. She joined the GREAT Project after hearing about it at her children’s primary school. Poonam soon referred herself with the hopes she’d be able to access support with writing a CV, help with looking for jobs and help to prepare her for interviews. 
 
-Harpreet feels that joining the project benefitted her greatly; she learnt how to converse with others, gained confidence when it came to interviews and learnt what skills she already possessed.  
+Poonam soon met with Chantal, a GREAT Project team leader, who created a tailored support plan based on her needs. Poonam began attending sessions on interview techniques, managing return to work and confidence building, all delivered by in-house Employment Coordinators. She also had one-to-one Work Club sessions, where she accessed the support she wanted with writing her CV and cover letter. 
 
-Reflecting on the project, Harpreet said: 
+Poonam found that not only was her confidence increasing, but the GREAT Project was able to support her with other barriers she faced. As the GREAT Project covers transport costs and can provide childcare, Poonam was able to access all the sessions Chantal recommended to her without the additional worry these issues could have caused. Poonam was able to attend the sessions feeling relaxed; having her expenses covered and her children cared for meant she could completely focus on the task at hand.
 
-> “If you’re considering joining a programme like this, then join the GREAT Project. Learning more about the skills I already possessed and talking to others in a similar situation helped me no end. Take the step to join, because there’s nothing to lose but plenty to gain.”
+Poonam has seen the biggest increase in her confidence, and credits the group working as the reason for this. She feels that working in a team has given her the motivation to speak to others and she now has the confidence to put this into practice and form new friendships. 
 
-Leah, speaking of Harpreet’s time on the project, said: 
+> “I’ve learnt how to talk to strangers; I’ve even approached a lady on her own at the playground and now we go walking together.”
 
-> “Harpreet is a perfect example of what can be achieved with the GREAT Project’s support. She started as a stay-at-home mum and has now secured a role at one of Leicester’s largest organisations. She knew what she wanted to achieve and worked hard to make it happen, and I couldn’t be prouder of her.”
+Whilst on the project, Poonam also forged strong friendships with other participants. They all now go for regular walks together after dropping their children at school. They regularly share stories on their time with the project and any advancements they’ve made with their job search.  
 
-Harpreet completed her time with the project and secured a paid role at the retail organisation she visited.
+Reflecting on Poonam’s time with the project, Chantal said: 
+
+> “It has been great to see how much confidence Poonam now has. She is able to see employment as an achievable goal and with her new found confidence, it won’t be long before she is in work.”
+
+Poonam has completed her time with the project and has taken away the skills she wanted to learn, as well as a new friendship circle. 
+
