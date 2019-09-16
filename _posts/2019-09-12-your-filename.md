@@ -5,7 +5,7 @@ layout: default
 published: true
 title: GREAT Project participant finds work
 ---
-![P1190961 (Custom) (2).JPG]({{site.baseurl}}/img/P1190961 (Custom) (2).JPG)
+![]({{site.baseurl}}/img/P1190961%20(Custom).JPG)
 
 Ella was unemployed and living at home with her mum and younger sister at the time of joining the GREAT Project. She hadn’t worked for a while but was ready to find a paid role that would allow her to continue caring for her disabled mum.
 
@@ -28,4 +28,4 @@ Speaking of Ella’s time on the project, Chantal said:
 Ella completed her time with the project and found employment at a local hotel, offering her the flexibility she needed. Ella attributes her success with finding a job to the confidence building course, and hopes to continue building on her confidence and self-esteem.
 
 
-*Names have been changed to protect the identity of the participant.  
+*Names have been changed to protect the identity of the participant.
