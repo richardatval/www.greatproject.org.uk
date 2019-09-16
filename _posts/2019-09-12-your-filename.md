@@ -1,11 +1,11 @@
 ---
 date: '2019-09-12 15:00 +0100'
-thumbnail-image: img/P1190961 (Custom).JPG
+thumbnail-image: /img/P1190961 (Custom).JPG
 layout: default
 published: true
 title: GREAT Project participant finds work
 ---
-![]({{site.baseurl}}/img/P1190961%20(Custom).JPG)
+![]({{site.baseurl}}/img/P1190961%20(Custom)%20(2).JPG)
 
 Ella was unemployed and living at home with her mum and younger sister at the time of joining the GREAT Project. She hadn’t worked for a while but was ready to find a paid role that would allow her to continue caring for her disabled mum.
 
