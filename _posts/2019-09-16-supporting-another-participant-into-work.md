@@ -1,6 +1,6 @@
 ---
 date: '2019-09-16 10:22 +0100'
-thumbnail-image: /img/P1190961%20(Custom).JPG)
+thumbnail-image: /img/P1190961%20(Custom).JPG
 layout: default
 published: true
 title: Supporting another participant into work
@@ -30,5 +30,4 @@ Speaking of Ella’s time on the project, Chantal said:
 Ella completed her time with the project and found employment at a local hotel, offering her the flexibility she needed. Ella attributes her success with finding a job to the confidence building course, and hopes to continue building on her confidence and self-esteem.
 
 
-*Names have been changed to protect the identity of the participant.  
-
+*Names have been changed to protect the identity of the participant.
