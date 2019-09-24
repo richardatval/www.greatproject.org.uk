@@ -1,6 +1,6 @@
 ---
 date: '2019-09-24 11:03 +0100'
-thumbnail-image: img/P1200259%20(Custom).JPG
+thumbnail-image: /img/P1200259%20(Custom).JPG
 layout: default
 published: true
 title: A participant finds full-time role
