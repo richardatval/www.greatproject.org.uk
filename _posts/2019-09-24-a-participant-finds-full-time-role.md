@@ -6,7 +6,7 @@ published: true
 title: A participant finds full-time role
 summary: A GREAT Project participant finds full-time role at a local food manufacturer
 ---
-![P1200259 (Custom) (1).JPG]({{site.baseurl}}/img/P1200259 (Custom) (1).JPG)
+![]({{site.baseurl}}/img/P1200259%20(Custom)%20(1).JPG)
 
 When Simon joined the GREAT Project, he had been unemployed for over a year and felt he was ready to get back into employment. He was open to looking for work in a variety of different industries, but wanted help with his confidence, CV and job search skills to help him on his way.  
 
